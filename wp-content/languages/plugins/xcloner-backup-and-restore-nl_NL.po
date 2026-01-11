@@ -1,0 +1,1567 @@
+# Translation of Plugins - Backup, Restore and Migrate your sites with XCloner - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Backup, Restore and Migrate your sites with XCloner - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-23 07:50:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Backup, Restore and Migrate your sites with XCloner - Development (trunk)\n"
+
+#: admin/partials/remote_storage/gdrive.php:42
+msgid "Click the Google Sign-in button below to complete the 1-time integration."
+msgstr "Klik op de knop \"Aanmelden bij Google\" hieronder om de eenmalige integratie te voltooien."
+
+#: admin/partials/xcloner_restore_page.php:176
+msgid "Please select a remote backup archive to restore"
+msgstr "Selecteer een extern back-up archief om terug te zetten"
+
+#: admin/partials/xcloner_header.php:58 lib/Xcloner.php:604
+msgid "Clone Site"
+msgstr "Kloon site"
+
+#: admin/partials/xcloner_header.php:52 lib/Xcloner.php:603
+msgid "Restore Site"
+msgstr "Site terugzetten"
+
+#: admin/partials/xcloner_restore_page.php:36
+msgid "Please "
+msgstr "Gelieve "
+
+#: admin/partials/xcloner_generate_backups_page.php:433
+#: admin/partials/xcloner_restore_page.php:509
+msgid "Get support"
+msgstr "Krijg ondersteuning"
+
+#: admin/partials/xcloner_generate_backups_page.php:427
+#: admin/partials/xcloner_restore_page.php:503
+msgid "Leave a review"
+msgstr "Laat een beoordeling achter"
+
+#: admin/partials/remote_storage/backblaze.php:79
+#: admin/partials/remote_storage/backblaze.php:82
+msgid "Backblaze Bucket ID"
+msgstr "Backblaze bucket id"
+
+#: lib/Xcloner_Settings.php:289
+msgid "This option will completelly remove all existing XCloner options and set them back to a default state."
+msgstr "Deze optie verwijdert alle bestaande XCloner opties en zet ze terug naar de standaard status."
+
+#: lib/Xcloner_Settings.php:289
+msgid "Restore Default Settings"
+msgstr "Standaard instellingen terugzetten"
+
+#: lib/Xcloner_Api.php:716
+msgid "Transfer a copy of the remote backup to local storage."
+msgstr "Een kopie van de externe back-up overbrengen naar de lokale opslag."
+
+#: lib/Xcloner_Api.php:660 lib/Xcloner_Api.php:674
+msgid "This backup archive does not exist on your local server. If you wish to retain local copies of your backup archives as well as remote copies, please disable local clean-up in the main XCloner settings and/or your scheduled backup profile settings."
+msgstr "Dit back-uparchief bestaat niet op je lokale server. Als je zowel lokale kopieën van je back-uparchieven als kopieën op afstand wilt bewaren, schakel dan lokale opschoning uit in de hoofdinstellingen van XCloner en/of de instellingen van je geplande back-up profiel."
+
+#: admin/partials/xcloner_restore_page.php:280
+msgid "Restore Database"
+msgstr "Database terugzetten"
+
+#: admin/partials/xcloner_restore_page.php:189
+msgid "Restore all backup files"
+msgstr "Alle back-up bestanden terugzetten"
+
+#: admin/partials/remote_storage/webdav.php:71
+#: admin/partials/remote_storage/webdav.php:74
+msgid "WebDAV Target Path"
+msgstr "WebDAV doelpad"
+
+#: admin/partials/remote_storage/webdav.php:39
+msgid "WebDAV Service Url like https://webdav.yandex.com"
+msgstr "WebDAV Dienst Url zoals https://webdav.yandex.com"
+
+#: lib/Xcloner.php:598
+msgid "Backup Settings"
+msgstr "Back-up instellingen"
+
+#: admin/partials/remote_storage/backblaze.php:41
+#: admin/partials/remote_storage/backblaze.php:44
+msgid "Backblaze KeyID"
+msgstr "Backblaze sleutel id"
+
+#: admin/partials/remote_storage/backblaze.php:29
+msgid "Visit %s and get your KeyID and  applicationKey."
+msgstr "Bezoek %s en vraag je KeyID en applicationKey op."
+
+#: admin/partials/remote_storage/aws.php:97
+msgid "S3 Custom Region, ex: af-south-1"
+msgstr "S3 aangepaste regio, bijvoorbeeld: af-south-1"
+
+#: admin/partials/remote_storage/aws.php:94
+msgid "S3 Custom Region"
+msgstr "S3 aangepaste regio"
+
+#: lib/Xcloner.php:274
+msgid "Unable to write to the Backup Storage Location Folder %s . This will automatically be fixed using a default path."
+msgstr "Kan niet schrijven naar de map %s van de back-up opslaglocatie. Dit wordt automatisch hersteld met een standaardpad."
+
+#: lib/Xcloner.php:266
+msgid "Unable to create the Backup Storage Location Folder %s . This will automatically be fixed using a default path."
+msgstr "Kan de back-up opslaglocatie map %s niet maken. Dit wordt automatisch hersteld met een standaardpad."
+
+#: admin/partials/xcloner_generate_backups_page.php:379
+msgid "Transferrring backup to remote storage..."
+msgstr "Back-up overbrengen naar externe opslag..."
+
+#: admin/partials/xcloner_header.php:28 lib/Xcloner.php:599
+msgid "Storage Locations"
+msgstr "Opslaglocaties"
+
+#: lib/Xcloner.php:544
+msgid "OneDrive successfully authenticated, please click <a href=\"%s\">here</a> to continue"
+msgstr "OneDrive succesvol geauthenticeerd, klik <a href=\"%s\">hier</a> om verder te gaan"
+
+#: lib/Xcloner.php:535 lib/Xcloner.php:547
+msgid "There was a communication error with the OneDrive API details."
+msgstr "Er is een communicatiefout opgetreden met de OneDrive API details."
+
+#: admin/partials/remote_storage/onedrive.php:75
+msgid "OneDrive Storage Folder Path"
+msgstr "OneDrive opslag map pad"
+
+#: admin/partials/remote_storage/onedrive.php:72
+msgid "OneDrive Storage Folder"
+msgstr "OneDrive opslag map"
+
+#: admin/partials/remote_storage/onedrive.php:65
+msgid "Authorize OneDrive"
+msgstr "OneDrive machtigen"
+
+#: admin/partials/remote_storage/onedrive.php:48
+#: admin/partials/remote_storage/onedrive.php:51
+msgid "OneDrive Client Secret"
+msgstr "OneDrive client geheim"
+
+#: admin/partials/remote_storage/onedrive.php:36
+#: admin/partials/remote_storage/onedrive.php:39
+msgid "OneDrive Client ID"
+msgstr "OneDrive client ID"
+
+#: admin/partials/remote_storage/onedrive.php:28
+msgid ""
+"Visit <a href=\"%s\" target=\"_blank\">Microsoft Azure App Registrations</a> and get your Client ID and Client Secret. More details on setting up the code flow authentication can be found <a href=\"%s\">here</a>. \n"
+"                                    Make sure to also add the %s to the Authentication->Redirect URIs area"
+msgstr ""
+"Ga naar <a href=\"%s\" target=\"_blank\">Microsoft Azure app registraties</a> en vraag je klant ID en klant geheim op. Meer details over het instellen van het verificatie en hoe dit kan worden doorlopen vindt je <a href=\"%s\">hier</a>. \n"
+"                                    Zorg ervoor dat je ook de %s toevoegt aan het Authenticatie->Omleiding URI's gebied"
+
+#: admin/partials/remote_storage/onedrive.php:8
+msgid "OneDrive Storage"
+msgstr "OneDrive opslag"
+
+#: admin/partials/remote_storage/local.php:8
+msgid "Local Storage"
+msgstr "Lokale opslag"
+
+#: admin/partials/xcloner_restore_page.php:452
+msgid "Delete Backup Archive"
+msgstr "Back-up archief verwijderen"
+
+#: admin/partials/xcloner_header.php:34 lib/Xcloner.php:601
+msgid "Schedules & Profiles"
+msgstr "Schema's & profielen"
+
+#: admin/partials/xcloner_restore_page.php:41
+msgid "download the restore script"
+msgstr "het terugzet script downloaden"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:170
+msgid "Delete Local Copy After Transfer"
+msgstr "Lokale kopie verwijderen na overdracht"
+
+#: admin/partials/remote_storage/aws.php:8
+msgid "Amazon S3 Storage"
+msgstr "Amazon S3 opslag"
+
+#: admin/partials/xcloner_remote_storage_page.php:15
+msgid "days of month, comma separated"
+msgstr "dagen van de maand, komma gescheiden"
+
+#: admin/partials/xcloner_remote_storage_page.php:20
+msgid "Keep backups taken on days"
+msgstr "Bewaar back-ups op dagen"
+
+#: admin/partials/xcloner_remote_storage_page.php:14
+msgid "delete backup over specified limit"
+msgstr "back-up verwijderen boven opgegeven limiet"
+
+#: admin/partials/xcloner_remote_storage_page.php:13
+msgid "how many backup files to keep"
+msgstr "hoeveel back-up bestanden te bewaren"
+
+#: admin/partials/xcloner_remote_storage_page.php:17
+msgid "Cleanup by Age"
+msgstr "Opruimen per leeftijd"
+
+#: admin/partials/xcloner_generate_backups_page.php:518
+msgid "Save Schedule"
+msgstr "Schema opslaan"
+
+#: admin/partials/xcloner_generate_backups_page.php:470
+#: admin/partials/xcloner_scheduled_backups_page.php:26
+msgid "Profile Name"
+msgstr "Profielnaam"
+
+#: admin/partials/xcloner_generate_backups_page.php:199
+msgid "Delete local backup file after transfer"
+msgstr "Lokaal back-up bestand verwijderen na overdracht"
+
+#: admin/partials/xcloner_generate_backups_page.php:181
+msgid "Delete local copy after transfer"
+msgstr "Verwijder de lokale kopie na overdracht"
+
+#: admin/partials/xcloner_generate_backups_page.php:170
+msgid "Transfer backup to the remote storage destintion once finished."
+msgstr "Breng de back-up over naar de externe opslagbestemming zodra deze klaar is."
+
+#: lib/Xcloner_Settings.php:257
+msgid "Attempt to generate a full site backup before applying automatic core updates."
+msgstr "Probeer een volledige site back-up te maken voordat je automatische core updates toepast."
+
+#. Plugin URI of the plugin
+#: xcloner.php
+msgid "https://xcloner.com/"
+msgstr "https://xcloner.com/"
+
+#. Author URI of the plugin
+#: xcloner.php
+msgid "https://watchful.net/"
+msgstr "https://watchful.net/"
+
+#. Author of the plugin
+#: xcloner.php
+msgid "watchful"
+msgstr "watchful"
+
+#: admin/partials/xcloner_manage_backups_page.php:138
+msgid "Decryption Key"
+msgstr "Decoderings sleutel"
+
+#: admin/partials/xcloner_manage_backups_page.php:136
+msgid "Provide Alternative Decryption Key:"
+msgstr "Geef een alternatieve decoderings sleutel op:"
+
+#: admin/partials/xcloner_generate_backups_page.php:360
+msgid "Encrypting Backup Data..."
+msgstr "Back-up gegevens versleutelen..."
+
+#: admin/partials/xcloner_generate_backups_page.php:126
+msgid "Enable this option if you want to encrypt the final backup"
+msgstr "Schakel deze optie in als je de definitieve back-up wilt versleutelen"
+
+#: admin/partials/xcloner_generate_backups_page.php:109
+#: admin/partials/xcloner_scheduled_backups_page.php:116
+msgid "Encrypt Backup"
+msgstr "Back-up versleutelen"
+
+#: lib/Xcloner_Settings.php:253
+msgid "Backup Encryption Key used to Encrypt/Decrypt backups, you might want to save this somewhere else as well."
+msgstr "Back-up encryptiesleutel die wordt gebruikt om back-ups te coderen/decoderen. Mogelijk wil je deze ook ergens anders opslaan."
+
+#: lib/Xcloner_Api.php:742
+msgid "Backup archive is encrypted, please decrypt it first before you can list it's content."
+msgstr "Het back-up archief is gecodeerd. Decodeer het eerst voordat je de inhoud ervan kunt weergeven."
+
+#: admin/partials/remote_storage/gdrive.php:85
+msgid "Automatically Empty Trash?"
+msgstr "Prullenbak automatisch legen?"
+
+#: admin/partials/xcloner_manage_backups_page.php:142
+msgid "START DECRYPTION"
+msgstr "START DECRYPTIE"
+
+#: admin/partials/xcloner_manage_backups_page.php:133
+msgid "This option will decrypt your backup archive with your current XCloner Encryption Key or the key provided below, requires PHP openssl library installed."
+msgstr "Deze optie decodeert je back-up archief met je huidige XCloner coderings sleutel of de onderstaande sleutel, het is vereist dat de PHP openssl-bibliotheek is geïnstalleerd."
+
+#: admin/partials/xcloner_manage_backups_page.php:125
+msgid "Backup Content Decryption"
+msgstr "Decodering back-up inhoud"
+
+#: admin/partials/xcloner_manage_backups_page.php:114
+msgid "START ENCRYPTION"
+msgstr "START ENCRYPTIE"
+
+#: admin/partials/xcloner_manage_backups_page.php:110
+msgid "This option will encrypt your backup archive with your current XCloner Encryption Key."
+msgstr "Deze optie codeert je back-up archief met je huidige XCloner coderings sleutel."
+
+#: admin/partials/xcloner_manage_backups_page.php:102
+msgid "Backup Content Encryption"
+msgstr "Versleuteling back-up inhoud"
+
+#: lib/Xcloner_Api.php:683 lib/Xcloner_Api.php:711
+msgid "Backup Encryption"
+msgstr "Back-up encryptie"
+
+#: lib/Xcloner_Api.php:680 lib/Xcloner_Api.php:708
+msgid "Backup Decryption"
+msgstr "Back-up decryptie"
+
+#: lib/Xcloner_Settings.php:287
+msgid "Enable this option if you want the XCloner to NOT send email notifications on successful backups"
+msgstr "Schakel deze optie in als je wilt dat XCloner GEEN e-mail meldingen verzendt na succesvolle back-ups"
+
+#: lib/Xcloner_Settings.php:287
+msgid "Disable Email Notifications"
+msgstr "Meldingen via e-mail uitschakelen"
+
+#: lib/Xcloner_Settings.php:253
+msgid "Backup Encryption Key"
+msgstr "Back-up encryptie sleutel"
+
+#: admin/partials/remote_storage/gdrive.php:101
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: admin/partials/remote_storage/gdrive.php:93
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: admin/partials/remote_storage/aws.php:66
+msgid "Please Select AWS S3 Region or Leave Unselected for Custom Endpoint"
+msgstr "Selecteer AWS S3 regio of laat de selectie ongeselecteerd voor aangepast eindpunt"
+
+#: admin/partials/remote_storage/aws.php:121
+msgid "S3 Prefix, use / ending to define a folder"
+msgstr "S3 voorvoegsel, gebruik / einde om een map te definiëren"
+
+#: admin/partials/remote_storage/aws.php:117
+msgid "S3 Prefix"
+msgstr "S3 voorvoegsel"
+
+#: admin/partials/remote_storage/aws.php:59
+msgid "S3 Region"
+msgstr "S3 regio"
+
+#: admin/partials/remote_storage/aws.php:87
+msgid "S3 EndPoint, leave blank if you want to use the default Amazon AWS Service"
+msgstr "S3 endpoint, laat dit leeg als je de standaard Amazon AWS dienst wil gebruiken"
+
+#: admin/partials/remote_storage/aws.php:83
+msgid "S3 EndPoint"
+msgstr "S3 endpoint"
+
+#: admin/partials/remote_storage/aws.php:47
+#: admin/partials/remote_storage/aws.php:50
+msgid "S3 Secret"
+msgstr "S3 geheim"
+
+#: admin/partials/remote_storage/aws.php:36
+#: admin/partials/remote_storage/aws.php:39
+msgid "S3 Key"
+msgstr "S3 sleutel"
+
+#: admin/partials/remote_storage/aws.php:29
+msgid "Visit %s and get your \"Key\" and \"Secret <br />Visit %s to install your own S3 like service."
+msgstr "Bezoek %s en ontvang je \"Sleutel\" en \"Geheim\". <br />Ga naar %s om je eigen S3 achtige dienst te installeren."
+
+#: lib/Xcloner_Archive.php:222
+msgid "Error Message: %s"
+msgstr "Fout bericht: %s"
+
+#: lib/Xcloner_Archive.php:220 lib/Xcloner_Archive.php:283
+msgid "Backup Site Url: %s"
+msgstr "URL back-up site: %s"
+
+#: lib/Xcloner_Settings.php:257
+msgid "Generate Backups before Automatic WP Upgrades"
+msgstr "Genereer back-ups vóór automatische WP upgrades"
+
+#: admin/partials/xcloner_restore_page.php:238
+msgid "Restore the database-sql.sql mysql backup from the xcloner-xxxxx/ folder"
+msgstr "Zet de mysql back-up van database-sql.sql vanuit de map xcloner-xxxxx/ terug"
+
+#: admin/partials/xcloner_restore_page.php:228
+msgid "Restore the files only of the wp-content/themes/ folder"
+msgstr "Zet alleen de bestanden van de map wp-content/themes/ terug"
+
+#: admin/partials/xcloner_restore_page.php:218
+msgid "Restore the files only of the wp-content/uploads/ folder only"
+msgstr "Zet alleen de bestanden van de map wp-content/uploads/ terug"
+
+#: admin/partials/xcloner_restore_page.php:208
+msgid "Restore the files only of the wp-content/plugins/ folder"
+msgstr "Alleen de bestanden terugzetten van de map wp-content/plugins/"
+
+#: admin/partials/xcloner_restore_page.php:202
+msgid "Only wp-content"
+msgstr "Alleen wp-content"
+
+#: admin/partials/xcloner_restore_page.php:198
+msgid "Restore the files only of the wp-content/ folder"
+msgstr "Alleen de bestanden van de map wp-content/ terugzetten"
+
+#: admin/partials/xcloner_restore_page.php:45
+msgid "Extract the restore script archive files on your new host"
+msgstr "Pak de archiefbestanden van het terugzet script uit op je nieuwe host"
+
+#: admin/partials/xcloner_restore_page.php:192
+msgid "Restore All Files"
+msgstr "Herstel alle bestanden"
+
+#: admin/partials/xcloner_restore_page.php:168
+msgid "Click To List The Selected Backup Content"
+msgstr "Klik om de geselecteerde back-up inhoud weer te geven"
+
+#. Description of the plugin
+#: xcloner.php
+msgid "XCloner is a tool that will help you manage your website backups, generate/restore/move so your website will be always secured! With XCloner you will be able to clone your site to any other location with just a few clicks, as well as transfer the backup archives to remote FTP, SFTP, DropBox, Amazon S3, Google Drive, WebDAV, Backblaze, Azure accounts."
+msgstr "XCloner is een hulpprogramma waarmee je back-ups van je site kunt beheren, genereren/herstellen/verplaatsen, zodat je site altijd veilig is! Met XCloner kun je met een paar klikken je site klonen naar een andere locatie en de back-up archieven overzetten naar externe opslag via FTP, SFTP, DropBox, Amazon S3, Google Drive, WebDAV, Backblaze en Azure accounts."
+
+#. Plugin Name of the plugin
+#: xcloner.php
+msgid "XCloner - Site Backup and Restore"
+msgstr "XCloner - Site Backup and Restore"
+
+#: xcloner.php:63
+msgid "XCloner requires minimum PHP version %s in order to run correctly. We have detected your version as %s. Plugin is now deactivated."
+msgstr "XCloner heeft minimaal PHP versie %s nodig om correct te kunnen werken. We hebben gedetecteerd dat je versie %s is. De plugin is nu gedeactiveerd."
+
+#: lib/Xcloner.php:585
+msgid "Twice Daily"
+msgstr "Tweemaal daags"
+
+#: lib/Xcloner.php:583
+msgid "Once Monthly"
+msgstr "Eens per maand"
+
+#: lib/Xcloner.php:581
+msgid "Once Weekly"
+msgstr "Wekelijks"
+
+#: lib/Xcloner_Settings.php:374
+msgid "Cron frequency"
+msgstr "Cron frequentie"
+
+#: admin/partials/xcloner_remote_storage_page.php:19
+msgid "Cleanup by Capacity(MB)"
+msgstr "Opschonen naar capaciteit (MB)"
+
+#: admin/partials/xcloner_remote_storage_page.php:18
+msgid "Cleanup by Quantity"
+msgstr "Opschonen naar hoeveelheid"
+
+#: lib/Xcloner_Settings.php:285
+msgid "Enable this option if you want the XCloner Temporary Path to be within your XCloner Storage Location"
+msgstr "Schakel deze optie in als je wilt dat het tijdelijke pad van XCloner binnen je XCloner opslag locatie ligt."
+
+#: lib/Xcloner_Settings.php:285
+msgid "Force Temporary Path Within XCloner Storage"
+msgstr "Tijdelijk pad binnen XCloner opslag forceren"
+
+#: lib/Xcloner_Settings.php:283
+msgid "Use this option to automatically split the backup archive into smaller parts. Range  0-10000 MB"
+msgstr "Gebruik deze optie om het back-up archief automatisch op te splitsen in kleinere delen. Bereik 0-10000 MB"
+
+#: lib/Xcloner_Settings.php:283
+msgid "Split Backup Archive Limit (MB)"
+msgstr "Limiet voor gesplitst back-up archief (MB)"
+
+#: lib/Xcloner_Settings.php:281
+msgid "Use this option to automatically exclude files larger than a certain size in MB, or set to 0 to include all. Range 0-1000 MB"
+msgstr "Gebruik deze optie om automatisch bestanden uit te sluiten die groter zijn dan een bepaalde grootte in MB, of stel in op 0 om alle bestanden in te sluiten. Bereik 0-1000 MB"
+
+#: lib/Xcloner_Settings.php:281
+msgid "Exclude files larger than (MB)"
+msgstr "Bestanden groter dan (MB) uitsluiten"
+
+#: lib/Xcloner_Settings.php:268
+msgid "Use this option to set how many database table records should be fetched per AJAX request, or set to 0 to fetch all.  Range 0-100000 records"
+msgstr "Gebruik deze optie om in te stellen hoeveel records van database tabellen moeten worden opgehaald per AJAX aanvraag, of stel in op 0 om alles op te halen.  Bereik 0-100000 records"
+
+#: lib/Xcloner_Settings.php:268
+msgid "Database Records Per Request"
+msgstr "Database bestanden per aanvraag"
+
+#: lib/Xcloner_Settings.php:266
+msgid "Use this option to set how many directories XCloner should scan at one time before doing another AJAX call"
+msgstr "Gebruik deze optie om in te stellen hoeveel mappen XCloner in één keer moet scannen voordat er weer een AJAX aanvraag wordt gedaan."
+
+#: lib/Xcloner_Settings.php:266
+msgid "Directories To Scan Per Request"
+msgstr "Mappen om te scannen per aanvraag"
+
+#: lib/Xcloner_Settings.php:264
+msgid "Use this option to set how many files XCloner should process at one time before doing another AJAX call"
+msgstr "Gebruik deze optie om in te stellen hoeveel bestanden XCloner in één keer moet verwerken voordat er weer een AJAX aanvraag wordt gedaan."
+
+#: lib/Xcloner_Settings.php:264
+msgid "Files To Process Per Request"
+msgstr "Te verwerken bestanden per aanvraag"
+
+#: lib/Xcloner_Settings.php:262
+msgid "Use this option to set how much file data can XCloner backup in one AJAX request. Range 0-1024 MB"
+msgstr "Gebruik deze optie om in te stellen hoeveel bestandsgegevens XCloner kan back-uppen in één AJAX aanvraag. Bereik 0-1024 MB"
+
+#: lib/Xcloner_Settings.php:262
+msgid "Data Size Limit Per Request"
+msgstr "Limiet gegevensgrootte per aanvraag"
+
+#: lib/Xcloner_Settings.php:259
+msgid "Regular expression match to exclude files and folders, example patterns provided below, one pattern per line"
+msgstr "Reguliere expressie om bestanden en mappen uit te sluiten, voorbeeld patronen hieronder, één patroon per regel"
+
+#: lib/Xcloner_Settings.php:259
+msgid "Regex Exclude Files"
+msgstr "Regex uitsluiten bestanden"
+
+#: lib/Xcloner_Settings.php:255
+msgid "Enable the XCloner Backup log. You will find it stored unde the Backup Storage Location, file %s"
+msgstr "Schakel de XCloner back-up log in. Je vindt het opgeslagen onder de back-up opslaglocatie, bestand %s"
+
+#: lib/Xcloner_Settings.php:255
+msgid "Enable XCloner Backup Log"
+msgstr "XCloner back-up log inschakelen"
+
+#: lib/Xcloner_Settings.php:251
+msgid "Options between [0-9]. Value 0 means no compression, while 9 is maximum compression affecting cpu load"
+msgstr "Opties tussen [0-9]. Waarde 0 betekent geen compressie, terwijl 9 maximale compressie is die de cpu belasting beïnvloedt."
+
+#: lib/Xcloner_Settings.php:251
+msgid "Backup Compression Level"
+msgstr "Back-up compressieniveau"
+
+#: lib/Xcloner_Settings.php:239
+msgid "These are advanced options recommended for developers!"
+msgstr "Dit zijn geavanceerde opties die worden aanbevolen voor ontwikkelaars!"
+
+#: lib/Xcloner_Settings.php:237 lib/Xcloner_Settings.php:248
+msgid " "
+msgstr " "
+
+#: lib/Xcloner_Scheduler.php:256
+msgid "%s - new backup generated %s"
+msgstr "%s - nieuwe back-up gegenereerd %s"
+
+#: lib/Xcloner_Remote_Storage.php:498
+msgid "Could not find folder ID by name %s"
+msgstr "Kon map ID met naam %s niet vinden"
+
+#: lib/Xcloner_Remote_Storage.php:213
+msgid "Could not delete data"
+msgstr "Kon gegevens niet verwijderen"
+
+#: lib/Xcloner_Remote_Storage.php:203
+msgid "Could not write data"
+msgstr "Kon gegevens niet schrijven"
+
+#: lib/Xcloner_Remote_Storage.php:196 lib/Xcloner_Remote_Storage.php:208
+msgid "Could not read data"
+msgstr "Kon gegevens niet lezen"
+
+#: lib/Xcloner_Remote_Storage.php:175
+msgid "%s connection is valid."
+msgstr "%s verbinding is geldig."
+
+#: lib/Xcloner_Remote_Storage.php:167
+msgid "%s storage settings saved."
+msgstr "%s opslag instellingen opgeslagen."
+
+#: admin/partials/xcloner_header.php:46 lib/Xcloner.php:602
+msgid "Generate Backups"
+msgstr "Back-ups genereren"
+
+#: admin/partials/xcloner_header.php:40 lib/Xcloner.php:600
+msgid "Manage Backups"
+msgstr "Beheer back-ups"
+
+#: admin/partials/xcloner_header.php:21 lib/Xcloner.php:555 lib/Xcloner.php:598
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/partials/xcloner_header.php:15 lib/Xcloner.php:597
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: lib/Xcloner.php:594
+msgid "Site Backup"
+msgstr "Site back-up"
+
+#: lib/Xcloner_Filesystem.php:504
+msgid "Excluding %s from the filesystem list, matching pattern %s"
+msgstr "Uitsluiten van %s uit de bestands systeemlijst, overeenkomend met patroon %s"
+
+#: lib/Xcloner_Filesystem.php:495
+msgid "Adding %s to the filesystem list"
+msgstr "%s toevoegen aan de bestands systeemlijst"
+
+#: lib/Xcloner_Filesystem.php:493
+msgid "Excluding %s from the filesystem list, file not readable"
+msgstr "Uitsluiten van %s uit de bestands systeemlijst, bestand niet leesbaar"
+
+#: lib/Xcloner_Filesystem.php:333
+msgid "Starting the filesystem scanner on root folder %s"
+msgstr "Bestands systeem scanner op hoofdmap %s starten"
+
+#: lib/Xcloner_Database.php:500
+msgid "Writing %s database dump headers"
+msgstr "Schrijven van %s database dump headers"
+
+#: lib/Xcloner_Database.php:431
+msgid "Dumping the structure for %s.%s table"
+msgstr "De structuur van tabel %s.%s dumpen"
+
+#: lib/Xcloner_Database.php:423
+msgid "Dumping %s records starting position %s from %s.%s table"
+msgstr "%s records dumpen met start positie %s uit %s.%s tabel"
+
+#: lib/Xcloner_Database.php:308
+msgid "Starting new backup dump to file %s"
+msgstr "Nieuwe back-up dump starten naar bestand %s"
+
+#: lib/Xcloner_Database.php:238
+msgid "Preparing the database recursion file"
+msgstr "Het database recursie bestand voorbereiden"
+
+#: lib/Xcloner_Database.php:224
+msgid "Excluding table %s.%s from backup"
+msgstr "Tabel %s.%s uitsluiten van back-up"
+
+#: lib/Xcloner_Database.php:163
+msgid "Getting number of tables in %s"
+msgstr "Het aantal tabellen in %s ophalen"
+
+#: lib/Xcloner_Database.php:153
+msgid "Setting mysql headers"
+msgstr "Mysql headers instellen"
+
+#: lib/Xcloner_Database.php:80
+msgid "Starting database backup process"
+msgstr "Database back-up proces wordt gestart"
+
+#: lib/Xcloner_Archive.php:358
+msgid "Opening for append the backup archive %s"
+msgstr "Opening voor het toevoegen aan het back-up archief %s"
+
+#: lib/Xcloner_Archive.php:354
+msgid "Initializing the backup archive %s"
+msgstr "Initialiseren van het back-up archief %s"
+
+#: lib/Xcloner_Archive.php:290
+msgid "Latest 50 Log Lines: "
+msgstr "Laatste 50 logregels: "
+
+#: lib/Xcloner_Archive.php:286
+msgid "Backup Comments: "
+msgstr "Back-up opmerkingen: "
+
+#: lib/Xcloner_Archive.php:276
+msgid "Backup Parts: %s"
+msgstr "Back-up delen: %s"
+
+#: lib/Xcloner_Archive.php:269
+msgid "Total files added: %s"
+msgstr "Totaal toegevoegde bestanden: %s"
+
+#: lib/Xcloner_Archive.php:266
+msgid "Generated Backup Size: %s"
+msgstr "Gegenereerde back-up grootte: %s"
+
+#: lib/Xcloner_Archive.php:263
+msgid "New backup generated %s"
+msgstr "Nieuwe back-up gegenereerd %s"
+
+#: lib/Xcloner_Api.php:466
+msgid "executed"
+msgstr "uitgevoerd"
+
+#: lib/Xcloner_Activator.php:28
+msgid "XCloner Activation Error"
+msgstr "Fout bij activering XCloner"
+
+#: lib/Xcloner_Activator.php:28
+msgid "XCloner requires minimum PHP version %s in order to run correctly. We have detected your version as %s"
+msgstr "XCloner heeft minimaal PHP versie %s nodig om correct te kunnen werken. We hebben versie %s gedetecteerd"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:229
+msgid "Save"
+msgstr "Opslaan"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:219
+msgid "Excluded Files"
+msgstr "Uitgesloten bestanden"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:210
+msgid "Included Database Data"
+msgstr "Inbegrepen database gegevens"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:182
+msgid "Email Notification Address"
+msgstr "Adres voor e-mail melding"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:132
+msgid "Schedule Recurrence"
+msgstr "Plan herhaling"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:125
+msgid "Schedule Start At"
+msgstr "Planning start om"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:92
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:89
+msgid "Scheduler Settings"
+msgstr "Planner instellingen"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:79
+msgid "On"
+msgstr "Aan"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:76
+msgid "Off"
+msgstr "Uit"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:69
+msgid "Edit Schedule"
+msgstr "Schema bewerken"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:54
+msgid "Current Server Time"
+msgstr "Huidige servertijd"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:31
+#: admin/partials/xcloner_scheduled_backups_page.php:43
+msgid "Status"
+msgstr "Status"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:30
+#: admin/partials/xcloner_scheduled_backups_page.php:42
+msgid "Last Backup"
+msgstr "Laatste back-up"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:29
+#: admin/partials/xcloner_scheduled_backups_page.php:41
+msgid "Remote Storage"
+msgstr "Externe opslag"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:28
+#: admin/partials/xcloner_scheduled_backups_page.php:40
+msgid "Next Execution"
+msgstr "Volgende uitvoering"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:27
+#: admin/partials/xcloner_scheduled_backups_page.php:39
+msgid "Recurrence"
+msgstr "Terugkerend"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:25
+#: admin/partials/xcloner_scheduled_backups_page.php:37
+msgid "ID"
+msgstr "ID"
+
+#: admin/partials/xcloner_scheduled_backups_page.php:10
+msgid "We have noticed that DISABLE_WP_CRON is disabled, we recommend enabling that and setting up wp-cron.php to run manually through your hosting account scheduler as explained <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "We hebben gemerkt dat DISABLE_WP_CRON is uitgeschakeld, we raden aan dat in te schakelen en wp-cron.php in te stellen om handmatig uit te voeren via de planner van je hosting account, zoals <a href=\"%s\" target=\"_blank\">hier</a> wordt uitgelegd."
+
+#: admin/partials/xcloner_restore_page.php:491
+msgid "Finish"
+msgstr "Voltooien"
+
+#: admin/partials/xcloner_restore_page.php:469
+msgid "Delete Restore Script"
+msgstr "Terugzet script verwijderen"
+
+#: admin/partials/xcloner_restore_page.php:435
+msgid "Delete Restored Backup Temporary Folder"
+msgstr "Tijdelijke map voor teruggezette back-up verwijderen"
+
+#: admin/partials/xcloner_restore_page.php:417
+msgid "Update wp-config.php mysql details and update the Target Site Url"
+msgstr "Update wp-config.php mysql details en update de doel site URL."
+
+#: admin/partials/xcloner_restore_page.php:411
+msgid "Finishing up..."
+msgstr "Afronden..."
+
+#: admin/partials/xcloner_restore_page.php:378
+msgid "Use the field below to fix your mysql query and Retry again the Restore, or replace with # to Skip next"
+msgstr "Gebruik het onderstaande veld om je mysql query te corrigeren en probeer het terugzetten opnieuw, of vervang door # om de volgende over te slaan"
+
+#: admin/partials/xcloner_restore_page.php:364
+msgid "Please select the target database backup file to restore"
+msgstr "Selecteer het doel database back-up bestand om te terug te zetten"
+
+#: admin/partials/xcloner_restore_page.php:352
+msgid "With Target Site Url"
+msgstr "Met doel site URL"
+
+#: admin/partials/xcloner_restore_page.php:346
+msgid "Source Site Url"
+msgstr "Bron site URL"
+
+#: admin/partials/xcloner_restore_page.php:339
+msgid "With Target Home Url"
+msgstr "Met doel home URL"
+
+#: admin/partials/xcloner_restore_page.php:333
+msgid "Source Home Url"
+msgstr "Bron home URL"
+
+#: admin/partials/xcloner_restore_page.php:327
+msgid "Target Mysql Search and Replace"
+msgstr "Doel Mysql zoeken en vervangen"
+
+#: admin/partials/xcloner_restore_page.php:324
+msgid "I will attempt to replace all mysql backup records matching the provided Source Url with the provided Target Url. <br />Leave blank the Target Url if you would like to skip this option. <br />As a bonus, I will also replace all matching serialized data and fix it's parsing."
+msgstr "Ik zal proberen om alle mysql backup records die overeenkomen met de opgegeven bron url te vervangen door de opgegeven doel url. <br />Laat de doel url leeg als je deze optie wilt overslaan. <br />Als bonus zal ik ook alle overeenkomende geserialiseerde gegevens vervangen en de parsing ervan herstellen."
+
+#: admin/partials/xcloner_restore_page.php:317
+msgid "Target Mysql Password"
+msgstr "Doel MySQL wachtwoord"
+
+#: admin/partials/xcloner_restore_page.php:310
+msgid "Target Mysql Username"
+msgstr "Doel MySQL gebruikersnaam"
+
+#: admin/partials/xcloner_restore_page.php:304
+msgid "Target Mysql Database"
+msgstr "Doel MySQL database"
+
+#: admin/partials/xcloner_restore_page.php:298
+msgid "Target Mysql Hostname"
+msgstr "Doel MySQL hostnaam"
+
+#: admin/partials/xcloner_restore_page.php:292
+msgid "Target Mysql Details"
+msgstr "Doel MySQL details"
+
+#: admin/partials/xcloner_restore_page.php:289
+msgid "Please provide below the mysql connection details for the target host database.<br />For live sites we recommend using a new separate database."
+msgstr "Geef hieronder de mysql verbindings gegevens op voor de doel database.<br />Voor live sites raden we aan om een nieuwe aparte database te gebruiken."
+
+#: admin/partials/xcloner_restore_page.php:260
+#: admin/partials/xcloner_restore_page.php:387
+msgid "Restore"
+msgstr "Terugzetten"
+
+#: admin/partials/xcloner_restore_page.php:242
+msgid "Only Database Backup"
+msgstr "Alleen database back-up"
+
+#: admin/partials/xcloner_restore_page.php:232
+msgid "Only Themes"
+msgstr "Alleen thema's"
+
+#: admin/partials/xcloner_restore_page.php:222
+msgid "Only Uploads"
+msgstr "Alleen uploads"
+
+#: admin/partials/xcloner_restore_page.php:212
+msgid "Only Plugins"
+msgstr "Alleen plugins"
+
+#: admin/partials/xcloner_restore_page.php:171
+msgid "Restore Backup Archive:"
+msgstr "Back-up archief herstellen:"
+
+#: admin/partials/xcloner_restore_page.php:158
+msgid "Restore Target Path:"
+msgstr "Terugzet doelpad:"
+
+#: admin/partials/xcloner_restore_page.php:154
+msgid ""
+"This is the directory where you would like to restore the backup archive files.<br /> \n"
+"\t\t\t\t\t\t\t\t\t\tPlease use this with caution when restoring to a live site."
+msgstr ""
+"Dit is de folder waar je de back-up archief bestanden wil terugzetten.<br /> \n"
+"\t\t\t\t\t\t\t\t\t\t Gebruik dit met voorzichtigheid als je wil terugzetten naar een live site."
+
+#: admin/partials/xcloner_restore_page.php:140
+msgid "Verbose Output"
+msgstr "Uitgebreide uitvoer"
+
+#: admin/partials/xcloner_restore_page.php:135
+msgid "Restore Files Backup Available On Target Location"
+msgstr "Bestanden back-up terugzetten, beschikbaar op doel locatie"
+
+#: admin/partials/xcloner_restore_page.php:122
+#: admin/partials/xcloner_restore_page.php:123
+#: admin/partials/xcloner_restore_page.php:269
+#: admin/partials/xcloner_restore_page.php:271
+#: admin/partials/xcloner_restore_page.php:398
+#: admin/partials/xcloner_restore_page.php:400
+msgid "Next"
+msgstr "Volgende"
+
+#: admin/partials/xcloner_restore_page.php:117
+#: admin/partials/xcloner_restore_page.php:264
+#: admin/partials/xcloner_restore_page.php:392
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: admin/partials/xcloner_restore_page.php:113
+msgid "Upload"
+msgstr "Upload"
+
+#: admin/partials/xcloner_restore_page.php:93
+msgid "Please select a local backup archive to upload to target host"
+msgstr "Selecteer een lokaal back-up archief om te uploaden naar de doelhost"
+
+#: admin/partials/xcloner_restore_page.php:89
+msgid "You can skip this step if you want to transfer the archive in some other way, make sure you upload it in the same directory as the restore script from the previous step."
+msgstr "Je kunt deze stap overslaan als je het archief op een andere manier wilt overbrengen, zorg er wel voor dat je het uploadt in dezelfde map als het terugzet script uit de vorige stap."
+
+#: admin/partials/xcloner_restore_page.php:84
+msgid "Upload Local Backup Archive To Target Host"
+msgstr "Upload lokaal back-up archief naar doelhost"
+
+#: admin/partials/xcloner_restore_page.php:74
+msgid "Check Connection"
+msgstr "Controleer verbinding"
+
+#: admin/partials/xcloner_restore_page.php:55
+msgid "We have detected your connection to the site as being secure, so your restore script address must start with https://."
+msgstr "We hebben gedetecteerd dat je verbinding met de site beveiligd is, dus het adres van je terugzet script moet beginnen met https://."
+
+#: admin/partials/xcloner_restore_page.php:51
+msgid "If your server is not web accessible, like a localhost computer, you can use a DynDNS service or install a blank copy of Wordpress with XCloner in the same environment and start the restore from there."
+msgstr "Als je server niet toegankelijk is via het web, zoals een localhost computer, kun je een DynDNS dienst gebruiken of een lege kopie van WordPress met XCloner installeren in dezelfde omgeving en het herstel vanaf daar starten."
+
+#: admin/partials/xcloner_restore_page.php:48
+msgid "Provide url below to the <u>xcloner_restore.php</u> restore script, like http://my_restore_site.com/xcloner_restore.php"
+msgstr "Geef hieronder de url op naar het <u>xcloner_restore.php</u> terugzet script, zoals http://my_restore_site.com/xcloner_restore.php"
+
+#: admin/partials/xcloner_restore_page.php:29
+msgid "Restore Script Upload"
+msgstr "Terugzet script uploaden"
+
+#: admin/partials/remote_storage/gdrive.php:144
+msgid "More Details"
+msgstr "Meer details"
+
+#: admin/partials/remote_storage/gdrive.php:135
+msgid "Install Now"
+msgstr "Installeer nu"
+
+#: admin/partials/remote_storage/gdrive.php:131
+msgid "PHP 5.5 minimum version is required."
+msgstr "Minimale PHP versie 5.5 is vereist."
+
+#: admin/partials/remote_storage/gdrive.php:129
+msgid "This storage option requires the XCloner-Google-Drive Wordpress Plugin to be installed and activated."
+msgstr "Voor deze opslag optie moet de XCloner Google Drive WordPress plugin geïnstalleerd en geactiveerd zijn."
+
+#: admin/partials/remote_storage/gdrive.php:74
+msgid "Target Folder ID or Root Path"
+msgstr "ID doel map of hoofd pad"
+
+#: admin/partials/remote_storage/gdrive.php:67
+msgid ""
+"Folder ID can be found by right clicking on the folder name and selecting 'Get shareable link' menu, format https://drive.google.com/open?id={FOLDER_ID}<br />\n"
+"\t\t\t\t\t\t\t\t\tIf you supply a folder name, it has to exists in the drive root and start with / , example /backups.xcloner.com/"
+msgstr ""
+"Map ID kan worden gevonden door met de rechtermuisknop op de map naam te klikken en 'Krijg een deelbare link' te selecteren, format https://drive.google.com/open?id={FOLDER_ID}<br />\n"
+"\t\t\t\t\t\t\t\t\tAls je een map naam opgeeft, moet deze bestaan in de drive root en beginnen met / , bijvoorbeeld /backups.xcloner.com/"
+
+#: admin/partials/remote_storage/gdrive.php:65
+msgid "Folder ID or Root Path"
+msgstr "Map ID of hoofd pad"
+
+#: admin/partials/remote_storage/gdrive.php:59
+msgid "Paste Authorization Code Here"
+msgstr "Plak hier de autorisatiecode"
+
+#: admin/partials/remote_storage/gdrive.php:56
+msgid "Authorize Google Drive"
+msgstr "Autoriseer Google Drive"
+
+#: admin/partials/remote_storage/gdrive.php:18
+msgid "Google Drive Storage"
+msgstr "Google Drive opslag"
+
+#: admin/partials/remote_storage/webdav.php:58
+#: admin/partials/remote_storage/webdav.php:61
+msgid "WebDAV Password"
+msgstr "WebDAV wachtwoord"
+
+#: admin/partials/remote_storage/webdav.php:47
+#: admin/partials/remote_storage/webdav.php:50
+msgid "WebDAV Username"
+msgstr "WebDAV gebruikersnaam"
+
+#: admin/partials/remote_storage/webdav.php:36
+msgid "WebDAV Base Url"
+msgstr "WebDAV basis Url"
+
+#: admin/partials/remote_storage/webdav.php:8
+msgid "WebDAV Storage"
+msgstr "WebDAV opslag"
+
+#: admin/partials/remote_storage/backblaze.php:67
+#: admin/partials/remote_storage/backblaze.php:70
+msgid "Backblaze Bucket Name"
+msgstr "Backblaze bucket naam"
+
+#: admin/partials/remote_storage/backblaze.php:54
+#: admin/partials/remote_storage/backblaze.php:57
+msgid "Backblaze applicationKey"
+msgstr "Blackblaze applicatiesleutel"
+
+#: admin/partials/remote_storage/backblaze.php:9
+msgid "Backblaze B2 Storage"
+msgstr "Blackblaze B2 opslag"
+
+#: admin/partials/remote_storage/azure.php:58
+#: admin/partials/remote_storage/azure.php:61
+msgid "Azure Container"
+msgstr "Azure container"
+
+#: admin/partials/remote_storage/azure.php:47
+#: admin/partials/remote_storage/azure.php:50
+msgid "Azure Api Key"
+msgstr "Azure Api-sleutel"
+
+#: admin/partials/remote_storage/azure.php:35
+#: admin/partials/remote_storage/azure.php:38
+msgid "Azure Account Name"
+msgstr "Azure gebruikersnaam"
+
+#: admin/partials/remote_storage/azure.php:28
+msgid "Visit %s and get your \"Api Key\"."
+msgstr "Ga naar %s en vraag je \"Api-sleutel\" op."
+
+#: admin/partials/remote_storage/azure.php:8
+msgid "Azure Blob Storage"
+msgstr "Azure blob opslag"
+
+#: admin/partials/remote_storage/dropbox.php:60
+#: admin/partials/remote_storage/dropbox.php:63
+msgid "Dropbox Prefix"
+msgstr "Dropbox voorvoegsel"
+
+#: admin/partials/remote_storage/dropbox.php:48
+#: admin/partials/remote_storage/dropbox.php:51
+msgid "Dropbox App Secret"
+msgstr "Dropbox app geheim"
+
+#: admin/partials/remote_storage/dropbox.php:36
+#: admin/partials/remote_storage/dropbox.php:39
+msgid "Dropbox Access Token"
+msgstr "Dropbox toegangs token"
+
+#: admin/partials/remote_storage/dropbox.php:28
+msgid "Visit %s and get your \"App secret\"."
+msgstr "Ga naar %s en vraag je \"App geheim\" op."
+
+#: admin/partials/remote_storage/dropbox.php:8
+msgid "Dropbox Storage"
+msgstr "Dropbox opslag"
+
+#: admin/partials/remote_storage/aws.php:106
+#: admin/partials/remote_storage/aws.php:109
+msgid "S3 Bucket Name"
+msgstr "S3 bucket naam"
+
+#: admin/partials/remote_storage/aws.php:62
+msgid "example: us-east-1"
+msgstr "voorbeeld: us-east-1"
+
+#: admin/partials/remote_storage/sftp.php:90
+#: admin/partials/remote_storage/sftp.php:93
+msgid "SFTP Timeout"
+msgstr "SFTP time-out"
+
+#: admin/partials/remote_storage/sftp.php:79
+#: admin/partials/remote_storage/sftp.php:82
+msgid "SFTP Storage Folder"
+msgstr "SFTP opslag map"
+
+#: admin/partials/remote_storage/sftp.php:70
+msgid "Local Server Path or Contents of the SFTP Private Key RSA File"
+msgstr "Lokale serverpad of inhoud van het SFTP privésleutel RSA bestand"
+
+#: admin/partials/remote_storage/sftp.php:66
+msgid "SFTP Private Key(RSA)"
+msgstr "SFTP privésleutel (RSA)"
+
+#: admin/partials/remote_storage/sftp.php:54
+#: admin/partials/remote_storage/sftp.php:57
+msgid "SFTP or Private Key Password"
+msgstr "SFTP of privé sleutel wachtwoord"
+
+#: admin/partials/remote_storage/sftp.php:42
+#: admin/partials/remote_storage/sftp.php:45
+msgid "SFTP Username"
+msgstr "SFTP gebruikersnaam"
+
+#: admin/partials/remote_storage/sftp.php:34
+msgid "SFTP Port"
+msgstr "SFTP poort"
+
+#: admin/partials/remote_storage/sftp.php:26
+#: admin/partials/remote_storage/sftp.php:29
+msgid "SFTP Hostname"
+msgstr "SFTP hostnaam"
+
+#: admin/partials/remote_storage/sftp.php:8
+msgid "SFTP Storage"
+msgstr "SFTP opslag"
+
+#: admin/partials/remote_storage/aws.php:138
+#: admin/partials/remote_storage/azure.php:79
+#: admin/partials/remote_storage/backblaze.php:100
+#: admin/partials/remote_storage/dropbox.php:80
+#: admin/partials/remote_storage/ftp.php:152
+#: admin/partials/remote_storage/gdrive.php:116
+#: admin/partials/remote_storage/local.php:53
+#: admin/partials/remote_storage/onedrive.php:92
+#: admin/partials/remote_storage/sftp.php:111
+#: admin/partials/remote_storage/webdav.php:94
+msgid "Verify"
+msgstr "Verifiëren"
+
+#: admin/partials/remote_storage/aws.php:132
+#: admin/partials/remote_storage/azure.php:72
+#: admin/partials/remote_storage/backblaze.php:93
+#: admin/partials/remote_storage/dropbox.php:74
+#: admin/partials/remote_storage/ftp.php:146
+#: admin/partials/remote_storage/gdrive.php:110
+#: admin/partials/remote_storage/local.php:47
+#: admin/partials/remote_storage/onedrive.php:86
+#: admin/partials/remote_storage/sftp.php:104
+#: admin/partials/remote_storage/webdav.php:87
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: admin/partials/xcloner_remote_storage_page.php:12
+msgid "how many days to keep the backups for"
+msgstr "hoeveel dagen de back-ups moeten worden bewaard"
+
+#: admin/partials/remote_storage/ftp.php:132
+#: admin/partials/remote_storage/ftp.php:135
+msgid "Ftp Timeout"
+msgstr "FTP time-out"
+
+#: admin/partials/remote_storage/ftp.php:125
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: admin/partials/remote_storage/ftp.php:117
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: admin/partials/remote_storage/ftp.php:108
+msgid "Ftp Secure Connection"
+msgstr "FTP beveiligde verbinding"
+
+#: admin/partials/remote_storage/ftp.php:100
+msgid "Active"
+msgstr "Actief"
+
+#: admin/partials/remote_storage/ftp.php:91
+msgid "Passive"
+msgstr "Passief"
+
+#: admin/partials/remote_storage/ftp.php:82
+msgid "Ftp Transfer Mode"
+msgstr "FTP overdracht modus"
+
+#: admin/partials/remote_storage/ftp.php:71
+#: admin/partials/remote_storage/ftp.php:74
+msgid "Ftp Storage Folder"
+msgstr "Ftp opslag map"
+
+#: admin/partials/remote_storage/ftp.php:59
+#: admin/partials/remote_storage/ftp.php:62
+msgid "Ftp Password"
+msgstr "Ftp wachtwoord"
+
+#: admin/partials/remote_storage/ftp.php:47
+#: admin/partials/remote_storage/ftp.php:50
+msgid "Ftp Username"
+msgstr "Ftp gebruikersnaam"
+
+#: admin/partials/remote_storage/ftp.php:39
+msgid "Ftp Port"
+msgstr "Ftp poort"
+
+#: admin/partials/remote_storage/ftp.php:29
+#: admin/partials/remote_storage/ftp.php:34
+msgid "Ftp Hostname"
+msgstr "Ftp hostnaam"
+
+#: admin/partials/remote_storage/ftp.php:8
+msgid "FTP Storage"
+msgstr "Ftp opslag"
+
+#: admin/partials/xcloner_manage_backups_page.php:180
+msgid "Send %s to remote storage"
+msgstr "Stuur %s naar externe opslag"
+
+#: admin/partials/xcloner_manage_backups_page.php:163
+msgid "Uploading backup to the local storage filesystem..."
+msgstr "Back-up uploaden naar het lokale opslag bestands systeem..."
+
+#: admin/partials/xcloner_manage_backups_page.php:155
+msgid "Transfer Remote Backup To Local Storage"
+msgstr "Externe back-up overbrengen naar lokale opslag"
+
+#: admin/partials/xcloner_manage_backups_page.php:81
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: lib/Xcloner_Api.php:714
+msgid "Delete Backup"
+msgstr "Backup verwijderen"
+
+#: lib/Xcloner_Api.php:686
+msgid "Push Backup To Local Storage"
+msgstr "Overbrengen back-up naar lokale opslag"
+
+#: admin/partials/xcloner_manage_backups_page.php:69
+#: admin/partials/xcloner_scheduled_backups_page.php:32
+#: admin/partials/xcloner_scheduled_backups_page.php:44
+msgid "Action"
+msgstr "Actie"
+
+#: admin/partials/xcloner_manage_backups_page.php:68
+msgid "Size"
+msgstr "Grootte"
+
+#: admin/partials/xcloner_manage_backups_page.php:67
+msgid "Created Time"
+msgstr "Tijd van aanmaken"
+
+#: admin/partials/xcloner_manage_backups_page.php:38
+msgid "Change To Remote Storage..."
+msgstr "Overschakelen naar externe opslag..."
+
+#: admin/partials/xcloner_manage_backups_page.php:34
+msgid "Change To Local Storage..."
+msgstr "Overschakelen naar lokale opslag..."
+
+#: admin/partials/xcloner_init_page.php:288
+msgid "Toggle Additional System Info"
+msgstr "Toggle extra systeeminformatie"
+
+#: admin/partials/xcloner_init_page.php:280
+msgid "Free Disk Space"
+msgstr "Vrije schijfruimte"
+
+#: admin/partials/xcloner_init_page.php:276
+msgid "Writing Time 1MB Block"
+msgstr "Schrijftijd 1MB blok"
+
+#: admin/partials/xcloner_init_page.php:273
+#: admin/partials/xcloner_init_page.php:277
+msgid "unknown"
+msgstr "onbekend"
+
+#: admin/partials/xcloner_init_page.php:272
+msgid "Reading Time 1MB Block"
+msgstr "Leestijd 1MB blok"
+
+#: admin/partials/xcloner_init_page.php:262
+msgid "PHP open_basedir"
+msgstr "PHP open_basedir"
+
+#: admin/partials/xcloner_init_page.php:258
+msgid "PHP memory_limit"
+msgstr "PHP memory_limit"
+
+#: admin/partials/xcloner_init_page.php:254
+msgid "PHP max_execution_time"
+msgstr "PHP max_execution_time"
+
+#: admin/partials/xcloner_init_page.php:246
+msgid "Backup not ready, please check above requirements"
+msgstr "Back-up niet gereed, controleer bovenstaande vereisten"
+
+#: admin/partials/xcloner_init_page.php:246
+msgid "BACKUP READY"
+msgstr "BACK-UP GEREED"
+
+#: admin/partials/xcloner_init_page.php:241
+msgid "PHP Version Check"
+msgstr "PHP versie controle"
+
+#: admin/partials/xcloner_init_page.php:235
+msgid "Temporary Location"
+msgstr "Tijdelijke locatie"
+
+#: admin/partials/remote_storage/local.php:33
+#: admin/partials/remote_storage/local.php:36
+#: admin/partials/xcloner_init_page.php:229
+msgid "Backup Storage Location"
+msgstr "Back-up opslag locatie"
+
+#: admin/partials/remote_storage/local.php:22
+#: admin/partials/remote_storage/local.php:25
+#: admin/partials/xcloner_init_page.php:223
+msgid "Backup Start Location"
+msgstr "Back-up start locatie"
+
+#: admin/partials/xcloner_init_page.php:219
+msgid "System Check"
+msgstr "Systeemcontrole"
+
+#: admin/partials/xcloner_init_page.php:183
+msgid "XCloner Debugger"
+msgstr "Xcloner debugger"
+
+#: admin/partials/xcloner_init_page.php:170
+msgid "Unscheduled"
+msgstr "Niet ingepland"
+
+#: admin/partials/xcloner_init_page.php:165
+msgid "Next Call"
+msgstr "Volgende aanroep"
+
+#: admin/partials/xcloner_init_page.php:141
+msgid "Next Scheduled Backup"
+msgstr "Volgende geplande back-up"
+
+#: admin/partials/xcloner_init_page.php:134
+msgid "Total Size"
+msgstr "Totale grootte"
+
+#: admin/partials/xcloner_init_page.php:130
+msgid "Backup Storage Usage"
+msgstr "Back-up opslag gebruik"
+
+#: admin/partials/xcloner_init_page.php:125
+msgid "No Backup Yet"
+msgstr "Nog geen back-up"
+
+#: admin/partials/xcloner_init_page.php:116
+msgid "Backup Date"
+msgstr "Back-up datum"
+
+#: admin/partials/xcloner_init_page.php:110
+msgid "Backup Size"
+msgstr "Back-up grootte"
+
+#: admin/partials/xcloner_init_page.php:99
+msgid "Latest Backup"
+msgstr "Laatste back-up"
+
+#: admin/partials/xcloner_init_page.php:73
+msgid "Backup system not ready, please check and fix the issues marked in red"
+msgstr "Het back-up systeem is niet gereed. Controleer en los de rood gemarkeerde problemen op"
+
+#: admin/partials/xcloner_init_page.php:60
+msgid "You have no backup that I could find, please generate a new backup to keep your site protected."
+msgstr "Je hebt geen back-up die ik kon vinden, maak een nieuwe back-up om je site beschermd te houden."
+
+#: admin/partials/xcloner_init_page.php:47
+msgid "Your latest backup is older than 24 hours, please create a new backup to keep your site protected."
+msgstr "Je laatste back-up is ouder dan 24 uur. Maak een nieuwe back-up om je site te beschermen."
+
+#: admin/partials/xcloner_generate_backups_page.php:597
+#: admin/partials/xcloner_manage_backups_page.php:204
+msgid "Uploading backup to the selected remote storage..."
+msgstr "Back-up uploaden naar de geselecteerde externe opslag..."
+
+#: admin/partials/xcloner_generate_backups_page.php:580
+#: admin/partials/xcloner_manage_backups_page.php:186
+msgid "please select..."
+msgstr "selecteer..."
+
+#: admin/partials/xcloner_generate_backups_page.php:567
+#: admin/partials/xcloner_manage_backups_page.php:174
+msgid "Remote Storage Transfer"
+msgstr "Externe opslag overdracht"
+
+#: admin/partials/xcloner_generate_backups_page.php:550
+#: admin/partials/xcloner_manage_backups_page.php:89
+#: admin/partials/xcloner_restore_page.php:528
+msgid "Listing Backup Content "
+msgstr "Back-up inhoud weergeven "
+
+#: admin/partials/xcloner_generate_backups_page.php:541
+msgid "Close"
+msgstr "Sluiten"
+
+#: admin/partials/xcloner_generate_backups_page.php:535
+msgid "Response Code"
+msgstr "Reactie code"
+
+#: admin/partials/xcloner_generate_backups_page.php:166
+#: admin/partials/xcloner_scheduled_backups_page.php:156
+msgid "Send To Remote Storage"
+msgstr "Verzenden naar externe opslag"
+
+#: admin/partials/xcloner_generate_backups_page.php:158
+#: admin/partials/xcloner_scheduled_backups_page.php:150
+msgid "none"
+msgstr "geen"
+
+#: admin/partials/xcloner_generate_backups_page.php:509
+msgid "Schedule Frequency"
+msgstr "Schema frequentie"
+
+#: admin/partials/xcloner_generate_backups_page.php:494
+msgid "please select"
+msgstr "selecteer"
+
+#: admin/partials/xcloner_generate_backups_page.php:485
+msgid "At:"
+msgstr "Om:"
+
+#: admin/partials/xcloner_generate_backups_page.php:479
+msgid "Schedule Backup To Start On:"
+msgstr "Back-up plannen om te starten op:"
+
+#: admin/partials/xcloner_init_page.php:158
+#: admin/partials/xcloner_scheduled_backups_page.php:38
+#: admin/partials/xcloner_scheduled_backups_page.php:104
+msgid "Schedule Name"
+msgstr "Planning naam"
+
+#: admin/partials/xcloner_generate_backups_page.php:460
+msgid "(Dismiss this notice."
+msgstr "(Dit bericht negeren."
+
+#: admin/partials/xcloner_generate_backups_page.php:455
+msgid "Schedule Saved"
+msgstr "Schema opgeslagen"
+
+#: admin/partials/xcloner_generate_backups_page.php:423
+#: admin/partials/xcloner_restore_page.php:499
+msgid "Thank you for using XCloner."
+msgstr "Bedankt dat je XCloner gebruikt."
+
+#: admin/partials/xcloner_generate_backups_page.php:410 lib/Xcloner_Api.php:682
+#: lib/Xcloner_Api.php:710
+msgid "List Backup Content"
+msgstr "Lijst back-up inhoud"
+
+#: admin/partials/xcloner_generate_backups_page.php:406 lib/Xcloner_Api.php:698
+msgid "Download Backup"
+msgstr "Download back-up"
+
+#: admin/partials/xcloner_generate_backups_page.php:401 lib/Xcloner_Api.php:701
+msgid "Send Backup To Remote Storage"
+msgstr "Back-up naar externe opslag verzenden"
+
+#: admin/partials/xcloner_generate_backups_page.php:396
+msgid "Backup Done"
+msgstr "Back-up klaar"
+
+#: admin/partials/xcloner_generate_backups_page.php:348
+msgid "Backup Parts"
+msgstr "Back-up onderdelen"
+
+#: admin/partials/xcloner_generate_backups_page.php:332
+msgid "Adding %s files (%s)"
+msgstr "%s bestanden aan het toevoegen (%s)"
+
+#: admin/partials/xcloner_generate_backups_page.php:329
+msgid "Adding Files to Archive..."
+msgstr "Bestanden aan het toevoegen aan archief..."
+
+#: admin/partials/xcloner_generate_backups_page.php:304
+msgid "Found %s tables in %s databases (%s)"
+msgstr "%s tabellen gevonden in %s databases (%s)"
+
+#: admin/partials/xcloner_generate_backups_page.php:301
+msgid "Generating the Mysql Backup..."
+msgstr "De MySQL back-up aan het genereren..."
+
+#: admin/partials/xcloner_generate_backups_page.php:283
+msgid "Found %s files (%s)"
+msgstr "%s bestanden gevonden (%s)"
+
+#: admin/partials/xcloner_generate_backups_page.php:280
+msgid "Scanning The File System..."
+msgstr "Het bestandssysteem scannen..."
+
+#: admin/partials/xcloner_generate_backups_page.php:248
+msgid "You can navigate below through all your site structure(Backup Start Location) to exclude any file/folder you need by clicking the checkbox near it. <br />If the checkobx is disabled, then it matches a Regex Exclude File option and it can't be unchecked"
+msgstr "Je kunt hieronder door je hele site structuur navigeren (Back-up start locatie) om een bestand/map uit te sluiten door op het selectievakje ernaast te klikken. <br /> Als het selectievakje is uitgeschakeld, dan komt deze overeen met een Regex optie bestand uitsluiten en kan deze niet worden uitgeschakeld."
+
+#: admin/partials/xcloner_generate_backups_page.php:244
+msgid "Select from below the files/folders you want to exclude from your Backup Archive"
+msgstr "Selecteer hieronder de bestanden/mappen die je wil uitsluiten van je back-up archief"
+
+#: admin/partials/xcloner_generate_backups_page.php:221
+msgid "Enable the 'Backup only WP tables' setting if you don't want to show all other databases and tables not related to this Wordpress install"
+msgstr "Schakel de instelling 'Alleen WP tabellen back-uppen' in als je niet alle andere databases en tabellen wilt weergeven die niet gerelateerd zijn aan deze WordPress installatie."
+
+#: admin/partials/xcloner_generate_backups_page.php:218
+msgid "Select database data to include in the backup"
+msgstr "Databasegegevens selecteren om op te nemen in de back-up"
+
+#: admin/partials/xcloner_generate_backups_page.php:144
+msgid "Some default backup comments that will be stored inside the backup archive"
+msgstr "Enkele standaard back-up opmerkingen die in het back-up archief worden opgeslagen"
+
+#: admin/partials/xcloner_generate_backups_page.php:139
+msgid "Backup Comments"
+msgstr "Back-up opmerkingen"
+
+#: admin/partials/xcloner_generate_backups_page.php:99
+msgid "This option allows you to create a differential backup that will include only <br> changed files since the set date, leave blank to include all files"
+msgstr "Met deze optie kun je een differentiële back-up maken die alleen <br> gewijzigde bestanden sinds de ingestelde datum bevat, laat leeg om alle bestanden op te nemen."
+
+#: admin/partials/xcloner_generate_backups_page.php:93
+#: admin/partials/xcloner_scheduled_backups_page.php:191
+msgid "Backup Only Files Modified/Created After"
+msgstr "Alleen back-ups maken van bestanden die zijn gewijzigd/gecreëerd na"
+
+#: admin/partials/xcloner_generate_backups_page.php:81
+msgid "If left blank, no notification will be sent"
+msgstr "Als dit veld leeg blijft, wordt er geen melding verzonden"
+
+#: admin/partials/xcloner_generate_backups_page.php:76
+msgid "Send Email Notification To"
+msgstr "Verzend e-mail melding naar:"
+
+#: admin/partials/xcloner_generate_backups_page.php:63
+msgid "The default backup name, supported tags [time], [hostname], [domain]"
+msgstr "De standaard back-up naam, ondersteunde tags [time], [hostname], [domain]."
+
+#: admin/partials/xcloner_generate_backups_page.php:58
+#: admin/partials/xcloner_init_page.php:104
+#: admin/partials/xcloner_manage_backups_page.php:66
+#: admin/partials/xcloner_scheduled_backups_page.php:201
+msgid "Backup Name"
+msgstr "Back-up naam"
+
+#: admin/partials/xcloner_generate_backups_page.php:35
+msgid "Schedule Backup"
+msgstr "Plan back-up"
+
+#: admin/partials/xcloner_generate_backups_page.php:30 lib/Xcloner.php:556
+msgid "Generate Backup"
+msgstr "Back-up genereren"
+
+#: admin/partials/xcloner_generate_backups_page.php:25
+msgid "Files Options"
+msgstr "Bestanden opties"
+
+#: admin/partials/xcloner_generate_backups_page.php:20
+msgid "Database Options"
+msgstr "Database opties"
+
+#: admin/partials/xcloner_generate_backups_page.php:16
+msgid "Backup Options"
+msgstr "Back-up opties"
+
+#: admin/partials/xcloner_console_page.php:10
+msgid "XCloner Debugger Dashboard"
+msgstr "XCloner debugger dashboard"
+
+#: admin/class-xcloner-admin.php:233
+msgid "System Options"
+msgstr "Systeem opties"
+
+#: admin/class-xcloner-admin.php:224
+msgid "General Options"
+msgstr "Algemene opties"
+
+#: admin/class-xcloner-admin.php:197
+msgid "Settings Saved"
+msgstr "Instellingen opgeslagen"

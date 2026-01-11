@@ -1,0 +1,355 @@
+# Translation of Plugins - Crudiator - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Crudiator - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-20 15:08:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Crudiator - Stable (latest release)\n"
+
+#: src/CrudiatorPlugin.php:633
+msgid "Show"
+msgstr "表示"
+
+#: src/CrudiatorPlugin.php:595
+msgid "Menu Name"
+msgstr "メニュー名"
+
+#: src/CrudiatorPlugin.php:588
+msgid "Add menu name"
+msgstr "メニュー名を追加"
+
+#: src/CrudiatorPlugin.php:581
+msgid "This string becomes the menu name."
+msgstr "この文字列がメニュー名になります。"
+
+#: src/CrudiatorPlugin.php:447 src/CrudiatorPlugin.php:600
+msgid "Permission"
+msgstr "アクセス許可"
+
+#: src/CrudiatorPlugin.php:434
+msgid "Menu Icon"
+msgstr "メニューアイコン"
+
+#: src/CrudiatorPlugin.php:389 src/CrudiatorPlugin.php:396
+msgid "Menu Position"
+msgstr "メニュー位置"
+
+#: src/CrudiatorPlugin.php:358
+msgid "Selects the parent menu when the menu type is submenu selection."
+msgstr "メニュータイプがサブメニュー選択時に、親メニューを選択します。"
+
+#: src/CrudiatorPlugin.php:355
+msgid "Parent Menu"
+msgstr "サブメニュー時の親メニュー"
+
+#: src/CrudiatorPlugin.php:336
+msgid "Select whether it is a top-level menu or a submenu within the top level."
+msgstr "トップレベルのメニューか、トップレベル内のサブメニューかを選択します。"
+
+#: src/CrudiatorPlugin.php:333 src/CrudiatorPlugin.php:599
+msgid "Menu Type"
+msgstr "メニュータイプ"
+
+#: src/CrudiatorPlugin.php:319
+msgid "Slug Name"
+msgstr "スラッグ名"
+
+#: src/CrudiatorPlugin.php:311 src/CrudiatorPlugin.php:598
+msgid "Database Table"
+msgstr "データベーステーブル"
+
+#: src/CrudiatorPlugin.php:268
+msgid "Base setting"
+msgstr "基本設定"
+
+#: src/CrudiatorPlugin.php:111
+msgid "Parent Tables"
+msgstr "親テーブル"
+
+#: src/CrudiatorPlugin.php:110
+msgid "No tables found in Trash."
+msgstr "ゴミ箱内にテーブルが見つかりませんでした。"
+
+#: src/CrudiatorPlugin.php:109
+msgid "No tables found."
+msgstr "テーブルが見つかりませんでした。"
+
+#: src/CrudiatorPlugin.php:108
+msgid "Search Tables"
+msgstr "テーブルを検索"
+
+#: src/CrudiatorPlugin.php:107
+msgid "View Table"
+msgstr "テーブルを閲覧"
+
+#: src/CrudiatorPlugin.php:106
+msgid "New Table"
+msgstr "新しいテーブル"
+
+#: src/CrudiatorPlugin.php:105
+msgid "Edit Table"
+msgstr "テーブルを編集"
+
+#: src/CrudiatorPlugin.php:104
+msgid "Add New Table"
+msgstr "新しいテーブルを追加"
+
+#: src/CrudiatorPlugin.php:102
+msgid "All Tables"
+msgstr "テーブル一覧"
+
+#: src/CrudiatorPlugin.php:99
+msgid "Table"
+msgstr "テーブル"
+
+#: src/CrudiatorPlugin.php:41
+msgid "Subscriber"
+msgstr "購読者"
+
+#: src/CrudiatorPlugin.php:40
+msgid "Contributor"
+msgstr "寄稿者"
+
+#: src/CrudiatorPlugin.php:39
+msgid "Author"
+msgstr "投稿者"
+
+#: src/CrudiatorPlugin.php:38
+msgid "Editor"
+msgstr "編集者"
+
+#: src/CrudiatorPlugin.php:37
+msgid "Administrator"
+msgstr "管理者"
+
+#: src/CrudiatorPlugin.php:33
+msgid "Sub level menu"
+msgstr "サブレベルメニュー"
+
+#: src/CrudiatorPlugin.php:32
+msgid "Top level menu"
+msgstr "トップレベルメニュー"
+
+#: src/Crudiator.php:2252 src/Crudiator.php:2344 src/Crudiator.php:2408
+#: src/Crudiator.php:2497 src/Crudiator.php:2572
+msgid "Database Error : "
+msgstr "データベースエラー : "
+
+#: src/Crudiator.php:2015
+msgid "Start"
+msgstr "開始"
+
+#: src/Crudiator.php:2014
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: src/Crudiator.php:2012
+msgid "Reset filter"
+msgstr "絞り込みを解除"
+
+#: src/Crudiator.php:1723
+msgid "filter condition : "
+msgstr "絞り込み条件 : "
+
+#: src/Crudiator.php:1703
+msgid "Search results for"
+msgstr "検索結果"
+
+#: src/Crudiator.php:1695
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: src/Crudiator.php:1641
+msgid "Edit Data"
+msgstr "データ編集"
+
+#: src/Crudiator.php:1608
+msgid "Save"
+msgstr "保存"
+
+#: src/Crudiator.php:1569
+msgid "Add New Data"
+msgstr "新規データを追加"
+
+#: src/Crudiator.php:1508
+msgid "View Data"
+msgstr "データを詳細表示"
+
+#: src/Crudiator.php:2174
+msgid "Data does not exist."
+msgstr "データが存在しません。"
+
+#: src/Crudiator.php:2159 src/Crudiator.php:2165 src/Crudiator.php:2208
+#: src/Crudiator.php:2300 src/Crudiator.php:2445 src/Crudiator.php:2459
+msgid "Invalid parameter"
+msgstr "不正なパラメータです"
+
+#: src/Crudiator.php:1449
+msgid "Search Text"
+msgstr "テキスト検索"
+
+#: src/Crudiator.php:1431 src/Crudiator.php:1643 src/CrudiatorPlugin.php:103
+msgid "Add New"
+msgstr "新規追加"
+
+#: src/Crudiator.php:1382
+msgid "Back"
+msgstr "戻る"
+
+#: src/Crudiator.php:1366
+msgid "An error has occurred."
+msgstr "エラーが発生しました。"
+
+#: src/Crudiator.php:1325
+msgid "Data updated."
+msgstr "データを更新しました。"
+
+#: src/Crudiator.php:1322
+msgid "Data added."
+msgstr "データを追加しました。"
+
+#: src/Crudiator.php:1319
+msgid " items deleted."
+msgstr " 件のデータを削除しました。"
+
+#: src/Crudiator.php:630
+msgid "Export"
+msgstr "エクスポート"
+
+#: src/Crudiator.php:610 src/Crudiator.php:1987
+msgid "Filter Data"
+msgstr "データを絞り込み"
+
+#: src/Crudiator.php:565 src/Crudiator.php:1541
+msgid "Delete"
+msgstr "削除"
+
+#: src/Crudiator.php:554 src/Crudiator.php:1538
+msgid "Edit"
+msgstr "編集"
+
+#: src/Crudiator.php:548
+msgid "View"
+msgstr "閲覧"
+
+#: src/Crudiator.php:525
+msgid "Bulk delete"
+msgstr "一括削除"
+
+#: src/Crudiator.php:425
+msgid "Number of items per page:"
+msgstr "ページごとに表示する項目数:"
+
+#: src/Crudiator.php:243 src/Crudiator.php:249
+msgid "Unable to retrieve table information."
+msgstr "テーブル情報を取得できません。"
+
+#: src/Crudiator.php:234 src/CrudiatorPlugin.php:86
+msgid "Error Message: "
+msgstr "エラーメッセージ: "
+
+#: src/Crudiator.php:198
+msgid "When in View or Filter view, data for that condition will be exported."
+msgstr "ビュー表示又は絞り込み表示をしている時はその条件のデータがエクスポートされます。"
+
+#: src/Crudiator.php:197
+msgid "Item not selected."
+msgstr "項目が選択されていません。"
+
+#: src/Crudiator.php:196
+msgid "Item count : "
+msgstr "データ件数 : "
+
+#: src/Crudiator.php:172
+msgid "does not ends with"
+msgstr "次の文字列で終わらない"
+
+#: src/Crudiator.php:171
+msgid "ends with"
+msgstr "次の文字列で終わる"
+
+#: src/Crudiator.php:170
+msgid "does not start with"
+msgstr "次の文字列で始まらない"
+
+#: src/Crudiator.php:169
+msgid "starts with"
+msgstr "次の文字列で始まる"
+
+#: src/Crudiator.php:168
+msgid "does not contain"
+msgstr "次の文字列を含まない"
+
+#: src/Crudiator.php:167
+msgid "contains"
+msgstr "次の文字列を含む"
+
+#: src/Crudiator.php:166
+msgid "is less than or equal to"
+msgstr "次の値以下"
+
+#: src/Crudiator.php:165
+msgid "is less than"
+msgstr "次の値より小さい"
+
+#: src/Crudiator.php:164
+msgid "is greater than or equal to"
+msgstr "次の値以上"
+
+#: src/Crudiator.php:163
+msgid "is greater than"
+msgstr "次の値より大きい"
+
+#: src/Crudiator.php:162
+msgid "does not equal"
+msgstr "次の値と等しくない"
+
+#: src/Crudiator.php:161
+msgid "equals"
+msgstr "次の値と等しい"
+
+#. Author URI of the plugin
+#: crudiator.php
+msgid "https://twitter.com/kahoo365"
+msgstr "https://twitter.com/kahoo365"
+
+#. Author of the plugin
+#: crudiator.php
+msgid "Takafu"
+msgstr "タカフ"
+
+#. Plugin URI of the plugin
+#: crudiator.php
+msgid "https://crudiator.com/"
+msgstr "https://crudiator.com/"
+
+#. Plugin Name of the plugin
+#: crudiator.php src/CrudiatorPlugin.php:98 src/CrudiatorPlugin.php:100
+#: src/CrudiatorPlugin.php:101
+msgid "Crudiator"
+msgstr "Crudiator"
+
+#: src/CrudiatorPlugin.php:450
+msgid "Select the permissions that allow you to view this menu. <br>It will be displayed to users with the selected permissions or higher."
+msgstr "このメニューを閲覧できる権限を選択します。<br>選択した権限以上のユーザーに表示されます。"
+
+#: src/CrudiatorPlugin.php:427
+msgid "Select the menu icon.You can check the list of icons on the official <a href='https://developer.wordpress.org/resource/dashicons/#menu' target='_blank'>WordPress website</a>."
+msgstr "メニューアイコンを選択します。アイコンの一覧は <a href='https://developer.wordpress.org/resource/dashicons/#menu' target='_blank'>WordPress 公式サイト</a>で確認できます。"
+
+#: src/CrudiatorPlugin.php:398
+msgid "Specify the position of the submenu to be displayed by any number from 1.<br>If omitted, they are displayed in the order of registration."
+msgstr "サブメニューの表示される位置を1からの任意の数字で指定します。<br>省略した場合は登録順に表示されます。"
+
+#: src/CrudiatorPlugin.php:392
+msgid "This menu appears below the selected menu.<br>If omitted, it will appear at the bottom of all menus."
+msgstr "選択したメニューの下にこのメニューが表示されます。<br>省略した場合はすべてのメニューの一番下に表示されます。"
+
+#: src/CrudiatorPlugin.php:322
+msgid "Enter the slug name that will be part of the URL. Only lowercase alphanumeric, hyphen, and underscores characters are valid.<br>When the Database Table is selected, it will be populated subsidiarily."
+msgstr "メニュー URL の一部となるスラッグ名を入力します。小文字英数字、ハイフン、アンダースコアのみ有効です。<br>データベーステーブルを選択すると補完的に入力されます。"

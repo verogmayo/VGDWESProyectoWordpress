@@ -1,0 +1,5 @@
+[2025-12-31 13:46:09] xcloner_restore.INFO: Processing ajax request ID _yw3osq2o4 [] []
+[2025-12-31 13:46:09] xcloner_restore.DEBUG: Starting action list_backup_archives_action [] []
+[2025-12-31 13:46:09] xcloner_restore.INFO: Processing ajax request ID _8x1229hx8 [] []
+[2025-12-31 13:46:09] xcloner_restore.DEBUG: Starting action get_current_directory_action [] []
+[2025-12-31 13:46:09] xcloner_restore.INFO: Determining current url as /var/www/vhosts/veroniquegru.ieslossauces.es/httpdocs/VGDWESProyectoWordpress and path as https://veroniquegru.ieslossauces.es/VGDWESProyectoWordpress [] []
