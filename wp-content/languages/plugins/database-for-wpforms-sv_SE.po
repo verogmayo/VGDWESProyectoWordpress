@@ -1,0 +1,103 @@
+# Translation of Plugins - Database Addon For WPForms ( wpforms entries ) &#8211; WPFormsDB - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Database Addon For WPForms ( wpforms entries ) &#8211; WPFormsDB - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-08-17 10:36:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Database Addon For WPForms ( wpforms entries ) &#8211; WPFormsDB - Stable (latest release)\n"
+
+#: inc/addons.php:13
+msgid "Browse All Extensions"
+msgstr "Bläddra bland alla utökningar"
+
+#: inc/addons.php:3
+msgid "Extensions"
+msgstr "Utökningar"
+
+#: inc/addons.php:11
+msgid "Extensions for WPFormsDB"
+msgstr "Utökningar för WPFormsDB"
+
+#: inc/addons.php:16
+msgid "These extensions <strong>add functionality</strong> to WPFormDB"
+msgstr "Dessa utökningar <strong>lägger till funktionalitet</strong> till WPFormDB"
+
+#: inc/addons.php:45
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr "Det var ett fel vid hämtningen av utökningslistan från servern. Försök igen senare."
+
+#. Author of the plugin
+#: database-for-wp-forms.php
+msgid "wpdebuglog"
+msgstr "wpdebuglog"
+
+#: inc/class-sub-page.php:459
+msgid "Export CSV"
+msgstr "Exportera CSV"
+
+#: inc/class-sub-page.php:455
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: inc/class-sub-page.php:445
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: inc/class-sub-page.php:443
+msgid "Select bulk action"
+msgstr "Välj massåtgärd"
+
+#: inc/class-sub-page.php:194
+msgid "Delete"
+msgstr "Ta bort"
+
+#: inc/class-sub-page.php:193
+msgid "Unread"
+msgstr "Oläst"
+
+#: inc/class-sub-page.php:192
+msgid "Read"
+msgstr "Läst"
+
+#: inc/class-main-page.php:125
+msgid "Count"
+msgstr "Antal"
+
+#: inc/class-main-page.php:124
+msgid "Name"
+msgstr "Namn"
+
+#. Plugin Name of the plugin
+#: database-for-wp-forms.php
+msgid "Database for WPforms"
+msgstr "Database for WPforms"
+
+#: inc/class-main-page.php:31
+msgid "WPForms DB"
+msgstr "WPForms DB"
+
+#: inc/class-main-page.php:71
+msgid "WPForms List"
+msgstr "WPForms-listor"
+
+#: inc/class-main-page.php:31
+msgid "WPForms Submissions"
+msgstr "WPForms-inlämningar"
+
+#. Description of the plugin
+#: database-for-wp-forms.php
+msgid "Save and manage WPForms submissions. Never lose important data. Database add-on for WPForms."
+msgstr "Spara och hantera WPForms-inlämningar. Förlora aldrig viktig data.  Databas-utökning för WPForms."
+
+#: inc/class-form-details.php:35
+msgid "Not valid contact form"
+msgstr "Inte giltigt kontaktformulär"
+
+#: database-for-wp-forms.php:36
+msgid "Invalid nonce..!!"
+msgstr "Ogiltig engångskod …!"

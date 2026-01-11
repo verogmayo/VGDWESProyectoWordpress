@@ -1,0 +1,2455 @@
+# Translation of Plugins - Gutenberg Blocks with AI by Kadence WP – Page Builder Features - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Gutenberg Blocks with AI by Kadence WP – Page Builder Features - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-11-07 09:36:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Gutenberg Blocks with AI by Kadence WP – Page Builder Features - Stable (latest release)\n"
+
+#: includes/settings/class-kadence-blocks-settings.php:1320
+msgid "Admin Bar"
+msgstr "Admin-panel"
+
+#: includes/settings/class-kadence-blocks-settings.php:1066
+msgid "Show Block Headers in Admin Bar"
+msgstr "Vis blok-headers i admin-panelet"
+
+#: includes/advanced-form/advanced-form-ajax.php:686
+msgid "Form requires Kadence Forms"
+msgstr "Formularen kræver Kadence Forms"
+
+#: includes/header/class-kadence-header-cpt.php:992
+msgid "%s (Theme)"
+msgstr "%s (Tema)"
+
+#. translators: %1$d is the rating number, %2$d is the total number of stars.
+#: includes/blocks/class-kadence-blocks-testimonial-block.php:366
+msgid "%1$d out of %2$d stars"
+msgstr "%1$d ud af %2$d stjerner"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:738
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:757
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:776
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:802
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1520
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:850
+#: dist/blocks-rowlayout.js:30 dist/blocks-testimonials.js:1
+msgid "Toggle autoplay"
+msgstr "Slå autoplay til"
+
+#: includes/advanced-form/advanced-form-ajax.php:356
+msgid "File could not be uploaded"
+msgstr "Filen kunne ikke uploades"
+
+#: includes/advanced-form/advanced-form-ajax.php:321
+msgid "Trying to include too many files."
+msgstr "Forsøger at inkludere for mange filer."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1443
+msgid "Invalid Response Content: Missing Data"
+msgstr "Ugyldigt svarindhold: Manglende data"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1440
+msgid "Invalid Response Content: Error"
+msgstr "Ugyldigt svarindhold: Fejl"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1436
+msgid "Invalid Response Content"
+msgstr "Ugyldigt svarindhold"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1429
+msgid "Invalid Response"
+msgstr "Ugyldigt svar"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1390
+msgid "Invalid Content, Empty Content"
+msgstr "Ugyldigt indhold, tomt indhold"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1387
+msgid "Invalid Content, content body error"
+msgstr "Ugyldigt indhold, indholdsfejl"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1381
+msgid "Invalid Request, Connection Error"
+msgstr "Ugyldig anmodning, forbindelsesfejl"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2747
+msgid "The meta to return"
+msgstr "Den meta, der skal returneres"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:730
+msgid "Photo Gallery Carousel"
+msgstr "Karrusel med fotogalleri"
+
+#: dist/blocks/vector/block.json
+msgctxt "block title"
+msgid "Vector SVG"
+msgstr "Vektor SVG"
+
+#: includes/header/class-kadence-header-cpt.php:1021 dist/blocks-vector.js:1
+msgid "Add New"
+msgstr "Tilføj nyt"
+
+#: includes/settings/class-kadence-blocks-settings.php:1427
+msgid "Manage Vector Graphics"
+msgstr "Administrer vektorgrafik"
+
+#: includes/settings/class-kadence-blocks-settings.php:1425
+msgid "Add custom vector icons and SVGs to enhance your site design."
+msgstr "Tilføj brugerdefinerede vektorikoner og SVG'er for at forbedre dit webdesign."
+
+#: includes/settings/class-kadence-blocks-settings.php:1424
+msgid "Vector Graphics"
+msgstr "Vektorgrafik"
+
+#: includes/init.php:597
+msgid "Vector SVGs imported in Kadence"
+msgstr "Vektor-SVG'er importeret i Kadence"
+
+#: includes/init.php:596
+msgctxt "post type for kadence vector svg block"
+msgid "Vector SVGs"
+msgstr "Vektor-SVG'er"
+
+#: includes/class-vector-post-rest-api.php:70
+msgid "Please enter a vector title"
+msgstr "Indtast venligst en vektortitel"
+
+#: includes/class-vector-post-rest-api.php:64
+msgid "Vector contains invalid SVG"
+msgstr "Vektor indeholder ugyldig SVG"
+
+#: includes/header/class-kadence-header-cpt.php:955
+msgid "Theme Header"
+msgstr "Tema header"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1379
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1409
+msgid "Invalid Request, Incorrect Access Key"
+msgstr "Ugyldig anmodning, forkert adgangsnøgle"
+
+#: dist/blocks/videopopup/block.json
+msgctxt "block title"
+msgid "Video Popup"
+msgstr "Video-popup"
+
+#: includes/settings/class-kadence-blocks-settings.php:1505
+msgid "Beautifully display a thumbnail with overlay and hover effect that links to a video popup on click. Works with local or external videos!"
+msgstr "Vis et smukt miniaturebillede med overlay og hover-effekt, der linker til en videopopup ved klik. Fungerer med lokale eller eksterne videoer!"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1220
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1839
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:936
+msgid "%s of %s"
+msgstr "%s af %s"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1219
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1838
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:935
+msgid "Select a slide to show"
+msgstr "Vælg et slide, der skal vises"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1218
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1837
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:934
+msgid "slide"
+msgstr "slide"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1216
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1835
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:932
+msgid "Pause autoplay"
+msgstr "Sæt autoplay på pause"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1215
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1834
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:931
+msgid "Start autoplay"
+msgstr "Start autoplay"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1214
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1833
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:930
+msgid "Go to page %s"
+msgstr "Gå til side %s"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1213
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1832
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:929
+msgid "Go to slide %s"
+msgstr "Gå til slide %s"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1212
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1831
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:928
+msgid "Go to last slide"
+msgstr "Gå til sidste slide"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1211
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1830
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:927
+msgid "Go to first slide"
+msgstr "Gå til første slide"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1210
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1829
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:926
+msgid "Next slide"
+msgstr "Næste slide"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1209
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1828
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:925
+msgid "Previous slide"
+msgstr "Forrige slide"
+
+#: dist/blocks-table.js:1 dist/blocks/table/block.json
+#: dist/blocks/table/children/row/block.json
+msgctxt "block title"
+msgid "Table (Adv)"
+msgstr "Tabel (Adv)"
+
+#: dist/blocks-table.js:1 dist/blocks/table/children/data/block.json
+msgctxt "block title"
+msgid "Table Data"
+msgstr "Tabeldata"
+
+#: includes/class-kadence-blocks-cpt-import-export.php:387
+msgid "Invalid JSON data in import file."
+msgstr "Ugyldige JSON-data i importfilen."
+
+#: includes/class-kadence-blocks-cpt-import-export.php:379
+msgid "Invalid import file structure. Missing export.json"
+msgstr "Ugyldig importfilstruktur. Mangler export.json"
+
+#: includes/class-kadence-blocks-cpt-import-export.php:371
+msgid "Invalid data in import file."
+msgstr "Ugyldige data i importfilen."
+
+#: includes/class-kadence-blocks-cpt-import-export.php:362
+msgid "Invalid file type. Please upload a ZIP file."
+msgstr "Ugyldig filtype. Upload venligst en ZIP-fil."
+
+#: includes/class-kadence-blocks-cpt-import-export.php:357
+msgid "File upload failed."
+msgstr "Filupload mislykkedes."
+
+#: includes/class-kadence-blocks-cpt-import-export.php:350
+msgid "Please upload a file to import."
+msgstr "Upload venligst en fil til import."
+
+#: includes/class-kadence-blocks-cpt-import-export.php:343
+msgid "You do not have sufficient permissions to import content."
+msgstr "Du har ikke tilstrækkelige tilladelser til at importere indhold."
+
+#: includes/class-kadence-blocks-cpt-import-export.php:232
+msgid "Upload & Import"
+msgstr "Upload og import"
+
+#: includes/class-kadence-blocks-cpt-import-export.php:219
+msgid "Export All"
+msgstr "Eksporter alle"
+
+#: includes/class-kadence-blocks-cpt-import-export.php:186
+msgid "Import completed successfully!"
+msgstr "Import gennemført uden problemer!"
+
+#: includes/class-kadence-blocks-cpt-import-export.php:118
+msgid "Export"
+msgstr "Eksport"
+
+#: includes/class-kadence-blocks-cpt-import-export.php:80
+#: includes/class-kadence-blocks-cpt-import-export.php:244
+msgid "You do not have sufficient permissions to export content."
+msgstr "Du har ikke tilstrækkelige tilladelser til at eksportere indhold."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2307
+msgid "Response Code Error: %s"
+msgstr "Fejl i svarkode: %s"
+
+#: dist/blocks/navigation/block.json
+msgctxt "block keyword"
+msgid "links"
+msgstr "links"
+
+#: dist/blocks/navigation/block.json
+msgctxt "block keyword"
+msgid "menu"
+msgstr "menu"
+
+#: dist/blocks/navigation/block.json
+msgctxt "block description"
+msgid "An advanced navigation block."
+msgstr "En avanceret navigationsblok."
+
+#: dist/blocks/navigation-link/block.json
+msgctxt "block description"
+msgid "Add a page, link, or another item to your navigation."
+msgstr "Tilføj en side, et link eller et andet element til din navigation."
+
+#: dist/blocks/navigation-link/block.json
+msgctxt "block title"
+msgid "Kadence Navigation Link"
+msgstr "Kadence Navigation Link"
+
+#: dist/blocks/identity/block.json
+msgctxt "block title"
+msgid "Site identity"
+msgstr "Webstedsidentitet"
+
+#: dist/blocks/header/children/section/block.json
+msgctxt "block description"
+msgid "Kadence header section"
+msgstr "Kadence header-sektion"
+
+#: dist/blocks/header/children/row/block.json
+msgctxt "block description"
+msgid "Kadence header row"
+msgstr "Kadence-overskriftsrække"
+
+#: dist/blocks/header/children/off-canvas/block.json
+msgctxt "block description"
+msgid "Off Canvas block"
+msgstr "Off Canvas-blok"
+
+#: dist/blocks/header/children/off-canvas-trigger/block.json
+msgctxt "block description"
+msgid "Off Canvas trigger"
+msgstr "Off Canvas-udløser"
+
+#: dist/blocks/header/children/container-tablet/block.json
+msgctxt "block description"
+msgid "Kadence tablet container"
+msgstr "Kadence tabletcontainer"
+
+#: dist/blocks/header/children/container-tablet/block.json
+msgctxt "block title"
+msgid "Tablet Header"
+msgstr "Tablet-sidehoved"
+
+#: dist/blocks/header/children/container-desktop/block.json
+msgctxt "block description"
+msgid "Kadence header desktop"
+msgstr "Kadence desktopsidehoved"
+
+#: dist/blocks/header/children/container-desktop/block.json
+msgctxt "block title"
+msgid "Desktop Header"
+msgstr "Desktop-sidehoved"
+
+#: dist/blocks/header/children/column/block.json
+msgctxt "block description"
+msgid "Kadence header column"
+msgstr "Kadence-overskriftskolonne"
+
+#: dist/blocks/header/block.json dist/blocks/navigation/block.json
+msgctxt "block keyword"
+msgid "navigation"
+msgstr "navigation"
+
+#: dist/blocks/header/block.json
+msgctxt "block keyword"
+msgid "footer"
+msgstr "sidefod"
+
+#: dist/blocks/header/block.json
+msgctxt "block keyword"
+msgid "header"
+msgstr "sidehoved"
+
+#: dist/blocks/header/block.json
+msgctxt "block description"
+msgid "A collection of blocks that allow visitors to get around your site."
+msgstr "En samling af blokke, der gør det nemt for dine gæster at finde rundt på webstedet."
+
+#: dist/blocks-search.js:1 dist/blocks/search/block.json
+msgctxt "block title"
+msgid "Search (Adv)"
+msgstr "Søgning (Adv)"
+
+#: dist/blocks-navigation.js:1 dist/blocks/navigation/block.json
+msgctxt "block title"
+msgid "Navigation (Adv)"
+msgstr "Navigation (Adv)"
+
+#: dist/blocks-header.js:1 dist/blocks/header/block.json
+msgctxt "block title"
+msgid "Header (Adv)"
+msgstr "Sidehoved (Adv)"
+
+#: dist/blocks-header.js:1 dist/blocks/header/children/section/block.json
+msgctxt "block title"
+msgid "Header Section"
+msgstr "Sidehovedsektion"
+
+#: dist/blocks-header.js:1 dist/blocks/header/children/column/block.json
+msgctxt "block title"
+msgid "Header Column"
+msgstr "Sidehovedkolonne"
+
+#: dist/blocks-header.js:1 dist/blocks/header/children/row/block.json
+msgctxt "block title"
+msgid "Header Row"
+msgstr "Sidehovedrække"
+
+#: includes/settings/class-kadence-blocks-settings.php:1441
+msgid "Manage Navigation Menus"
+msgstr "Administrer navigationsmenuer"
+
+#: includes/settings/class-kadence-blocks-settings.php:1439
+msgid "Build custom navigation menus"
+msgstr "Byg brugerdefinerede navigationsmenuer"
+
+#: includes/settings/class-kadence-blocks-settings.php:1438
+#: dist/blocks-navigation.js:1
+msgid "Advanced Navigation"
+msgstr "Avanceret navigation"
+
+#: includes/settings/class-kadence-blocks-settings.php:1434
+msgid "Manage Headers"
+msgstr "Administrer sidehoveder"
+
+#: includes/settings/class-kadence-blocks-settings.php:1432
+msgid "Build custom headers in the block editor and full site editing."
+msgstr "Byg tilpassede sidehoveder i blokeditoren og webstedsredigering."
+
+#: includes/settings/class-kadence-blocks-settings.php:1275
+msgid "Deactivating…"
+msgstr "Deaktivering..."
+
+#: includes/settings/class-kadence-blocks-settings.php:1275
+msgid "Activating…"
+msgstr "Aktiverer…"
+
+#: includes/settings/class-kadence-blocks-settings.php:1035
+msgid "Mark the Header popover tutorial Complete"
+msgstr "Marker Sidehoved-popover-tutorialen som færdig"
+
+#: includes/settings/class-kadence-blocks-settings.php:980
+msgid "Is Kadence header notice dismissed"
+msgstr "Er Kadence sidehoved besked afvist"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:189
+msgid "Kadence Navigations that can be inserted into your site."
+msgstr "Kadence-navigationer, der kan indsættes på dit websted."
+
+#: includes/navigation/class-kadence-navigation-cpt.php:187
+msgid "Kadence Navigation list"
+msgstr "Kadence Navigationsliste"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:186
+msgid "Kadence Navigation list navigation"
+msgstr "Kadence Navigation liste-navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:185
+msgid "Filter Kadence Navigation list"
+msgstr "Filtrer Kadence Navigationsliste"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:184
+msgid "Uploaded to this Kadence Navigation"
+msgstr "Uploadet til denne Kadence Navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:183
+msgid "Insert into Kadence Navigation"
+msgstr "Indsæt i Kadence Navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:182
+msgid "Kadence Navigation archives"
+msgstr "Kadence Navigation arkiver"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:181
+msgid "No Kadence Navigation found in Trash."
+msgstr "Ingen Kadence-navigation fundet i Skraldespand."
+
+#: includes/navigation/class-kadence-navigation-cpt.php:180
+msgid "No Kadence Navigation found."
+msgstr "Ingen Kadence-navigation fundet."
+
+#: includes/navigation/class-kadence-navigation-cpt.php:179
+msgid "Parent Kadence Navigation:"
+msgstr "Parent Kadence Navigation:"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:178
+msgid "Search Kadence Navigations"
+msgstr "Søg i Kadence-navigationer"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:177
+msgid "Navigations"
+msgstr "Navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:176
+msgid "View Kadence Navigation"
+msgstr "Se Kadence Navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:175
+msgid "Edit Kadence Navigation"
+msgstr "Rediger Kadence-navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:174
+msgid "New Kadence Navigation"
+msgstr "Ny Kadence-navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:172
+#: includes/navigation/class-kadence-navigation-cpt.php:173
+msgid "Add New Kadence Navigation"
+msgstr "Tilføj ny Kadence-navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:171
+msgctxt "post type singular name"
+msgid "Kadence Navigation"
+msgstr "Kadence Navigation"
+
+#: includes/navigation/class-kadence-navigation-cpt.php:170
+msgctxt "post type general name"
+msgid "Kadence Navigation"
+msgstr "Kadence Navigation"
+
+#: includes/header/class-kadence-header-cpt.php:220
+msgid "Kadence Headers that can be inserted into your site."
+msgstr "Kadence Sidehoveder, der kan indsættes på dit websted."
+
+#: includes/header/class-kadence-header-cpt.php:218
+msgid "Kadence Headers list"
+msgstr "Liste over Kadence-sidehoveder"
+
+#: includes/header/class-kadence-header-cpt.php:217
+msgid "Kadence Headers list navigation"
+msgstr "Kadence Sidehoveder liste-navigation"
+
+#: includes/header/class-kadence-header-cpt.php:216
+msgid "Filter Kadence Header list"
+msgstr "Filtrer liste over Kadence Sidehoveder"
+
+#: includes/header/class-kadence-header-cpt.php:215
+msgid "Uploaded to this Kadence Header"
+msgstr "Uploadet til dette Kadence Sidehoved"
+
+#: includes/header/class-kadence-header-cpt.php:214
+msgid "Insert into Kadence Header"
+msgstr "Indsæt i Kadence Sidehoved"
+
+#: includes/header/class-kadence-header-cpt.php:213
+msgid "Kadence Header archives"
+msgstr "Kadence Sidehoved-arkiver"
+
+#: includes/header/class-kadence-header-cpt.php:212
+msgid "No Kadence Header found in Trash."
+msgstr "Der blev ikke fundet nogen Kadence Sidehoveder i Skraldespand."
+
+#: includes/header/class-kadence-header-cpt.php:211
+msgid "No Kadence Header found."
+msgstr "Ingen Kadence Sidehoveder fundet."
+
+#: includes/header/class-kadence-header-cpt.php:210
+msgid "Parent Kadence Header:"
+msgstr "Overordnet Kadence Sidehoved:"
+
+#: includes/header/class-kadence-header-cpt.php:209
+msgctxt "admin menu"
+msgid "Headers"
+msgstr "Sidehoveder"
+
+#: includes/header/class-kadence-header-cpt.php:208
+msgid "Search Kadence Headers"
+msgstr "Søg i Kadence Sidehoveder"
+
+#: includes/header/class-kadence-header-cpt.php:207
+#: includes/header/class-kadence-header-cpt.php:978 dist/blocks-table.js:1
+msgid "Headers"
+msgstr "Sidehoveder"
+
+#: includes/header/class-kadence-header-cpt.php:206
+msgid "View Kadence Header"
+msgstr "Se Kadence Sidehoved"
+
+#: includes/header/class-kadence-header-cpt.php:205
+msgid "Edit Kadence Header"
+msgstr "Rediger Kadence Sidehoved"
+
+#: includes/header/class-kadence-header-cpt.php:204
+msgid "New Kadence Header"
+msgstr "Nyt Kadence Sidehoved"
+
+#: includes/header/class-kadence-header-cpt.php:202
+#: includes/header/class-kadence-header-cpt.php:203
+msgid "Add New Kadence Header"
+msgstr "Tilføj nyt Kadence Sidehoved"
+
+#: includes/header/class-kadence-header-cpt.php:201
+msgctxt "post type singular name"
+msgid "Kadence Header"
+msgstr "Kadence Sidehoved"
+
+#: includes/header/class-kadence-header-cpt.php:200
+msgctxt "post type general name"
+msgid "Kadence Header"
+msgstr "Kadence Sidehoved"
+
+#: includes/blocks/header/class-kadence-blocks-off-canvas-trigger-block.php:199
+msgid "Toggle Menu"
+msgstr "Skift menu"
+
+#: includes/blocks/header/class-kadence-blocks-off-canvas-block.php:266
+#: dist/blocks-header.js:1
+msgid "Close Menu"
+msgstr "Luk Menu"
+
+#: includes/blocks/class-kadence-blocks-search-block.php:263
+msgid "Close search"
+msgstr "Luk søgning"
+
+#: includes/blocks/class-kadence-blocks-navigation-link-block.php:626
+msgid "Toggle child menu of"
+msgstr "Skift undermenu til"
+
+#: includes/blocks/class-kadence-blocks-header-block.php:357
+#: includes/blocks/class-kadence-blocks-header-block.php:359
+#: includes/blocks/class-kadence-blocks-navigation-block.php:578
+#: includes/blocks/class-kadence-blocks-navigation-block.php:580
+msgid "Child menu of"
+msgstr "Undermenu til"
+
+#: includes/blocks/class-kadence-blocks-header-block.php:356
+#: includes/blocks/class-kadence-blocks-header-block.php:358
+#: includes/blocks/class-kadence-blocks-navigation-block.php:577
+#: includes/blocks/class-kadence-blocks-navigation-block.php:579
+msgid "Child menu"
+msgstr "Undermenu"
+
+#. translators: %1$s is the current progress amount, %2$s is the max progress
+#. amount.
+#: includes/blocks/class-kadence-blocks-progress-bar-block.php:253
+msgid "%1$s out of %2$s Stars"
+msgstr "%1$s ud af %2$s stjerner"
+
+#: includes/class-kadence-blocks-prebuilt-library.php:519
+#: includes/class-kadence-blocks-prebuilt-library.php:536
+msgid "No Connection data available"
+msgstr "Ingen tilgængelige forbindelsesdata"
+
+#: includes/settings/class-kadence-blocks-settings.php:837
+msgid "Config Kadence Block Prophecy AI"
+msgstr "Opsæt Kadence Block Prophecy AI"
+
+#. Translators: %s is the photographer's name.
+#: includes/resources/Image_Downloader/WordPress_Importer.php:88
+msgid "Photo by %s"
+msgstr "Foto af %s"
+
+#: includes/resources/Image_Downloader/Image_Editor.php:259
+#: includes/resources/Image_Downloader/Image_Editor.php:288
+msgid "Cannot resize the image."
+msgstr "Kan ikke ændre størrelsen på billedet."
+
+#: includes/resources/Image_Downloader/Image_Editor.php:226
+msgid "Cannot resize the image. Both width and height are not set."
+msgstr "Kan ikke ændre størrelsen på billedet. Både bredde og højde er ikke indstillet."
+
+#: includes/resources/Image_Downloader/Image_Editor.php:111
+msgid "Cannot find downloaded file."
+msgstr "Kan ikke finde den downloadede fil."
+
+#: includes/resources/Image_Downloader/Image_Editor.php:78
+msgid "File cannot be null."
+msgstr "Filen kan ikke være null."
+
+#: includes/resources/Health/Required_Function_Verifier.php:51
+msgid "suggested"
+msgstr "foreslået"
+
+#: includes/resources/Health/Required_Function_Verifier.php:51
+msgid "required"
+msgstr "påkrævet"
+
+#: includes/resources/Health/Required_Function_Verifier.php:49
+msgid "The \"%1$s\" function is disabled via PHP and is %2$s by Kadence Blocks. Ask your administrator to enable it."
+msgstr "Funktionen \"%1$s\" er deaktiveret via PHP og er %2$s af Kadence Blocks. Bed din administrator om at aktivere den."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2737
+msgid "The industries to return"
+msgstr "Industrierne vender tilbage"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2727
+msgid "The selected Industry"
+msgstr "Den udvalgte industri"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2722
+msgid "Pattern ID"
+msgstr "Blokgruppe-ID"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2717
+msgid "Pattern Style"
+msgstr "Blokgruppe-stil"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2712
+msgid "Pattern Type"
+msgstr "Blokgruppe-type"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2707
+msgid "Kadence License Product ID."
+msgstr "Kadence License Product ID."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2702
+msgid "Kadence License Email."
+msgstr "Kadence licens e-mail."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2697
+msgid "Kadence License Key."
+msgstr "Kadence-licensnøgle."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2692
+msgid "Library Key."
+msgstr "Biblioteksnøgle."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2687
+msgid "Force a refresh of the context."
+msgstr "Fremtvinger en opdatering af konteksten."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2681
+msgid "The requested library URL."
+msgstr "Det ønskede biblioteks URL."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2676
+msgid "The requested library."
+msgstr "Det ønskede bibliotek."
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2671
+msgid "The requested ai context."
+msgstr "Den ønskede ai-kontekst."
+
+#: includes/class-kadence-blocks-ai-events.php:75
+msgid "The Event Data"
+msgstr "Begivenhedsdataene"
+
+#: includes/class-kadence-blocks-ai-events.php:70
+msgid "The Event Label"
+msgstr "Begivenhedens etiket"
+
+#: includes/blocks/class-kadence-blocks-progress-bar-block.php:359
+msgid "Progressbar Label"
+msgstr "Label til fremdriftslinje"
+
+#: includes/advanced-form/getresponse-rest-api.php:95
+msgid "Empty data from GetResponse"
+msgstr "Tomme data fra GetResponse"
+
+#: includes/advanced-form/getresponse-rest-api.php:89
+msgid "Error fetching data from GetResponse"
+msgstr "Fejl ved hentning af data fra GetResponse"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1201
+msgid "Display this image in a lightbox"
+msgstr "Vis dette billede i en lightbox"
+
+#: includes/templates/form-email.php:132
+msgid "View File"
+msgstr "Vis fil"
+
+#: includes/settings/class-kadence-blocks-settings.php:815
+msgid "Config Kadence Block visibility settings"
+msgstr "Opsæt Kadence Block indstillinger for synlighed"
+
+#: includes/class-kadence-blocks-image-picker.php:126
+msgid "View on Pexels"
+msgstr "Se på Pexels"
+
+#: includes/class-kadence-blocks-image-picker.php:123
+msgid "Photo by:"
+msgstr "Foto af:"
+
+#: includes/class-kadence-blocks-image-picker-rest.php:91
+#: includes/class-kadence-blocks-image-picker-rest.php:96
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2732
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:2742
+msgid "The Image type to return"
+msgstr "Den billedtype, der skal returneres"
+
+#: includes/class-kadence-blocks-prebuilt-library-rest-api.php:1254
+#: includes/class-kadence-blocks-prebuilt-library.php:851
+msgid "Photo by"
+msgstr "Foto af"
+
+#. translators: %s: post title.
+#: includes/class-kadence-blocks-duplicate-post.php:98
+msgid "%s (Copy)"
+msgstr "%s (kopi)"
+
+#. translators: %s: product id
+#: includes/class-kadence-blocks-duplicate-post.php:76
+msgid "Post creation failed, could not find original post: %s"
+msgstr "Oprettelse af indlæg mislykkedes, kunne ikke finde det oprindelige indlæg: %s"
+
+#: includes/class-kadence-blocks-duplicate-post.php:66
+msgid "No post to duplicate has been supplied!"
+msgstr "Du har ikke valgt noget indhold at kopiere!"
+
+#: includes/class-kadence-blocks-duplicate-post.php:56
+msgid "Duplicate"
+msgstr "Dupliker"
+
+#: includes/class-kadence-blocks-duplicate-post.php:55
+msgid "Make a duplicate from this."
+msgstr "Lav en kopi af dette."
+
+#: dist/blocks/progress-bar/block.json
+msgctxt "block keyword"
+msgid "progress bar"
+msgstr "fremdriftslinje"
+
+#: dist/blocks-progress-bar.js:1 dist/blocks/progress-bar/block.json
+msgctxt "block description"
+msgid "Kadence progress bar"
+msgstr "Kadence-fremdriftslinje"
+
+#: dist/blocks-progress-bar.js:1 dist/blocks/progress-bar/block.json
+msgctxt "block title"
+msgid "Progress Bar"
+msgstr "Fremdriftslinje"
+
+#: dist/blocks/advanced-form/fields/submit/block.json
+msgctxt "block title"
+msgid "Submit Button"
+msgstr "Afsend knap"
+
+#: dist/blocks/advanced-form/fields/captcha/block.json
+msgctxt "block title"
+msgid "Captcha"
+msgstr "Captcha"
+
+#: dist/blocks-advanced-form.js:18 dist/blocks/advanced-form/block.json
+msgctxt "block description"
+msgid "Create an advanced contact or marketing form for your website."
+msgstr "Opret en avanceret kontakt- eller marketingformular til dit websted."
+
+#: includes/settings/class-kadence-blocks-settings.php:619
+#: includes/settings/class-kadence-blocks-settings.php:628
+#: dist/blocks-rowlayout.js:30
+msgid "Kadence"
+msgstr "Kadence"
+
+#: includes/blocks/form/class-kadence-blocks-captcha-block.php:146
+#: includes/blocks/form/class-kadence-blocks-captcha-block.php:154
+#: dist/blocks-advanced-form.js:14
+msgid "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply"
+msgstr "Dette websted er beskyttet af reCAPTCHA, og Googles privatlivspolitik og servicevilkår gælder"
+
+#: includes/settings/class-kadence-blocks-settings.php:1062
+msgid "Load Google Fonts Locally"
+msgstr "Indlæs Google skrifttyper lokalt"
+
+#: includes/settings/class-kadence-blocks-settings.php:936
+#: dist/blocks-advanced-form.js:14
+msgid "hCaptcha Secret Key"
+msgstr "hCaptcha hemmelig nøgle"
+
+#: includes/settings/class-kadence-blocks-settings.php:925
+msgid "hCaptcha Turnstile Site Key"
+msgstr "hCaptcha Turnstile websteds-nøgle"
+
+#: includes/settings/class-kadence-blocks-settings.php:914
+msgid "Cloudflare Turnstile Secret Key"
+msgstr "Cloudflare Turnstile hemmelig nøgle"
+
+#: includes/settings/class-kadence-blocks-settings.php:903
+msgid "Cloudflare Turnstile Site Key"
+msgstr "Cloudflare Turnstile websteds-nøgle"
+
+#: includes/class-kadence-blocks-prebuilt-library.php:1271
+msgid "Once Monthly"
+msgstr "Én gang månedligt"
+
+#: includes/class-kadence-blocks-posts-rest-api.php:579
+msgid "Page of results to return."
+msgstr "Side med resultater, der skal returneres."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:550
+#: includes/class-kadence-blocks-posts-rest-api.php:566
+msgid "The source of the content."
+msgstr "Kilden til indholdet."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:546
+msgid "Taxonomy Type."
+msgstr "Taksonomi type."
+
+#. translators: Visible only in the front end, this warning takes the place of
+#. a faulty block.
+#: includes/blocks/class-kadence-blocks-advanced-form-block.php:349
+#: includes/blocks/class-kadence-blocks-header-block.php:218
+#: includes/blocks/class-kadence-blocks-navigation-block.php:334
+#: includes/blocks/class-kadence-blocks-navigation-link-block.php:531
+msgid "[block rendering halted]"
+msgstr "[blokrendering afbrudt]"
+
+#: includes/advanced-form/advanced-form-cpt.php:153
+msgid "Contact forms, subscribe forms and others for your site."
+msgstr "Kontaktformularer, abonnementsformularer og andet til dit websted."
+
+#: includes/advanced-form/advanced-form-cpt.php:78
+msgid "Entries (Pro Only)"
+msgstr "Tilmeldinger (kun Pro)"
+
+#: includes/advanced-form/advanced-form-cpt.php:76
+msgid "Entries"
+msgstr "Indsendte"
+
+#: includes/advanced-form/advanced-form-cpt.php:73
+#: dist/blocks-advanced-form.js:14 dist/blocks-advanced-form.js:16
+#: dist/blocks-advanced-form.js:18 dist/blocks-navigation-link.js:13
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: includes/advanced-form/advanced-form-ajax.php:376
+msgid "Not enough disk quota on this website."
+msgstr "Ikke nok diskkvote på dette websted."
+
+#: includes/advanced-form/advanced-form-ajax.php:178
+msgid "Did not accept"
+msgstr "Accepterede ikke"
+
+#: includes/advanced-form/advanced-form-ajax.php:95
+msgid "CAPTCHA Failed"
+msgstr "CAPTCHA mislykkedes"
+
+#. translators: %s is the location.
+#: includes/blocks/class-kadence-blocks-googlemaps-block.php:208
+msgid "Google map of %s"
+msgstr "Google-kort over %s"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1200
+msgid "See more"
+msgstr "Se mere"
+
+#: dist/blocks-testimonials.js:1 dist/blocks/testimonials/block.json
+msgctxt "block title"
+msgid "Testimonials"
+msgstr "Anbefalinger"
+
+#: dist/blocks-testimonial.js:1 dist/blocks-testimonials.js:1
+#: dist/blocks/testimonial/block.json
+msgctxt "block title"
+msgid "Testimonial"
+msgstr "Anbefaling"
+
+#: dist/blocks/tabs/tab/block.json
+msgctxt "block title"
+msgid "Tab"
+msgstr "Fane"
+
+#: dist/blocks-tabs.js:26 dist/blocks/tabs/block.json
+msgctxt "block title"
+msgid "Tabs"
+msgstr "Faner"
+
+#: dist/blocks-tableofcontents.js:1 dist/blocks/tableofcontents/block.json
+msgctxt "block title"
+msgid "Table of Contents"
+msgstr "Indholdsfortegnelse"
+
+#: dist/blocks-spacer.js:1 dist/blocks/spacer/block.json
+msgctxt "block title"
+msgid "Spacer / Divider"
+msgstr "Afstand/opdeler"
+
+#: dist/blocks/singlebtn/block.json
+msgctxt "block title"
+msgid "Single Button"
+msgstr "Enkelt knap"
+
+#: dist/blocks/single-icon/block.json
+msgctxt "block title"
+msgid "Single Icon"
+msgstr "Enkelt ikon"
+
+#: dist/blocks-rowlayout.js:30 dist/blocks/rowlayout/block.json
+msgctxt "block title"
+msgid "Row Layout"
+msgstr "Række-layout"
+
+#: dist/blocks-posts.js:9 dist/blocks/posts/block.json
+msgctxt "block title"
+msgid "Posts"
+msgstr "Indlæg"
+
+#: dist/blocks/listitem/block.json
+msgctxt "block title"
+msgid "List item"
+msgstr "Liste-element"
+
+#: dist/blocks/infobox/block.json
+msgctxt "block keyword"
+msgid "icon"
+msgstr "ikon"
+
+#: dist/blocks/infobox/block.json
+msgctxt "block keyword"
+msgid "info"
+msgstr "info"
+
+#: dist/blocks-infobox.js:1 dist/blocks/infobox/block.json
+msgctxt "block description"
+msgid "Create beautiful information boxes using icons or images."
+msgstr "Skab smukke informationsbokse ved hjælp af ikoner eller billeder."
+
+#: dist/blocks-infobox.js:1 dist/blocks/infobox/block.json
+msgctxt "block title"
+msgid "Info Box"
+msgstr "Info-boks"
+
+#: dist/blocks/image/block.json
+msgctxt "block keyword"
+msgid "photo"
+msgstr "foto"
+
+#: dist/blocks/image/block.json
+msgctxt "block keyword"
+msgid "image"
+msgstr "billede"
+
+#: dist/blocks/image/block.json
+msgctxt "block keyword"
+msgid "img"
+msgstr "img"
+
+#: dist/blocks-iconlist.js:1 dist/blocks/iconlist/block.json
+msgctxt "block title"
+msgid "Icon List"
+msgstr "Ikonliste"
+
+#: dist/blocks-icon.js:1 dist/blocks/icon/block.json
+msgctxt "block title"
+msgid "Icon"
+msgstr "Ikon"
+
+#: dist/blocks/form/block.json includes/blocks/form/block.json
+msgctxt "block keyword"
+msgid "KB"
+msgstr "KB"
+
+#: dist/blocks/form/block.json includes/blocks/form/block.json
+msgctxt "block keyword"
+msgid "marketing"
+msgstr "marketing"
+
+#: dist/blocks-form.js:1 dist/blocks/form/block.json
+#: includes/blocks/form/block.json
+msgctxt "block title"
+msgid "Form"
+msgstr "Formular"
+
+#: dist/blocks-countup.js:1 dist/blocks/countup/block.json
+msgctxt "block title"
+msgid "Count Up"
+msgstr "Tæl op"
+
+#: dist/blocks/countdown/countdown-timer/block.json
+msgctxt "block title"
+msgid "Countdown Timer"
+msgstr "Nedtællingstimer"
+
+#: dist/blocks/countdown/countdown-inner/block.json
+msgctxt "block title"
+msgid "Countdown Content"
+msgstr "Nedtællingsindhold"
+
+#: dist/blocks-countdown.js:1 dist/blocks/countdown/block.json
+msgctxt "block title"
+msgid "Countdown"
+msgstr "Nedtælling"
+
+#: dist/blocks/advancedheading/block.json
+msgctxt "block title"
+msgid "Advanced Text"
+msgstr "Avanceret tekst"
+
+#: dist/blocks/advancedgallery/block.json
+msgctxt "block title"
+msgid "Advanced Gallery"
+msgstr "Avanceret galleri"
+
+#: dist/blocks/advancedbtn/block.json
+msgctxt "block title"
+msgid "Advanced Button"
+msgstr "Avanceret knap"
+
+#: dist/blocks/advanced-form/block.json dist/blocks/form/block.json
+#: includes/blocks/form/block.json
+msgctxt "block keyword"
+msgid "contact"
+msgstr "kontakt"
+
+#: dist/blocks/advanced-form/block.json
+msgctxt "block keyword"
+msgid "form"
+msgstr "formular"
+
+#: dist/blocks/advanced-form/block.json dist/blocks/image/block.json
+#: dist/blocks/infobox/block.json dist/blocks/progress-bar/block.json
+msgctxt "block keyword"
+msgid "kb"
+msgstr "kb"
+
+#: dist/blocks/advanced-form/block.json
+msgctxt "block title"
+msgid "Advanced Form"
+msgstr "Avanceret formular"
+
+#: dist/blocks/accordion/pane/block.json
+msgctxt "block title"
+msgid "Pane"
+msgstr "Panel"
+
+#: dist/blocks-accordion.js:1 dist/blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Harmonika"
+
+#: includes/class-kadence-blocks-cpt-import-export.php:223
+#: dist/blocks-navigation.js:1 dist/plugin-kadence-control.js:8
+msgid "Import"
+msgstr "Import"
+
+#: includes/settings/class-kadence-blocks-site-health.php:325
+msgid "On"
+msgstr "På"
+
+#: includes/settings/class-kadence-blocks-site-health.php:315
+#: includes/settings/class-kadence-blocks-site-health.php:336
+#: dist/blocks-header.js:1
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/settings/class-kadence-blocks-site-health.php:309
+#: includes/settings/class-kadence-blocks-site-health.php:311
+#: includes/settings/class-kadence-blocks-site-health.php:313
+#: includes/settings/class-kadence-blocks-site-health.php:336
+#: dist/blocks-header.js:1
+msgid "No"
+msgstr "Nej"
+
+#: includes/settings/class-kadence-blocks-site-health.php:240
+msgid "Has Cloud Library"
+msgstr "Har Cloud-bibliotek"
+
+#: includes/settings/class-kadence-blocks-site-health.php:236
+msgid "Has MailerLite key"
+msgstr "Har MailerLite-nøgle"
+
+#: includes/settings/class-kadence-blocks-site-health.php:232
+msgid "Has a maps API key"
+msgstr "Har en kort-API-nøgle"
+
+#: includes/settings/class-kadence-blocks-site-health.php:228
+msgid "Has reCAPTCHA key"
+msgstr "Har reCAPTCHA-nøgle"
+
+#: includes/settings/class-kadence-blocks-site-health.php:224
+msgid "Has Custom Colors"
+msgstr "Har tilpassede farver"
+
+#: includes/settings/class-kadence-blocks-site-health.php:220
+msgid "Using Setting Visibility"
+msgstr "Bruger tilpasning af synlighed"
+
+#: includes/settings/class-kadence-blocks-site-health.php:216
+msgid "Has Block Defaults"
+msgstr "Har blok-standarder"
+
+#: includes/settings/class-kadence-blocks-site-health.php:212
+msgid "Deactivated Blocks"
+msgstr "Deaktiverede blokke"
+
+#: includes/settings/class-kadence-blocks-site-health.php:208
+msgid "Has Pro"
+msgstr "Har Pro"
+
+#: includes/settings/class-kadence-blocks-site-health.php:204
+msgid "Previous version"
+msgstr "Tidligere version"
+
+#: includes/settings/class-kadence-blocks-site-health.php:200
+msgid "Unknown"
+msgstr "Ukendt"
+
+#: includes/settings/class-kadence-blocks-site-health.php:199
+msgid "Last updated"
+msgstr "Sidst opdateret"
+
+#: includes/settings/class-kadence-blocks-site-health.php:195
+msgid "Version"
+msgstr "Version"
+
+#: includes/settings/class-kadence-blocks-settings.php:1002
+#: includes/settings/class-kadence-blocks-settings.php:1013
+#: includes/settings/class-kadence-blocks-settings.php:1024
+msgid "ConvertKit API Key"
+msgstr "ConvertKit API-nøgle"
+
+#: includes/settings/class-kadence-blocks-settings.php:892
+msgid "Google reCaptcha Language"
+msgstr "Google reCaptcha sprog"
+
+#. translators: placeholder: username.
+#: includes/settings/class-kadence-blocks-settings.php:213
+msgid "Hi, %1$s! At KadenceWP, we're always looking for more ways to make our products better for you. If you opt into sharing some data on your usage of Kadence Blocks, it helps us identify key areas where we can improve. In return, we'll also email helpful articles and guides to get more out of Kadence, WordPress, and more. If you skip this, that's okay. Kadence Blocks will work just fine. We hope you love building with Kadence."
+msgstr "Hej, %1$s! Hos KadenceWP er vi altid på udkig efter flere måder at gøre vores produkter bedre for dig. Hvis du vælger at dele nogle data om din brug af Kadence Blocks, hjælper det os med at identificere nøgleområder, hvor vi kan forbedre os. Til gengæld vil vi også sende dig nyttige artikler og vejledninger, så du kan få mere ud af Kadence, WordPress og meget mere. Hvis du springer dette over, er det okay. Kadence Blocks vil fungere fint. Vi håber, at du vil elske at bygge med Kadence."
+
+#: includes/settings/class-kadence-blocks-settings.php:210
+msgid "Help us make Kadence Blocks even better."
+msgstr "Hjælp os med at gøre Kadence Blocks endnu bedre."
+
+#: includes/settings/class-kadence-blocks-settings.php:186
+msgid "Other"
+msgstr "Anden"
+
+#: includes/settings/class-kadence-blocks-settings.php:181
+msgid "Something is broken."
+msgstr "Noget er gået i stykker."
+
+#: includes/settings/class-kadence-blocks-settings.php:176
+msgid "I need a specific feature kadence blocks doesn't provide."
+msgstr "Jeg har brug for en bestemt funktion, som Kadence Blocks ikke tilbyder."
+
+#: includes/settings/class-kadence-blocks-settings.php:171
+msgid "I found a better plugin."
+msgstr "Jeg har fundet et bedre plugin."
+
+#: includes/settings/class-kadence-blocks-settings.php:166
+msgid "I couldn't understand how to make it work."
+msgstr "Jeg kunne ikke forstå, hvordan jeg skulle få det til at fungere."
+
+#: includes/blocks/class-kadence-blocks-form-block.php:771
+msgid "Please enable JavaScript in your browser to submit the form"
+msgstr "Aktiver JavaScript i din browser for at indsende formularen"
+
+#: includes/advanced-form/advanced-form-cpt.php:148
+msgid "Filter items list"
+msgstr "Filtrer emnelisten"
+
+#: includes/advanced-form/advanced-form-cpt.php:147
+msgid "Not found in Trash"
+msgstr "Ikke fundet i papirkurven"
+
+#: includes/advanced-form/advanced-form-cpt.php:146
+msgid "Not found"
+msgstr "Ikke fundet"
+
+#: includes/advanced-form/advanced-form-cpt.php:145
+msgid "Search Forms"
+msgstr "Søg i formularer"
+
+#: includes/advanced-form/advanced-form-cpt.php:144
+msgid "View Forms"
+msgstr "Se formularer"
+
+#: includes/advanced-form/advanced-form-cpt.php:143
+msgid "View Form"
+msgstr "Vis formular"
+
+#: includes/advanced-form/advanced-form-cpt.php:142
+msgid "Update Form"
+msgstr "Opdater formular"
+
+#: includes/advanced-form/advanced-form-cpt.php:141
+#: dist/blocks-advanced-form.js:18
+msgid "Edit Form"
+msgstr "Rediger formular"
+
+#: includes/advanced-form/advanced-form-cpt.php:140
+msgid "New Form"
+msgstr "Ny formular"
+
+#: includes/advanced-form/advanced-form-cpt.php:138
+#: includes/advanced-form/advanced-form-cpt.php:139
+msgid "Add New Form"
+msgstr "Tilføj ny formular"
+
+#: includes/advanced-form/advanced-form-cpt.php:136
+msgid "Parent Form:"
+msgstr "Overordnet formular:"
+
+#: includes/advanced-form/advanced-form-cpt.php:135
+msgid "Form Attributes"
+msgstr "Formular-attributter"
+
+#: includes/advanced-form/advanced-form-cpt.php:134
+msgid "Form Archives"
+msgstr "Formulararkiv"
+
+#: includes/advanced-form/advanced-form-cpt.php:133
+msgctxt "Admin Menu text"
+msgid "Forms"
+msgstr "Formularer"
+
+#: includes/advanced-form/advanced-form-cpt.php:132
+#: includes/advanced-form/advanced-form-cpt.php:137
+msgid "Forms"
+msgstr "Formularer"
+
+#: includes/advanced-form/advanced-form-cpt.php:131
+msgctxt "Post Type Singular Name"
+msgid "Form"
+msgstr "Formular"
+
+#: includes/advanced-form/advanced-form-cpt.php:130
+msgctxt "Post Type General Name"
+msgid "Forms"
+msgstr "Formularer"
+
+#: includes/advanced-form/advanced-form-rest-api.php:45
+#: includes/advanced-form/advanced-form-rest-api.php:53
+#: includes/header/class-kadence-header-rest.php:46
+#: includes/header/class-kadence-header-rest.php:54
+#: includes/navigation/class-kadence-navigation-rest.php:53
+#: includes/navigation/class-kadence-navigation-rest.php:61
+msgid "You do not have permission to view these posts."
+msgstr "Du har ikke tilladelse til at se disse indlæg."
+
+#: includes/advanced-form/advanced-form-ajax.php:408
+msgid "Failed to upload file"
+msgstr "Kunne ikke uploade fil"
+
+#: includes/advanced-form/advanced-form-ajax.php:347
+msgid "File too large"
+msgstr "Filen er for stor"
+
+#: includes/advanced-form/advanced-form-ajax.php:268
+#: includes/advanced-form/advanced-form-ajax.php:284
+#: includes/advanced-form/advanced-form-ajax.php:294
+#: includes/advanced-form/advanced-form-ajax.php:330
+msgid "Missing a required field"
+msgstr "Mangler et obligatorisk felt"
+
+#: dist/blocks-show-more.js:1 dist/blocks/show-more/block.json
+msgctxt "block title"
+msgid "Show More"
+msgstr "Vis mere"
+
+#: dist/blocks-column.js:1 dist/blocks/column/block.json
+msgctxt "block title"
+msgid "Section"
+msgstr "Sektion"
+
+#: dist/blocks-googlemaps.js:1 dist/blocks/googlemaps/block.json
+msgctxt "block title"
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: dist/blocks-image.js:2 dist/blocks/image/block.json
+msgctxt "block description"
+msgid "Image block with greater controls and advanced features"
+msgstr "Billedblok med større kontrol og avancerede funktioner"
+
+#: dist/blocks/image/block.json
+msgctxt "block title"
+msgid "Advanced Image"
+msgstr "Avanceret billede"
+
+#: dist/blocks-lottie.js:1 dist/blocks/lottie/block.json
+msgctxt "block title"
+msgid "Lottie Animations"
+msgstr "Lottie Animationer"
+
+#: includes/settings/class-kadence-blocks-settings.php:1384
+msgid "Upgrade Kadence Blocks"
+msgstr "Opgrader Kadence Blokke"
+
+#: includes/settings/class-kadence-blocks-settings.php:1382
+msgid "Premium Design Library"
+msgstr "Førsteklasses designbibliotek"
+
+#: includes/settings/class-kadence-blocks-settings.php:1380
+msgid "Custom Icons"
+msgstr "Tilpassede ikoner"
+
+#: includes/settings/class-kadence-blocks-settings.php:1378
+msgid "Pro Block Addons"
+msgstr "Pro Block-tilføjelser"
+
+#: includes/settings/class-kadence-blocks-settings.php:1377
+msgid "10 Pro Blocks"
+msgstr "10 Pro-blokke"
+
+#: includes/settings/class-kadence-blocks-settings.php:1375
+#: dist/admin-kadence-home.js:14
+msgid "Kadence Blocks Pro"
+msgstr "Kadence Blocks Pro"
+
+#: includes/settings/class-kadence-blocks-settings.php:958
+msgid "Google Maps API Key"
+msgstr "Google Maps API nøgle"
+
+#: includes/settings/class-kadence-blocks-settings.php:1455
+#: dist/plugin-kadence-control.js:8
+msgid "Advanced Text"
+msgstr "Avanceret tekst"
+
+#. translators: %s is the access level name.
+#: includes/class-kadence-blocks-editor-assets.php:242
+msgid "%s and higher"
+msgstr "%s og højere"
+
+#: includes/settings/class-kadence-blocks-settings.php:1491
+msgid "Increase your conversions by adding a sense of urgency to your offering. Pro includes evergreen campaigns as well."
+msgstr "Øg dine konverteringer ved at tilføje en følelse af at det haster, til dit tilbud. Pro inkluderer også evergreen-kampagner."
+
+#: includes/settings/class-kadence-blocks-settings.php:1486
+msgid "Display a clean grid of posts anywhere on your site, great for your home page where you want to tease your blog."
+msgstr "Vis et enkelt gitter af indlæg hvor som helst på dit websted, perfekt til din startside, hvor du vil præsentere din blog."
+
+#: includes/settings/class-kadence-blocks-settings.php:1481
+msgid "Allow your readers to navigate your content easily with a table of contents block. Includes smooth scroll to anchor."
+msgstr "Giv dine læsere mulighed for nemt at navigere i dit indhold med en indholdsfortegnelsesblok. Inkluderer jævn rulning til anker."
+
+#: includes/settings/class-kadence-blocks-settings.php:1466
+msgid "Create a box containing an icon or image and, optionally, a title, description, and learn more text. Style static and hover separately."
+msgstr "Opret en boks, der indeholder et ikon eller et billede og eventuelt en titel, en beskrivelse og en 'lær mere'-tekst. Opsæt stil for statisk og hover separat."
+
+#: includes/settings/class-kadence-blocks-settings.php:1418
+msgid "Add an extra \"wow\" factor to your site with engaging Lottie animations."
+msgstr "Tilføj en ekstra \"wow\"-faktor til dit websted med engagerende Lottie-animationer."
+
+#: includes/settings/class-kadence-blocks-settings.php:1417
+msgid "Lottie Animations"
+msgstr "Lottie Animationer"
+
+#: includes/settings/class-kadence-blocks-settings.php:1420
+msgid "Manage Lottie Animations"
+msgstr "Administrer Lottie-animationer"
+
+#: includes/settings/class-kadence-blocks-settings.php:991
+msgid "Subscribe to Wireframe library"
+msgstr "Abonner på Wireframe-biblioteket"
+
+#: includes/init.php:562
+msgid "Lottie Animations imported in Kadence"
+msgstr "Lottie-animationer importeret i Kadence"
+
+#: includes/init.php:561
+msgctxt "Lottie animation"
+msgid "Lottie Animations"
+msgstr "Lottie Animationer"
+
+#: includes/class-lottieanimation-post-rest-api.php:67
+msgid "Please enter an animation title"
+msgstr "Indtast venligst en animationstitel"
+
+#: includes/class-lottieanimation-post-rest-api.php:61
+msgid "Lottie animation contains invalid JSON"
+msgstr "Lottie-animation indeholder ugyldig JSON"
+
+#: includes/class-lottieanimation-get-rest-api.php:63
+msgid "Lottie animation file contains invalid json"
+msgstr "Lottie-animationsfilen indeholder ugyldig json"
+
+#: includes/class-lottieanimation-get-rest-api.php:59
+msgid "Lottie animation not found"
+msgstr "Lottie-animation ikke fundet"
+
+#: includes/class-kadence-blocks-posts-rest-api.php:513
+msgid "The Current Post ID."
+msgstr "Nuværende post ID."
+
+#: includes/settings/class-kadence-blocks-settings.php:1490
+#: dist/plugin-kadence-control.js:8
+msgid "Countdown"
+msgstr "Nedtælling"
+
+#: includes/settings/class-kadence-blocks-settings.php:1485
+#: dist/blocks-posts.js:9 dist/components.js:42
+#: dist/plugin-kadence-control.js:8
+msgid "Posts"
+msgstr "Indlæg"
+
+#: includes/settings/class-kadence-blocks-settings.php:1456
+#: dist/blocks-advancedheading.js:1
+msgid "Create a heading or paragraph and define sizes for desktop, tablet and mobile along with font family, colors, etc."
+msgstr "Opret en overskrift eller et afsnit, og definer størrelser til desktop, tablet og mobil sammen med skrifttypefamilie, farver osv."
+
+#: includes/settings/class-kadence-blocks-settings.php:1379
+#: dist/components.js:19 dist/components.js:41
+msgid "Dynamic Content"
+msgstr "Dynamisk indhold"
+
+#: includes/settings/class-kadence-blocks-settings.php:1381
+#: dist/components.js:41 dist/components.js:42
+msgid "Custom Fonts"
+msgstr "Tilføjede skrifttyper"
+
+#: includes/settings/class-kadence-blocks-settings.php:1307
+#: dist/components.js:41
+msgid "Google Fonts"
+msgstr "Google skrifttyper"
+
+#. translators: separator between taxonomy terms
+#: includes/templates/entry-loop-taxonomies.php:31
+msgctxt "list item separator"
+msgid " | "
+msgstr " | "
+
+#. translators: separator between taxonomy terms
+#: includes/templates/entry-loop-taxonomies.php:27
+msgctxt "list item separator"
+msgid " - "
+msgstr " - "
+
+#. translators: separator between taxonomy terms
+#: includes/templates/entry-loop-taxonomies.php:23
+msgctxt "list item separator"
+msgid " / "
+msgstr " / "
+
+#: includes/templates/entry-loop-meta.php:157 dist/blocks-posts.js:9
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: includes/templates/entry-loop-meta.php:155 dist/blocks-posts.js:9
+msgid "Comment"
+msgstr "Kommentér"
+
+#. translators: separator between taxonomy terms
+#: includes/templates/entry-loop-meta.php:138
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: includes/templates/entry-loop-meta.php:28
+msgid "Posted in"
+msgstr "Udgivet i"
+
+#: includes/templates/entry-loop-meta.php:25
+msgid "Updated on"
+msgstr "Opdateret"
+
+#: includes/templates/entry-loop-meta.php:22
+msgid "Posted on"
+msgstr "Udgivet i"
+
+#: includes/templates/entry-loop-meta.php:19 dist/blocks-posts.js:9
+msgid "By"
+msgstr "Af"
+
+#: includes/templates/entry-loop-footer.php:16 dist/blocks-posts.js:9
+msgid "Read More"
+msgstr "Læs mere"
+
+#: includes/settings/class-kadence-blocks-settings.php:1355
+msgid "Submit a Ticket"
+msgstr "Send forespørgsel"
+
+#: includes/settings/class-kadence-blocks-settings.php:1354
+msgid "Have a question, we are happy to help! Get in touch with our support team."
+msgstr "Har du et spørgsmål, hjælper vi gerne! Kontakt vores supportteam."
+
+#: includes/settings/class-kadence-blocks-settings.php:1347
+msgid "Need help? We have a knowledge base full of articles to get you started."
+msgstr "Har du brug for hjælp? Vi har en vidensbase fuld af artikler, der kan hjælpe dig i gang."
+
+#: includes/settings/class-kadence-blocks-settings.php:1346
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/settings/class-kadence-blocks-settings.php:1341
+msgid "Join our Facebook Group"
+msgstr "Deltag i vores Facebook gruppe"
+
+#: includes/settings/class-kadence-blocks-settings.php:1340
+msgid "Join our community of fellow kadence users creating effective websites! Share your site, ask a question and help others."
+msgstr "Bliv en del af vores fællesskab af andre kadence-brugere, der skaber effektive hjemmesider! Del dit websted, stil et spørgsmål, og hjælp andre."
+
+#: includes/settings/class-kadence-blocks-settings.php:1339
+msgid "Web Creators Community"
+msgstr "Fællesskab for webskabere"
+
+#: includes/settings/class-kadence-blocks-settings.php:969
+msgid "Config Kadence Blocks Cloud"
+msgstr "Konfigurer Kadence Blocks Cloud"
+
+#: includes/settings/class-kadence-blocks-settings.php:947
+msgid "MailerLite API Key"
+msgstr "MailerLite API-nøgle"
+
+#: includes/init.php:472 dist/blocks-googlemaps.js:1
+msgid "Continue"
+msgstr "Fortsæt"
+
+#: includes/class-kadence-blocks-editor-assets.php:547
+#: includes/class-kadence-blocks-editor-assets.php:653
+#: includes/class-kadence-blocks-editor-assets.php:695
+#: includes/class-kadence-blocks-editor-assets.php:785 dist/components.js:41
+#: dist/components.js:42
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Fed 900"
+
+#: includes/class-kadence-blocks-editor-assets.php:543
+#: includes/class-kadence-blocks-editor-assets.php:649
+#: includes/class-kadence-blocks-editor-assets.php:689
+#: includes/class-kadence-blocks-editor-assets.php:692
+#: includes/class-kadence-blocks-editor-assets.php:781 dist/components.js:41
+#: dist/components.js:42
+msgid "Extra-Bold 800"
+msgstr "Ekstra-Fed 800"
+
+#: includes/class-kadence-blocks-editor-assets.php:539
+#: includes/class-kadence-blocks-editor-assets.php:645
+#: includes/class-kadence-blocks-editor-assets.php:777 dist/components.js:41
+#: dist/components.js:42
+msgid "Bold 700"
+msgstr "Fed 700"
+
+#: includes/class-kadence-blocks-editor-assets.php:535
+#: includes/class-kadence-blocks-editor-assets.php:641
+#: includes/class-kadence-blocks-editor-assets.php:686
+#: includes/class-kadence-blocks-editor-assets.php:773 dist/components.js:41
+#: dist/components.js:42
+msgid "Semi-Bold 600"
+msgstr "Halv-Fed 600"
+
+#: includes/class-kadence-blocks-editor-assets.php:531
+#: includes/class-kadence-blocks-editor-assets.php:637
+#: includes/class-kadence-blocks-editor-assets.php:683
+#: includes/class-kadence-blocks-editor-assets.php:769 dist/components.js:41
+#: dist/components.js:42
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: includes/class-kadence-blocks-editor-assets.php:527
+#: includes/class-kadence-blocks-editor-assets.php:633
+#: includes/class-kadence-blocks-editor-assets.php:677
+#: includes/class-kadence-blocks-editor-assets.php:680
+#: includes/class-kadence-blocks-editor-assets.php:765 dist/components.js:41
+#: dist/components.js:42
+msgid "Regular"
+msgstr "Almindelig"
+
+#: includes/class-kadence-blocks-editor-assets.php:523
+#: includes/class-kadence-blocks-editor-assets.php:629
+#: includes/class-kadence-blocks-editor-assets.php:674
+#: includes/class-kadence-blocks-editor-assets.php:761 dist/components.js:41
+#: dist/components.js:42
+msgid "Light 300"
+msgstr "Let 300"
+
+#: includes/class-kadence-blocks-editor-assets.php:519
+#: includes/class-kadence-blocks-editor-assets.php:625
+#: includes/class-kadence-blocks-editor-assets.php:671
+#: includes/class-kadence-blocks-editor-assets.php:757 dist/components.js:41
+#: dist/components.js:42
+msgid "Extra-Light 200"
+msgstr "Ekstra let 200"
+
+#: includes/class-kadence-blocks-editor-assets.php:515
+#: includes/class-kadence-blocks-editor-assets.php:621
+#: includes/class-kadence-blocks-editor-assets.php:668
+#: includes/class-kadence-blocks-editor-assets.php:753 dist/components.js:41
+#: dist/components.js:42
+msgid "Thin 100"
+msgstr "Tynd 100"
+
+#: includes/advanced-form/advanced-form-ajax.php:60 includes/form-ajax.php:459
+msgid "Submission rejected, invalid security token. Reload the page and try again."
+msgstr "Indsendelse afvist, ugyldigt sikkerhedstoken. Genindlæs siden, og prøv igen."
+
+#: includes/advanced-form/advanced-form-submit-actions.php:230
+#: includes/form-ajax.php:382
+msgid "MailerLite Failed"
+msgstr "MailerLite mislykkedes"
+
+#: includes/advanced-form/advanced-form-submit-actions.php:230
+#: includes/form-ajax.php:382
+msgid "MailerLite Misconfiguration"
+msgstr "Fejlkonfiguration af MailerLite"
+
+#: includes/advanced-form/advanced-form-submit-actions.php:225
+#: includes/form-ajax.php:378
+msgid "No Response from MailerLite"
+msgstr "Intet svar fra MailerLite"
+
+#: includes/advanced-form/advanced-form-ajax.php:752 includes/form-ajax.php:76
+msgid "Submission Failed, reCaptcha spam prevention. Please reload your page and try again."
+msgstr "Indsendelse mislykkedes, reCaptcha-spamforebyggelse. Genindlæs venligst din side og prøv igen."
+
+#: includes/class-mailerlite-form-rest-api.php:169
+msgid "Query Args for url."
+msgstr "Query Args til url."
+
+#: includes/class-mailerlite-form-rest-api.php:159
+msgid "The API Key for Mailerlite account."
+msgstr "API-nøglen til Mailerlite-kontoen."
+
+#: includes/class-kadence-blocks-table-of-contents.php:933
+#: includes/class-kadence-blocks-table-of-contents.php:941
+#: includes/settings/class-kadence-blocks-settings.php:1480
+#: dist/plugin-kadence-control.js:8
+msgid "Table of Contents"
+msgstr "Indholdsfortegnelse"
+
+#: includes/class-kadence-blocks-table-of-contents.php:354
+#: includes/class-kadence-blocks-table-of-contents.php:938
+#: includes/class-kadence-blocks-table-of-contents.php:947
+msgid "Collapse Table of Contents"
+msgstr "Komprimér indholdsfortegnelsen"
+
+#: includes/class-kadence-blocks-table-of-contents.php:353
+#: includes/class-kadence-blocks-table-of-contents.php:938
+#: includes/class-kadence-blocks-table-of-contents.php:947
+msgid "Expand Table of Contents"
+msgstr "Udvid indholdsfortegnelsen"
+
+#: includes/class-kadence-blocks-prebuilt-library.php:784
+#: includes/class-kadence-blocks-prebuilt-library.php:799
+#: includes/class-kadence-blocks-prebuilt-library.php:886
+msgid "No data"
+msgstr "Ingen data"
+
+#: includes/class-kadence-blocks-prebuilt-library.php:598
+#: includes/class-kadence-blocks-prebuilt-library.php:622
+#: includes/class-kadence-blocks-prebuilt-library.php:646
+#: includes/class-kadence-blocks-prebuilt-library.php:681
+#: includes/class-kadence-blocks-prebuilt-library.php:716
+#: includes/class-kadence-blocks-prebuilt-library.php:1215
+msgid "No library data"
+msgstr "Ingen biblioteksdata"
+
+#: includes/class-kadence-blocks-prebuilt-library.php:517
+msgid "No Connection data"
+msgstr "Ingen forbindelsesdata"
+
+#: includes/blocks/class-kadence-blocks-posts-block.php:272
+msgid "No posts"
+msgstr "Ingen indlæg"
+
+#: includes/class-kadence-blocks-posts-rest-api.php:531
+msgid "Include posts tags."
+msgstr "Inkluder tags til indlæg."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:526
+msgid "Include posts category."
+msgstr "Inkluder kategori for indlæg."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:517
+msgid "Check if using a custom Taxonomy"
+msgstr "Tjek, om du bruger en brugerdefineret taksonomi"
+
+#: includes/class-kadence-blocks-posts-rest-api.php:507
+msgid "Number of items to offset in query."
+msgstr "Antal elementer, der skal udlignes i forespørgslen."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:503
+msgid "Exclude Category."
+msgstr "Ekskluder kategori."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:498
+msgid "Allow Sticky in Query."
+msgstr "Tillad Klæbrig i forespørgsler."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:494
+#: includes/class-kadence-blocks-posts-rest-api.php:522
+msgid "Define Query Order By."
+msgstr "Definer forespørgselsrækkefølge."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:490
+msgid "Define Query Order."
+msgstr "Definer rækkefølgen af forespørgsler."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:486
+msgid "Define Type of Query."
+msgstr "Definer typen af forespørgsel."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:480
+#: includes/class-kadence-blocks-posts-rest-api.php:573
+msgid "Number of results to return."
+msgstr "Antal resultater, der skal returneres."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:474
+msgid "Include posts by ID."
+msgstr "Inkluder indlæg efter ID."
+
+#: includes/class-kadence-blocks-posts-rest-api.php:455
+msgid "Limit results to items of a specific post type."
+msgstr "Begræns resultaterne til indlæg af en bestemt type."
+
+#: includes/blocks/class-kadence-blocks-countdown-block.php:631
+#: dist/blocks-countdown.js:1
+msgid "Secs"
+msgstr "Sek"
+
+#: includes/blocks/class-kadence-blocks-countdown-block.php:630
+#: dist/blocks-countdown.js:1
+msgid "Mins"
+msgstr "Minutter"
+
+#: includes/blocks/class-kadence-blocks-countdown-block.php:629
+#: dist/blocks-countdown.js:1
+msgid "Hrs"
+msgstr "Timer"
+
+#: includes/blocks/class-kadence-blocks-countdown-block.php:628
+#: dist/blocks-countdown.js:1
+msgid "Days"
+msgstr "Dage"
+
+#: includes/advanced-form/activecampaign-rest-api.php:113
+#: includes/advanced-form/getresponse-rest-api.php:110
+#: includes/class-fluentcrm-form-rest-api.php:158
+#: includes/class-mailerlite-form-rest-api.php:164
+msgid "Actionable endpoint for api call."
+msgstr "Actionable endpoint for api-opkald."
+
+#: includes/class-fluentcrm-form-rest-api.php:132
+msgid "Source"
+msgstr "Kilde"
+
+#: includes/class-fluentcrm-form-rest-api.php:128
+#: dist/blocks-advanced-form.js:2
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/class-fluentcrm-form-rest-api.php:124
+msgid "Country"
+msgstr "Land"
+
+#: includes/class-fluentcrm-form-rest-api.php:116
+msgid "State"
+msgstr "Stat"
+
+#: includes/class-fluentcrm-form-rest-api.php:112
+msgid "City"
+msgstr "By"
+
+#: includes/class-fluentcrm-form-rest-api.php:108
+#: dist/blocks-advanced-form.js:1
+msgid "Address Line 2"
+msgstr "Adresselinje 2"
+
+#: includes/class-fluentcrm-form-rest-api.php:100
+msgid "Timezone"
+msgstr "Tidszone"
+
+#: includes/class-fluentcrm-form-rest-api.php:96
+msgid "Full Name"
+msgstr "Fulde navn"
+
+#: includes/class-fluentcrm-form-rest-api.php:84
+msgid "Name Prefix"
+msgstr "Navne forstavelse"
+
+#. Plugin Name of the plugin
+#: kadence-blocks.php
+msgid "Kadence Blocks – Gutenberg Blocks for Page Builder Features"
+msgstr "Kadence Blocks - Gutenberg-blokke til sidebygger-funktioner"
+
+#: includes/settings/class-kadence-blocks-site-health.php:325
+#: dist/blocks-advanced-form.js:1 dist/blocks-form.js:1
+msgid "Off"
+msgstr "Slået fra"
+
+#: includes/class-fluentcrm-form-rest-api.php:120
+#: dist/blocks-advanced-form.js:1 dist/blocks-form.js:1
+msgid "Postal Code"
+msgstr "Postnummer"
+
+#: includes/class-fluentcrm-form-rest-api.php:104
+#: dist/blocks-advanced-form.js:1 dist/blocks-form.js:1
+msgid "Address Line 1"
+msgstr "Adresselinje 1"
+
+#: includes/class-fluentcrm-form-rest-api.php:92 dist/blocks-advanced-form.js:1
+#: dist/blocks-advanced-form.js:2 dist/blocks-form.js:1
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: includes/class-fluentcrm-form-rest-api.php:88 dist/blocks-advanced-form.js:1
+#: dist/blocks-advanced-form.js:2 dist/blocks-form.js:1
+msgid "First Name"
+msgstr "Fornavn"
+
+#. translators: 'Home' as in a website's home page.
+#: includes/settings/class-kadence-blocks-settings.php:620
+#: includes/settings/class-kadence-blocks-settings.php:629
+#: dist/blocks-navigation.js:1 dist/blocks-navigation.js:3
+#: dist/blocks-rowlayout.js:1
+msgid "Home"
+msgstr "Forside"
+
+#: includes/blocks/class-kadence-blocks-advanced-form-block.php:516
+#: includes/blocks/class-kadence-blocks-form-block.php:823
+msgid "requires a unique entry and this value has already been used"
+msgstr "kræver en unik indtastning, og denne værdi er allerede blevet brugt"
+
+#: includes/blocks/class-kadence-blocks-advanced-form-block.php:515
+#: includes/blocks/class-kadence-blocks-form-block.php:822
+#: dist/blocks-form.js:1
+msgid "is not valid"
+msgstr "er ikke gyldig"
+
+#: includes/blocks/class-kadence-blocks-advanced-form-block.php:514
+#: includes/blocks/class-kadence-blocks-form-block.php:821
+msgid "does not match"
+msgstr "matcher ikke"
+
+#: includes/blocks/class-kadence-blocks-advanced-form-block.php:513
+#: includes/blocks/class-kadence-blocks-form-block.php:820
+#: dist/blocks-advanced-form.js:14 dist/blocks-advanced-form.js:16
+#: dist/blocks-advanced-form.js:18 dist/blocks-form.js:1
+msgid "is required"
+msgstr "er påkrævet"
+
+#: includes/blocks/class-kadence-blocks-advanced-form-block.php:511
+#: includes/blocks/class-kadence-blocks-form-block.php:818
+#: dist/blocks-advanced-form.js:2 dist/blocks-form.js:2
+msgid "Please fix the errors to proceed"
+msgstr "Ret fejlene for at fortsætte"
+
+#. translators: %s - link to a site.
+#: includes/templates/form-email.php:170
+msgid "Sent from %s"
+msgstr "Sendt fra %s"
+
+#: includes/settings/class-kadence-blocks-settings.php:1403
+msgid "Create a contact form or marketing form and style it within the block editor."
+msgstr "Opret en kontaktformular eller en markedsføringsformular, og vælg stil i blokeditoren."
+
+#: includes/settings/class-kadence-blocks-settings.php:1402
+#: dist/blocks-advanced-form.js:2 dist/blocks-advanced-form.js:18
+#: dist/blocks-rowlayout.js:1
+msgid "Form"
+msgstr "Formular"
+
+#: includes/settings/class-kadence-blocks-settings.php:881
+msgid "Google reCaptcha Secret Key"
+msgstr "Google reCaptcha hemmelig nøgle"
+
+#: includes/settings/class-kadence-blocks-settings.php:870
+msgid "Google reCaptcha Site Key"
+msgstr "Google reCaptcha webstedsnøgle"
+
+#: includes/settings/class-kadence-blocks-settings.php:859
+msgid "Config Kadence Blocks Global Settings"
+msgstr "Opsæt Kadence Blocks globale indstillinger"
+
+#: includes/advanced-form/advanced-form-ajax.php:696 includes/form-ajax.php:715
+msgid "Data not found"
+msgstr "Data ikke fundet"
+
+#: includes/advanced-form/advanced-form-ajax.php:178 includes/form-ajax.php:497
+#: dist/blocks-advanced-form.js:14 dist/blocks-form.js:1
+msgid "Accept"
+msgstr "Accepter"
+
+#: includes/advanced-form/advanced-form-ajax.php:142 includes/form-ajax.php:462
+msgid "No Data"
+msgstr "Ingen data"
+
+#: includes/advanced-form/advanced-form-ajax.php:142 includes/form-ajax.php:462
+msgid "Submission failed"
+msgstr "Indsendelse mislykkedes"
+
+#: includes/advanced-form/advanced-form-ajax.php:60 includes/form-ajax.php:459
+msgid "Token invalid"
+msgstr "Token ugyldig"
+
+#: includes/advanced-form/advanced-form-ajax.php:110
+msgid "Submission rejected."
+msgstr "Indsendelse afvist."
+
+#: includes/advanced-form/advanced-form-ajax.php:136 includes/form-ajax.php:453
+msgid "Third Party Failed"
+msgstr "Tredjepart mislykkedes"
+
+#: includes/form-ajax.php:182
+msgid "Required Field Empty"
+msgstr "Påkrævet felt tomt"
+
+#: includes/form-ajax.php:108 includes/form-ajax.php:111
+#: includes/form-ajax.php:115
+msgid "reCAPTCHA Failed"
+msgstr "reCAPTCHA mislykkedes"
+
+#: includes/form-ajax.php:101
+msgid "Spam Detected"
+msgstr "Spam opdaget"
+
+#: includes/form-ajax.php:101
+msgid "Submission Rejected"
+msgstr "Indsendelse afvist"
+
+#: includes/advanced-form/advanced-form-ajax.php:750 includes/form-ajax.php:74
+#: dist/blocks-advanced-form.js:2 dist/blocks-form.js:2
+msgid "Submission Success, Thanks for getting in touch!"
+msgstr "Indsendelse lykkedes, tak for at du kontakte os!"
+
+#: includes/advanced-form/advanced-form-submit-actions.php:122
+#: includes/form-ajax.php:65 includes/form-ajax.php:207
+msgid "Submission"
+msgstr "Indsendelse"
+
+#: includes/form-ajax.php:55
+msgid "Data not Found"
+msgstr "Data ikke fundet"
+
+#: includes/advanced-form/advanced-form-ajax.php:434
+#: includes/advanced-form/advanced-form-ajax.php:686
+#: includes/advanced-form/advanced-form-ajax.php:696
+#: includes/advanced-form/advanced-form-ajax.php:751 includes/form-ajax.php:55
+#: includes/form-ajax.php:75 includes/form-ajax.php:715
+#: dist/blocks-advanced-form.js:2 dist/blocks-form.js:2
+msgid "Submission Failed"
+msgstr "Indsendelse mislykkedes"
+
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1633
+#: dist/blocks-rowlayout.js:30
+msgid "Mute"
+msgstr "Mute"
+
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1632
+#: dist/blocks-rowlayout.js:30
+msgid "Unmute"
+msgstr "Annuller mute"
+
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1627
+#: dist/blocks-rowlayout.js:30
+msgid "Pause"
+msgstr "Pause"
+
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1626
+#: dist/blocks-rowlayout.js:30 dist/blocks-videopopup.js:1
+msgid "Play"
+msgstr "Spil"
+
+#. Author URI of the plugin
+#: kadence-blocks.php
+msgid "https://www.kadencewp.com"
+msgstr "https://www.kadencewp.com"
+
+#. Author of the plugin
+#: kadence-blocks.php
+msgid "Kadence WP"
+msgstr "Kadence WP"
+
+#: includes/class-kadence-blocks-editor-assets.php:491
+#: includes/class-kadence-blocks-editor-assets.php:511
+#: includes/class-kadence-blocks-editor-assets.php:597
+#: includes/class-kadence-blocks-editor-assets.php:617
+#: includes/class-kadence-blocks-editor-assets.php:729
+#: includes/class-kadence-blocks-editor-assets.php:749
+#: dist/blocks-advanced-form.js:16 dist/blocks-advancedbtn.js:1
+#: dist/blocks-advancedgallery.js:1 dist/blocks-column.js:1
+#: dist/blocks-iconlist.js:1 dist/blocks-infobox.js:1
+#: dist/blocks-navigation.js:1 dist/blocks-posts.js:9
+#: dist/blocks-singlebtn.js:1 dist/components.js:40 dist/components.js:41
+#: dist/components.js:42
+msgid "Inherit"
+msgstr "Nedarv"
+
+#: includes/blocks/class-kadence-blocks-advanced-form-block.php:517
+#: includes/blocks/class-kadence-blocks-form-block.php:824
+msgid "Item"
+msgstr "Element"
+
+#: includes/settings/class-kadence-blocks-site-health.php:213
+#: dist/blocks-advancedbtn.js:1 dist/blocks-advancedgallery.js:1
+#: dist/blocks-advancedheading.js:1 dist/blocks-column.js:1
+#: dist/blocks-countup.js:1 dist/blocks-googlemaps.js:1
+#: dist/blocks-iconlist.js:1 dist/blocks-image.js:1 dist/blocks-infobox.js:1
+#: dist/blocks-navigation.js:1 dist/blocks-rowlayout.js:30
+#: dist/blocks-singlebtn.js:1 dist/blocks-tableofcontents.js:1
+#: dist/blocks-testimonials.js:1 dist/components.js:19 dist/components.js:40
+#: dist/components.js:42 dist/helpers.js:1
+msgid "None"
+msgstr "Ingen"
+
+#: includes/blocks/class-kadence-blocks-advancedgallery-block.php:1217
+#: includes/blocks/class-kadence-blocks-row-layout-block.php:1836
+#: includes/blocks/class-kadence-blocks-testimonials-block.php:933
+#: dist/blocks-testimonials.js:1
+msgid "carousel"
+msgstr "karrusel"
+
+#: includes/blocks/class-kadence-blocks-search-block.php:282
+#: includes/blocks/class-kadence-blocks-search-block.php:305
+#: dist/blocks-advanced-form.js:2 dist/blocks-search.js:1 dist/components.js:42
+#: dist/extension-image-picker.js:1
+msgid "Search"
+msgstr "Søg"
+
+#: includes/header/class-kadence-header-cpt.php:1043 dist/blocks-header.js:1
+msgid "Header"
+msgstr "Sidehoved"
+
+#: includes/settings/class-kadence-blocks-settings.php:1504
+#: dist/blocks-videopopup.js:1 dist/components.js:41
+msgid "Video Popup"
+msgstr "Video-popup"
+
+#: includes/settings/class-kadence-blocks-settings.php:1408
+msgid "Photo galleries, carousels, and sliders! Enable custom links, captions, and more. Plus, you can select image sizes."
+msgstr "Fotogallerier, karruseller og slidere! Aktivér tilpassede links, billedtekster og meget mere. Desuden kan du vælge billedstørrelser."
+
+#: includes/settings/class-kadence-blocks-settings.php:1407
+#: dist/plugin-kadence-control.js:8
+msgid "Advanced Gallery"
+msgstr "Avanceret galleri"
+
+#: includes/settings/class-kadence-blocks-settings.php:848
+msgid "Config Kadence Blocks Color Palette"
+msgstr "Indstil Kadence Blocks farvepalet"
+
+#: includes/settings/class-kadence-blocks-settings.php:399
+#: includes/settings/class-kadence-blocks-settings.php:494
+msgid "Very dark gray"
+msgstr "Meget mørk grå"
+
+#: includes/settings/class-kadence-blocks-settings.php:394
+#: includes/settings/class-kadence-blocks-settings.php:489
+msgid "Cyan bluish gray"
+msgstr "Cyan blålig grå"
+
+#: includes/settings/class-kadence-blocks-settings.php:389
+#: includes/settings/class-kadence-blocks-settings.php:484
+msgid "Very light gray"
+msgstr "Meget lys grå"
+
+#: includes/settings/class-kadence-blocks-settings.php:384
+#: includes/settings/class-kadence-blocks-settings.php:479
+msgid "Vivid cyan blue"
+msgstr "Farverig cyanblå"
+
+#: includes/settings/class-kadence-blocks-settings.php:379
+#: includes/settings/class-kadence-blocks-settings.php:474
+msgid "Pale cyan blue"
+msgstr "Bleg cyanblå"
+
+#: includes/settings/class-kadence-blocks-settings.php:374
+#: includes/settings/class-kadence-blocks-settings.php:469
+msgid "Vivid green cyan"
+msgstr "Farverig cyangrøn"
+
+#: includes/settings/class-kadence-blocks-settings.php:369
+#: includes/settings/class-kadence-blocks-settings.php:464
+msgid "Light green cyan"
+msgstr "Lys cyangrøn"
+
+#: includes/settings/class-kadence-blocks-settings.php:364
+#: includes/settings/class-kadence-blocks-settings.php:459
+msgid "Luminous vivid amber"
+msgstr "Lysende farverig ravgul"
+
+#: includes/settings/class-kadence-blocks-settings.php:359
+#: includes/settings/class-kadence-blocks-settings.php:454
+msgid "Luminous vivid orange"
+msgstr "Lysende farverig orange"
+
+#: includes/settings/class-kadence-blocks-settings.php:354
+#: includes/settings/class-kadence-blocks-settings.php:449
+msgid "Vivid red"
+msgstr "Kraftig rød"
+
+#: includes/settings/class-kadence-blocks-settings.php:349
+#: includes/settings/class-kadence-blocks-settings.php:444
+msgid "Pale pink"
+msgstr "Bleg lyserød"
+
+#: includes/settings/class-kadence-blocks-settings.php:1526
+msgid "Nothing to Save"
+msgstr "Intet at gemme"
+
+#: includes/settings/class-kadence-blocks-settings.php:1520
+msgid "Missing Content"
+msgstr "Manglende indhold"
+
+#: includes/settings/class-kadence-blocks-settings.php:1517
+msgid "Invalid nonce"
+msgstr "Ugyldig nonce"
+
+#: includes/settings/class-kadence-blocks-settings.php:1496
+msgid "Create confidence in your brand or product by showing off beautiful unique testimonials, add as a carousel or a grid."
+msgstr "Skab tillid til dit brand eller produkt ved at vise smukke unikke udtalelser, tilføj som en karrusel eller et gitter."
+
+#: includes/settings/class-kadence-blocks-settings.php:1495
+#: dist/blocks-rowlayout.js:1 dist/blocks-rowlayout.js:28
+#: dist/plugin-kadence-control.js:8
+msgid "Testimonials"
+msgstr "Anbefalinger"
+
+#: includes/settings/class-kadence-blocks-settings.php:1476
+msgid "Add beautiful icons to your lists and make them more engaging. Over 1500 icons to choose from and unlimited styles."
+msgstr "Føj smukke ikoner til dine lister, og gør dem mere engagerende. Over 1500 ikoner at vælge imellem og ubegrænsede stilarter."
+
+#: includes/settings/class-kadence-blocks-settings.php:1475
+#: dist/plugin-kadence-control.js:8
+msgid "Icon List"
+msgstr "Ikonliste"
+
+#: includes/settings/class-kadence-blocks-settings.php:1471
+#: dist/blocks-accordion.js:1
+msgid "Create beautiful accordions! Each pane can contain any other block, customize title styles, content background, and borders."
+msgstr "Opret smukke harmonikaer! Hver rude kan indeholde en hvilken som helst anden blok, og du kan tilpasse titelstil, indholdsbaggrund og kanter."
+
+#: includes/settings/class-kadence-blocks-settings.php:1470
+#: dist/blocks-rowlayout.js:1 dist/blocks-tabs.js:1
+#: dist/plugin-kadence-control.js:8
+msgid "Accordion"
+msgstr "Harmonika"
+
+#: includes/settings/class-kadence-blocks-settings.php:1465
+#: dist/plugin-kadence-control.js:8
+msgid "Info Box"
+msgstr "Info-boks"
+
+#: includes/settings/class-kadence-blocks-settings.php:1291
+msgid "Match the editor width to your sites width."
+msgstr "Tilpas editorens bredde til dit websteds bredde."
+
+#: includes/settings/class-kadence-blocks-settings.php:1291
+msgid "Editor Max Widths"
+msgstr "Editors maks. bredder"
+
+#: includes/settings/class-kadence-blocks-settings.php:826
+msgid "Config Kadence Block Settings"
+msgstr "Opsæt Kadence Blocks indstillinger"
+
+#: includes/settings/class-kadence-blocks-settings.php:804
+msgid "Config Kadence Block Defaults"
+msgstr "Opsæt Kadence Blocks standarder"
+
+#: includes/settings/class-kadence-blocks-settings.php:650
+#: includes/settings/class-kadence-blocks-settings.php:656
+#: includes/settings/class-kadence-blocks-settings.php:662
+#: includes/settings/class-kadence-blocks-settings.php:668
+#: includes/settings/class-kadence-blocks-settings.php:674
+#: includes/settings/class-kadence-blocks-settings.php:680
+#: includes/settings/class-kadence-blocks-settings.php:686
+#: includes/settings/class-kadence-blocks-settings.php:692
+#: includes/settings/class-kadence-blocks-settings.php:698
+#: includes/settings/class-kadence-blocks-settings.php:704
+msgid "Setting defaults has moved into Gutenberg, click on the top right corner settings and go to Kadence Blocks Controls"
+msgstr "Indstilling af standardindstillinger er flyttet til Gutenberg, klik på indstillingerne i øverste højre hjørne og gå til Kadence Blocks styring"
+
+#: includes/settings/class-kadence-blocks-settings.php:644
+msgid "Default Settings"
+msgstr "Standard indstillinger"
+
+#: includes/settings/class-kadence-blocks-settings.php:643
+msgid "Config"
+msgstr "Konfigurér"
+
+#: includes/settings/class-kadence-blocks-settings.php:642
+msgid "Updated"
+msgstr "Opdateret"
+
+#: includes/settings/class-kadence-blocks-settings.php:641
+msgid "Updating"
+msgstr "Opdaterer"
+
+#: includes/settings/class-kadence-blocks-settings.php:640
+#: dist/admin-kadence-home.js:1 dist/admin-kadence-home.js:14
+#: dist/blocks-advanced-form.js:2 dist/blocks-advanced-form.js:14
+#: dist/blocks-form.js:1 dist/blocks-form.js:2 dist/blocks-googlemaps.js:1
+#: dist/blocks-rowlayout.js:12 dist/blocks-rowlayout.js:25
+#: dist/blocks-vector.js:1 dist/components.js:42
+#: dist/plugin-kadence-control.js:8
+msgid "Save"
+msgstr "Gem"
+
+#: includes/settings/class-kadence-blocks-settings.php:639
+#: dist/blocks-header.js:1 dist/blocks-navigation.js:1
+#: dist/plugin-kadence-control.js:8
+msgid "Close"
+msgstr "Luk"
+
+#. Description of the plugin
+#: kadence-blocks.php
+msgid "Advanced Page Building Blocks for Gutenberg. Create custom column layouts, backgrounds, dual buttons, icons etc."
+msgstr "Avancerede blokke til sidebyggeren Gutenberg. Lav brugerdefinerede kolonne-layouts, baggrunde, flere knapper, ikoner etc."
+
+#. Plugin URI of the plugin
+#: kadence-blocks.php
+msgid "https://www.kadencewp.com/product/kadence-gutenberg-blocks/"
+msgstr "https://www.kadencethemes.com/product/kadence-gutenberg-blocks/"
+
+#: includes/settings/class-kadence-blocks-settings.php:619
+#: includes/settings/class-kadence-blocks-settings.php:628
+msgid "Kadence Blocks - Gutenberg Page Builder Blocks"
+msgstr "Kadence Blocks - Værktøjer til Gutenberg-sidebyggeren"
+
+#: includes/settings/class-kadence-blocks-settings.php:1461
+msgid "Create custom vertical or horizontal tabs with advanced styling controls. Each tab content is an empty canvas able to contain any other blocks."
+msgstr "Opret tilpassede lodrette eller vandrette faner med avancerede designkontroller. Hvert faneblad er et tomt lærred, der kan indeholde andre blokke."
+
+#: includes/settings/class-kadence-blocks-settings.php:1460
+#: dist/blocks-rowlayout.js:1 dist/blocks-tabs.js:1
+#: dist/plugin-kadence-control.js:8
+msgid "Tabs"
+msgstr "Faneblade"
+
+#: includes/settings/class-kadence-blocks-settings.php:1431
+#: dist/blocks-header.js:1
+msgid "Advanced Header"
+msgstr "Avanceret sidehoved"
+
+#: includes/settings/class-kadence-blocks-settings.php:1451
+msgid "Easily create a divider and determine the space around it or just create some space in your content."
+msgstr "Lav nemt en opdeler og bestem afstanden om den, eller bare lav noget afstand i dit indhold."
+
+#: includes/settings/class-kadence-blocks-settings.php:1450
+#: dist/plugin-kadence-control.js:8
+msgid "Spacer/Divider"
+msgstr "Afstand/opdeler"
+
+#: includes/settings/class-kadence-blocks-settings.php:1413
+msgid "Create an advanced button or a row of buttons. Style each one including hover controls plus you can use an icon and display them side by side"
+msgstr "Opret en avanceret knap eller en række knapper. Stil hver enkelt inklusive pegefølsomme knapper, plus du kan bruge et ikon og vise dem side om side"
+
+#: includes/settings/class-kadence-blocks-settings.php:1412
+#: dist/plugin-kadence-control.js:8
+msgid "Advanced Button"
+msgstr "Avanceret knap"
+
+#: includes/settings/class-kadence-blocks-settings.php:1446
+msgid "Choose from over 1500+ SVG Icons to add into your page and style the size, colors, background, border, etc."
+msgstr "Vælg mellem over 1500+ SVG-ikoner du kan tilføje til din side, og skift størrelsen, farverne, baggrunden, kanten, etc."
+
+#: includes/settings/class-kadence-blocks-settings.php:1445
+#: dist/blocks-icon.js:1 dist/blocks-infobox.js:1
+#: dist/blocks-navigation-link.js:3 dist/blocks-single-icon.js:1
+#: dist/blocks-tabs.js:5 dist/blocks-testimonial.js:1
+#: dist/blocks-testimonials.js:1 dist/plugin-kadence-control.js:8
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/settings/class-kadence-blocks-settings.php:1398
+msgid "Create rows with nested blocks either in columns or as a container. Give style to your rows with background, overlay, padding, etc."
+msgstr "Lav rækker med indlejrede blokke enten i kolonner eller som en beholder. Giv din stil til rækkerne med baggrunde, overlapninger, polstring, etc."
+
+#: includes/settings/class-kadence-blocks-settings.php:1397
+#: dist/plugin-kadence-control.js:8
+msgid "Row Layout"
+msgstr "Række-layout"
+
+#: includes/settings/class-kadence-blocks-settings.php:1348
+msgid "Browse Docs"
+msgstr "Gennemse dokumenter"
+
+#: includes/settings/class-kadence-blocks-settings.php:1353
+#: dist/admin-kadence-home.js:14 dist/blocks-rowlayout.js:1
+msgid "Support"
+msgstr "Support"
+
+#: includes/settings/class-kadence-blocks-settings.php:1300
+#: includes/settings/class-kadence-blocks-settings.php:1313
+#: includes/settings/class-kadence-blocks-settings.php:1326
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: includes/settings/class-kadence-blocks-settings.php:1275
+msgid "Deactivated"
+msgstr "Deaktiveret"
+
+#: includes/settings/class-kadence-blocks-settings.php:1275
+msgid "Activated"
+msgstr "Aktiveret"
+
+#: includes/settings/class-kadence-blocks-settings.php:1275
+#: includes/settings/class-kadence-blocks-settings.php:1277
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: includes/settings/class-kadence-blocks-settings.php:1274
+#: includes/settings/class-kadence-blocks-settings.php:1275
+msgid "Activate"
+msgstr "Aktiver"
+
+#: includes/settings/class-kadence-blocks-settings.php:630
+#: includes/settings/class-kadence-blocks-settings.php:1644
+#: dist/blocks-form.js:1 dist/blocks-rowlayout.js:30
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/settings/class-kadence-blocks-settings.php:1293
+msgid "Note: The current active themes \"content_width\" is set to:"
+msgstr "Bemærk: Det nuværende aktive temas \"content_width\" er indstillet til:"
+
+#: includes/settings/class-kadence-blocks-settings.php:1123
+#: includes/settings/class-kadence-blocks-settings.php:1136
+msgid "Fullwidth"
+msgstr "Fuld bredde"
+
+#: includes/settings/class-kadence-blocks-settings.php:1122
+#: includes/settings/class-kadence-blocks-settings.php:1135
+#: dist/blocks-column.js:1 dist/blocks-posts.js:9 dist/blocks-rowlayout.js:30
+#: dist/components.js:40 dist/components.js:42 dist/helpers.js:1
+#: dist/plugin-kadence-control.js:1
+msgid "Large"
+msgstr "Large"
+
+#: includes/settings/class-kadence-blocks-settings.php:1121
+#: includes/settings/class-kadence-blocks-settings.php:1134
+#: dist/blocks-column.js:1 dist/blocks-rowlayout.js:30 dist/components.js:40
+#: dist/components.js:42 dist/helpers.js:1 dist/plugin-kadence-control.js:1
+msgid "Small"
+msgstr "Small"
+
+#: includes/settings/class-kadence-blocks-settings.php:1101
+#: includes/settings/class-kadence-blocks-settings.php:1111
+#: dist/components.js:42
+msgid "px"
+msgstr "px"
+
+#: includes/settings/class-kadence-blocks-settings.php:1087
+msgid "Experimental editor CSS for less excess margins in Gutenberg in an attempt to get a closer WYSIWYG editing experience."
+msgstr "Eksperimentel editor-CSS for mindre overskydende marginer i Gutenberg i et forsøg på at få en tættere WYSIWYG-redigeringsoplevelse."
+
+#: includes/settings/class-kadence-blocks-settings.php:1077
+#: includes/settings/class-kadence-blocks-settings.php:1090
+#: includes/settings/class-kadence-blocks-settings.php:1148
+#: includes/settings/class-kadence-blocks-settings.php:1160
+msgid "True"
+msgstr "Sandt"
+
+#: includes/settings/class-kadence-blocks-settings.php:1076
+#: includes/settings/class-kadence-blocks-settings.php:1089
+#: includes/settings/class-kadence-blocks-settings.php:1147
+#: includes/settings/class-kadence-blocks-settings.php:1159
+msgid "False"
+msgstr "Falsk"
+
+#: includes/settings/class-kadence-blocks-settings.php:1074
+msgid "Allows for changes to the editor width on per page/post basis with preset defaults."
+msgstr "Giver mulighed for at ændre editorbredden pr. side/indlæg med forudindstillede standarder."
+
+#: includes/settings/class-kadence-blocks-settings.php:1057
+msgid "Enable Editor Width"
+msgstr "Aktivér editorbredde"
+
+#: includes/settings/class-kadence-blocks-settings.php:1055
+msgid "Page Default"
+msgstr "Side-standard"
+
+#: includes/settings/class-kadence-blocks-settings.php:1054
+msgid "Post default"
+msgstr "Indlægs-standard"
+
+#: includes/settings/class-kadence-blocks-settings.php:1052
+msgid "Large Template"
+msgstr "Stor skabelon"
+
+#: includes/settings/class-kadence-blocks-settings.php:1051
+msgid "Small Template"
+msgstr "Lille skabelon"
+
+#: includes/init.php:302 includes/init.php:329
+#: includes/settings/class-kadence-blocks-settings.php:620
+#: includes/settings/class-kadence-blocks-settings.php:629
+#: includes/settings/class-kadence-blocks-site-health.php:150
+#: dist/admin-kadence-home.js:14
+msgid "Kadence Blocks"
+msgstr "Kadence Blokke"
+
+#: includes/settings/class-kadence-blocks-settings.php:630
+msgid "Kadence Blocks -  Gutenberg Page Builder Blocks"
+msgstr "Kadence Blokke - Blokke til Gutenberg-sidebyggeren"

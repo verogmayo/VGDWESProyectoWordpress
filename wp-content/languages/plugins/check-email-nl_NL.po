@@ -1,0 +1,1932 @@
+# Translation of Plugins - Check &amp; Log Email &#8211; Easy Email Testing &amp; Mail logging - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Check &amp; Log Email &#8211; Easy Email Testing &amp; Mail logging - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-01-05 20:17:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Check &amp; Log Email &#8211; Easy Email Testing &amp; Mail logging - Stable (latest release)\n"
+
+#: include/Check_Email_Notify_Tab.php:349
+msgid "Email ID of notifier"
+msgstr "E-mailadres van de melder"
+
+#: include/Check_Email_Notify_Tab.php:336
+msgid "Receive instant alerts directly to your mail when emails fail to send via email"
+msgstr "Krijg meteen een waarschuwing in je mail als e-mails niet goed verstuurd zijn"
+
+#: include/Check_Email_Notify_Tab.php:326
+msgid "Notify By mail"
+msgstr "Laten we het per e-mail doen"
+
+#: check-email.php:109
+msgid "Dismiss"
+msgstr "Negeren"
+
+#: check-email.php:87
+msgid "Unlock advanced features like real-time monitoring and detailed analytics."
+msgstr "Ontgrendel geavanceerde functies zoals realtime monitoring en gedetailleerde analyses."
+
+#: check-email.php:86
+msgid "Solve email delivery issues faster with PRO version (50% discount)"
+msgstr "Los problemen met e-mailaflevering sneller op met de PRO versie (50% korting)"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:116
+msgid "Triggered data helps you in debugging by showing the exact code that is sending that email."
+msgstr "Getriggerde gegevens helpen je bij het debuggen door de exacte code weer te geven die de e-mail verzendt."
+
+#: include/helper-function.php:1223
+msgid "Check & Log Email Activity"
+msgstr "Controleer & log e-mailactiviteit"
+
+#: include/helper-function.php:1205
+msgid "Last 30 Days"
+msgstr "Afgelopen 30 dagen"
+
+#: include/helper-function.php:1204
+msgid "Last 14 Days"
+msgstr "Afgelopen 14 dagen"
+
+#: include/helper-function.php:1203
+msgid "Last 7 Days"
+msgstr "Afgelopen 7 dagen"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:270
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:281
+msgid "Notify"
+msgstr "Verwittig"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:271
+msgid "Error"
+msgstr "Fout"
+
+#: include/Check_Email_Notify_Tab.php:630
+msgid "could not connect to server"
+msgstr "kon geen verbinding maken met server"
+
+#: include/Check_Email_Notify_Tab.php:625
+msgid "Request timed out, please try again"
+msgstr "Aanvraag is verlopen, probeer het opnieuw"
+
+#: include/Check_Email_Notify_Tab.php:309
+msgid "Receive instant alerts directly to your phone when emails fails to send by push notification"
+msgstr "Ontvang directe waarschuwingen rechtstreeks op je telefoon wanneer e-mails niet verzonden kunnen worden via berichtgeving"
+
+#: include/Check_Email_Notify_Tab.php:306
+msgid "Notify By Push Notification"
+msgstr "Melding via berichtgeving"
+
+#: include/Check_Email_Notify_Tab.php:296
+msgid "Your twilio number"
+msgstr "Je Twilio nummer"
+
+#: include/Check_Email_Notify_Tab.php:290
+msgid "Your twilio auth token"
+msgstr "Je Twilio autorisatie token"
+
+#: include/Check_Email_Notify_Tab.php:284
+msgid "Your twilio sid"
+msgstr "Je Twilio sid"
+
+#: include/Check_Email_Notify_Tab.php:278
+msgid "Mobile number of notifier"
+msgstr "Mobiel nummer van de melder"
+
+#: include/Check_Email_Notify_Tab.php:270
+msgid "Receive instant alerts directly to your phone when emails fails to send via SMS"
+msgstr "Ontvang directe waarschuwingen op je telefoon wanneer e-mails niet via SMS verzonden kunnen worden"
+
+#: include/Check_Email_Notify_Tab.php:267
+msgid "Notify By SMS"
+msgstr "Melden per SMS"
+
+#: include/Check_Email_Notify_Tab.php:263
+msgid "Notification Methods"
+msgstr "Melding methoden"
+
+#: include/Check_Email_Notify_Tab.php:255
+msgid "Failed Order Count"
+msgstr "Aantal mislukte bestellingen"
+
+#: include/Check_Email_Notify_Tab.php:251
+msgid "Notify me when Woocommerce order"
+msgstr "Houd mij op de hoogte wanneer een WooCommerce bestelling wordt geplaatst"
+
+#: include/Check_Email_Notify_Tab.php:244
+msgid "Failed Forget Password Count"
+msgstr "Aantal mislukte vergeten wachtwoorden"
+
+#: include/Check_Email_Notify_Tab.php:240
+msgid "Notify me when Forget password"
+msgstr "Stuur me een bericht wanneer wachtwoord vergeten"
+
+#: include/Check_Email_Notify_Tab.php:233
+msgid "Failed Login Password Count"
+msgstr "Aantal mislukte login wachtwoorden"
+
+#: include/Check_Email_Notify_Tab.php:229
+msgid "Notify me when Login password"
+msgstr "Breng me op de hoogte wanneer login wachtwoord"
+
+#: include/Check_Email_Notify_Tab.php:222
+msgid "Failed User Registeration Count"
+msgstr "Aantal mislukte gebruikersregistraties"
+
+#: include/Check_Email_Notify_Tab.php:218
+msgid "Notify me when New User Registers"
+msgstr "Stuur me een bericht wanneer een nieuwe gebruiker zich registreert"
+
+#: include/Check_Email_Notify_Tab.php:202
+msgid "Nofity When Email Failed"
+msgstr "Meld wanneer e-mail is mislukt"
+
+#: include/Check_Email_Notify_Tab.php:121
+msgid "An email failed to send in your WordPress site"
+msgstr "Een e-mail kon niet verzonden worden in je WordPress site"
+
+#: include/Check_Email_Notify_Tab.php:94
+msgid "An email failed to send in your WordPress site."
+msgstr "Een e-mail kon niet verzonden worden in je WordPress site."
+
+#: include/Check_Email_Notify_Tab.php:93
+msgid "Email Sending Failed!"
+msgstr "E-mail verzenden mislukt!"
+
+#: include/helper-function.php:680
+msgid "This test email will analyze score"
+msgstr "Deze test e-mail analyseert de score"
+
+#: include/helper-function.php:679
+msgid "Test email to analyze check email"
+msgstr "Test e-mail om e-mail controleren te analyseren"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:117
+msgid "Upgrade to Premium to Enable"
+msgstr "Upgrade naar Premium om"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:114
+msgid "Pro"
+msgstr "Pro"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:108
+msgid "Enable This Module"
+msgstr "Deze module inschakelen"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:95
+msgid "Go to Error Tracker Module"
+msgstr "Ga naar de foutopsporingsmodule"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:90
+msgid "Monitor failed email deliveries in real-time."
+msgstr "Monitor mislukte e-mail afleveringen in real-time."
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:89
+msgid "It helps you identify and resolve issues during email sending."
+msgstr "Het helpt je bij het identificeren en oplossen van problemen tijdens het verzenden van e-mails."
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:88
+msgid "Error tracker is essential to ensure smooth deliverability."
+msgstr "Fouten opsporing is essentieel voor een soepele afleverbaarheid."
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:80
+msgid "Go to Email Logs Module"
+msgstr "Ga naar module e-mail logs"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:79
+msgid "In need of a tool that allows you to easily log and view all emails sent from WordPress? Logs helps you store sent emails for auditing purposes, as well as debug email related problems in your site."
+msgstr "Heb je een gereedschap nodig waarmee je eenvoudig alle e-mails verzonden vanuit WordPress kunt loggen en bekijken? Logs helpt je bij het opslaan van verzonden e-mails voor controledoeleinden en bij het debuggen van e-mailgerelateerde problemen in je site."
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:72
+msgid "Go to Spam Analyzer Module"
+msgstr "Ga naar de spam analyzer module"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:71
+msgid "Did you know that 70% of the emails don't get visibility because of the wrong configuration"
+msgstr "Wist je dat 70% van de e-mails geen zichtbaarheid verkrijgt door een verkeerde configuratie"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:62
+msgid "Go to Email Testing Module"
+msgstr "Ga naar module e-mail testen"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:61
+msgid "Email testing ensures emails are delivered correctly and effectively. Thorough testing, businesses can improve email performance and maintain a positive sender reputation"
+msgstr "E-mail testen zorgt ervoor dat e-mails correct en effectief worden afgeleverd. Met grondige tests kunnen bedrijven hun e-mailprestaties verbeteren en een positieve afzenderreputatie behouden"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:59
+#: include/Core/UI/Page/Check_Email_Dashboard.php:67
+#: include/Core/UI/Page/Check_Email_Dashboard.php:77
+#: include/Core/UI/Page/Check_Email_Dashboard.php:86
+msgid "Free"
+msgstr "Gratis"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:58
+msgid "Email Testing"
+msgstr "E-mail testen"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:37
+#: include/Core/UI/Page/Check_Email_Dashboard.php:38
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:433
+msgid "No score found"
+msgstr "Geen score gevonden"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:425
+msgid "View Details"
+msgstr "Bekijk details"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:406
+msgid "Previous Spam Score"
+msgstr "Vorige spam score"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:397
+msgid "Check My Email Spam Score"
+msgstr "Controleer mijn e-mail spamscore"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:385
+msgid "Details not found."
+msgstr "Details niet gevonden."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:371
+msgid "Checks if your email contains broken links."
+msgstr "Controleert of je e-mail gebroken links bevat."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:351
+msgid "Not Listed"
+msgstr "Niet op de lijst"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:346
+msgid "Listed"
+msgstr "Opgesomd"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:341
+msgid "against 24 of the most common IPv4 blocklists."
+msgstr "tegen 24 van de gemeenschappelijkste IPv4 blokkeringslijsten."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:339
+msgid "Matches your server IP address"
+msgstr "Komt overeen met je server IP-adres"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:320
+msgid "Recommendation: Address the identified vulnerabilities to improve DNS security."
+msgstr "Aanbeveling: pak de geïdentificeerde kwetsbaarheden aan om de beveiliging van DNS te verbeteren."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:320
+msgid "Vulnerabilities detected"
+msgstr "Kwetsbaarheden gedetecteerd"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:313
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:275
+msgid "This email address can not receive emails."
+msgstr "Dit e-mailadres kan geen e-mails ontvangen."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:268
+msgid "This email address exists and can receive emails."
+msgstr "Dit e-mailadres bestaat en kan e-mails ontvangen."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:267
+#: include/Core/UI/Page/Check_Email_Analyzer.php:274
+msgid "Email status"
+msgstr "E-mail status"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:260
+msgid "MX records are not present for the domain, or we cannot connect to the SMTP server"
+msgstr "MX-records zijn niet aanwezig voor het domein of we kunnen geen verbinding maken met de SMTP server"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:259
+msgid "Server status <span class=\"ck-status\" style=\"background-color:pink;color:red\">Invalid"
+msgstr "Serverstatus <span class=\"ck-status\" style=\"background-color:pink;color:red\"> ongeldig"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:253
+msgid "MX records are present for the domain and we can connect to the SMTP server these MX records point to."
+msgstr "MX records zijn aanwezig voor het domein en we kunnen verbinding maken met de SMTP server waar deze MX records naar verwijzen."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:252
+msgid "Server status"
+msgstr "Serverstatus"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:245
+msgid "The domain name is not used for webmails or for creating temporary email addresses."
+msgstr "De domeinnaam wordt niet gebruikt voor webmails of voor het maken van tijdelijke e-mailadressen."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:244
+msgid "Professional"
+msgstr "Professional"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:244
+msgid "Type"
+msgstr "Type"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:237
+msgid "This email address is not correct."
+msgstr "Dit e-mailadres is niet correct."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:236
+#: include/Core/UI/Page/Check_Email_Analyzer.php:274
+msgid "Invalid"
+msgstr "Ongeldig"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:231
+msgid "This email address has the correct format and is not gibberish."
+msgstr "Dit e-mailadres heeft het juiste format en is geen wartaal."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:230
+#: include/Core/UI/Page/Check_Email_Analyzer.php:252
+#: include/Core/UI/Page/Check_Email_Analyzer.php:267
+msgid "Valid"
+msgstr "Geldig"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:230
+#: include/Core/UI/Page/Check_Email_Analyzer.php:236
+msgid "Format"
+msgstr "Format"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:221
+msgid "Email validation result"
+msgstr "Resultaat van e-mail validatie"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:211
+msgid "A score below -5 is considered spam."
+msgstr "Een score lager dan -5 wordt beschouwd als spam."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:210
+msgid "The famous spam filter SpamAssassin."
+msgstr "De beroemde spamfilter SpamAssassin."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:206
+#: include/Core/UI/Page/Check_Email_Analyzer.php:210
+#: include/Core/UI/Page/Check_Email_Analyzer.php:410
+msgid "Score"
+msgstr "Score"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:177
+msgid "Text version"
+msgstr "Versie tekst"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:167
+msgid "HTML version"
+msgstr "Versie HTML"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:155
+msgid "Click here to view your message"
+msgstr "Klik hier om je bericht te bekijken"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:146
+#: include/Core/UI/Page/Check_Email_Analyzer.php:402
+msgid "Fun fact: Did you know that 70% of the emails don't get visibility because of the wrong configuration."
+msgstr "Leuk weetje: wist je dat 70% van de e-mails geen zichtbaarheid verkrijgt door een verkeerde configuratie."
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:145
+#: include/Core/UI/Page/Check_Email_Analyzer.php:401
+#: include/Core/UI/Page/Check_Email_Dashboard.php:70
+msgid "One of its kind FREE tool in WordPress"
+msgstr "Uniek GRATIS gereedschap in WordPress"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:141
+#: include/Core/UI/Page/Check_Email_Analyzer.php:396
+#: include/Core/UI/Page/Check_Email_Dashboard.php:69
+msgid "Email Spam Testing of your mail for accurate delivery"
+msgstr "E-mail spam testen van je e-mail voor accurate aflevering"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:136
+msgid "Need Fixing Urgently"
+msgstr "Moet dringend gerepareerd worden"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:133
+msgid "Need Improvement"
+msgstr "Verbetering nodig"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:130
+msgid "Good"
+msgstr "Goed"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:127
+msgid "Hey you need to improve"
+msgstr "Hallo je moet verbeteren"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:125
+msgid "Wow! Perfect"
+msgstr "Wauw! Perfect"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:123
+msgid "broken links"
+msgstr "verbroken links"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:123
+msgid "Found"
+msgstr "Gevonden"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:120
+msgid "No broken links"
+msgstr "Geen gebroken links"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:112
+msgid " need some improvement"
+msgstr " Moet wat verbeterd worden"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:109
+#: include/Core/UI/Page/Check_Email_Analyzer.php:112
+#: include/Core/UI/Page/Check_Email_Analyzer.php:115
+msgid "blocklisted"
+msgstr "op de blokkeerlijst geplaatst"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:109
+msgid "You're not"
+msgstr "Je bent niet"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:104
+msgid "properly authenticated"
+msgstr "correct geauthenticeerd"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:101
+msgid "properly authenticated need some improvement"
+msgstr "correct geauthenticeerd heeft wat verbetering nodig"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:101
+#: include/Core/UI/Page/Check_Email_Analyzer.php:104
+msgid "not"
+msgstr "niet"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:101
+#: include/Core/UI/Page/Check_Email_Analyzer.php:104
+#: include/Core/UI/Page/Check_Email_Analyzer.php:112
+#: include/Core/UI/Page/Check_Email_Analyzer.php:115
+msgid "You're"
+msgstr "Je bent"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:98
+msgid "You're properly authenticated"
+msgstr "Je bent goed geauthenticeerd"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:93
+msgid "likes you"
+msgstr "vind je leuk"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:93
+msgid "SpamAssassin"
+msgstr "SpamAssassin"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:90
+msgid "your spam score"
+msgstr "je spamscore"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:90
+msgid "improve"
+msgstr "verbeteren"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:90
+msgid "SpamAssassin warned you to"
+msgstr "SpamAssassin waarschuwde je om"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:87
+msgid "SpamAssassin likes you"
+msgstr "SpamAssassin houd van je"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:40
+#: include/Core/UI/Page/Check_Email_Analyzer.php:41
+#: include/Core/UI/Page/Check_Email_Dashboard.php:66
+msgid "Spam Analyzer"
+msgstr "Spam analyzer"
+
+#. Plugin Name of the plugin
+#: check-email.php
+msgid "Check & Log Email - Easy Email Testing & Mail logging"
+msgstr "Check & Log Email - Easy Email Testing & Mail logging"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:785
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:462
+msgid "You can easily track email is opened by user."
+msgstr "Je kunt eenvoudig volgen welke e-mails door gebruikers worden geopend."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:50
+msgid "Email Open Tracking"
+msgstr "E-mail openen volgen"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:390
+msgid " emails have been resent."
+msgstr " e-mails zijn opnieuw verzonden."
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:129
+msgid "Email Opened"
+msgstr "Geopende e-mails"
+
+#: include/Check_Email_SMTP_Tab.php:238
+#: include/Core/Check_Email_Multisite.php:241
+msgid "Gmail"
+msgstr "Gmail"
+
+#: include/helper-function.php:595
+msgid "Invalid input"
+msgstr "Ongeldige invoer"
+
+#: include/helper-function.php:557 include/helper-function.php:610
+#: include/helper-function.php:670
+msgid "Unauthorized user"
+msgstr "Onbevoegde gebruiker"
+
+#: include/helper-function.php:195
+msgid "Forward Email Check & Log "
+msgstr "E-mail doorsturen controle & log "
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:108
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:107
+msgid "Step 1 of 2"
+msgstr "Stap 1 van 2"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:268
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:287
+msgid "Encoding"
+msgstr "Codering"
+
+#: include/Core/Check_Email_Multisite.php:355
+msgid ""
+"This is the page on your site that you will be redirected to after you have authenticated with Microsoft.\n"
+"You need to copy this URL into \"Authentication > Redirect URIs\" web field for your application on Microsoft Azure site for your project there."
+msgstr ""
+"Dit is de pagina op je site waarnaar je wordt omgeleid nadat je je hebt geverifieerd bij Microsoft. \n"
+"Je moet deze URL kopiëren naar Authenticatie > Omleiden URI's\" web veld voor je applicatie op de Microsoft Azure site voor je project daar."
+
+#: include/Core/Check_Email_Multisite.php:207
+msgid "Forward Bcc Email"
+msgstr "Bcc e-mail doorsturen"
+
+#: include/Core/Check_Email_Multisite.php:195
+msgid "Forward Cc Email"
+msgstr "Cc e-mail doorsturen"
+
+#: include/Core/Check_Email_Multisite.php:155
+#: include/Core/Check_Email_Multisite.php:159
+msgid "Change the \"from\" email"
+msgstr "Verander de \"van\" e-mail"
+
+#: include/Core/Check_Email_Multisite.php:143
+#: include/Core/Check_Email_Multisite.php:147
+msgid "Change the \"from\" name"
+msgstr "Verander de \"van\" naam"
+
+#: include/Core/Check_Email_Multisite.php:120
+msgid "Make the plugin settings global network-wide"
+msgstr "Maak de plugin instellingen globaal netwerkbreed"
+
+#: include/Core/Check_Email_Multisite.php:119
+msgid "Setting Control"
+msgstr "Instellingen controle"
+
+#: include/Core/Check_Email_Logger.php:117
+msgid "Your microsoft 365 account not configured properly"
+msgstr "Je Microsoft 365 account is niet goed geconfigureerd"
+
+#: include/Check_Email_SMTP_Tab.php:294
+#: include/Core/Check_Email_Multisite.php:388
+msgid "Removing the OAuth connection will give you an ability to redo the OAuth connection or link to another Microsoft account."
+msgstr "Het verwijderen van de oAuth verbinding geeft je de mogelijkheid om de oAuth verbinding opnieuw te maken of te linken naar een ander Microsoft account."
+
+#. translators: %s - Display name and email, as received from oAuth provider.
+#: include/Check_Email_SMTP_Tab.php:287
+#: include/Core/Check_Email_Multisite.php:381
+msgid "Connected as %s"
+msgstr "Verbonden als %s"
+
+#: include/Check_Email_SMTP_Tab.php:278
+#: include/Core/Check_Email_Multisite.php:372
+msgid "Remove OAuth Connection"
+msgstr "OAuth verbinding verwijderen"
+
+#: include/Check_Email_SMTP_Tab.php:272
+#: include/Core/Check_Email_Multisite.php:366
+msgid "Allow plugin to send emails using your Microsoft account"
+msgstr "Plugin toestaan om e-mails te verzenden met je Microsoft account"
+
+#: include/Check_Email_SMTP_Tab.php:262
+msgid "This is the page on your site that you will be redirected to after you have authenticated with Microsoft. You need to copy this URL into \"Authentication > Redirect URIs\" web field for your application on Microsoft Azure site for your project there."
+msgstr "Dit is de pagina op je site waar je naartoe wordt omgeleid nadat je bent geauthenticeerd met Microsoft. Je moet deze URL kopiëren naar het web veld \"Authenticatie > Omleiding URIs\" voor je applicatie op de Microsoft Azure site voor je project daar."
+
+#: include/Check_Email_SMTP_Tab.php:258
+#: include/Core/Check_Email_Multisite.php:351
+msgid "Redirect URI"
+msgstr "Omleiding URI"
+
+#: include/Check_Email_SMTP_Tab.php:252
+#: include/Core/Check_Email_Multisite.php:345
+msgid "Client Secret"
+msgstr "Client geheim"
+
+#: include/Check_Email_SMTP_Tab.php:246
+#: include/Core/Check_Email_Multisite.php:339
+msgid "Application ID"
+msgstr "Applicatie ID"
+
+#: include/Check_Email_SMTP_Tab.php:232
+#: include/Core/Check_Email_Multisite.php:234
+msgid "365 / Outlook"
+msgstr "365/Outlook"
+
+#: include/Check_Email_SMTP_Tab.php:225
+#: include/Core/Check_Email_Multisite.php:227
+msgid "General SMTP"
+msgstr "Algemeen SMTP"
+
+#: include/Check_Email_SMTP_Tab.php:218
+#: include/Core/Check_Email_Multisite.php:220
+msgid "Mailer"
+msgstr "Mailer"
+
+#: include/Check_Email_SMTP_Tab.php:214
+msgid "Configure your own SMTP instead of the PHP mail()"
+msgstr "Configureer je eigen SMTP in plaats van de PHP mail()"
+
+#: include/Check_Email_SMTP_Tab.php:199
+#: include/Core/Check_Email_Multisite.php:108
+msgid "Its an error to linking with microsoft 365 / outlook"
+msgstr "Het is een fout bij het linken met Microsoft 365 / Outlook"
+
+#: include/Check_Email_SMTP_Tab.php:188
+msgid "If you want separate smtp configuration for each site, you need to uncheck setting Control from netework admin."
+msgstr "Als je voor elke site een aparte smtp configuratie wilt, moet je de instelling control van netework beheer uitvinken."
+
+#: include/Check_Email_SMTP_Tab.php:187
+msgid "You are using global smtp configuration for multisite"
+msgstr "Je gebruikt globale smtp configuratie voor multisite"
+
+#: include/Check_Email_Encode_Tab.php:108
+msgid "Other content ( like phone numbers ) can be protected using [checkmail-encode] shortcode"
+msgstr "Andere inhoud (zoals telefoonnummers) kan worden beveiligd met [checkmail-encode] shortcode"
+
+#: include/Check_Email_Encode_Tab.php:106
+msgid "Mobile / Phone Encoder"
+msgstr "Mobiele / telefoon encoder"
+
+#: include/Check_Email_Encode_Tab.php:102
+msgid "Top-tier security against sophisticated bots, but JavaScript is necessary."
+msgstr "Top-tier beveiliging tegen geavanceerde bots, maar JavaScript is nodig."
+
+#: include/Check_Email_Encode_Tab.php:101
+msgid "Polymorphous ROT47/CSS"
+msgstr "Polymorfe ROT47/CSS"
+
+#: include/Check_Email_Encode_Tab.php:97
+msgid "Shields from intelligent bots but needs JavaScript."
+msgstr "Beschermt tegen intelligente bots maar heeft JavaScript nodig."
+
+#: include/Check_Email_Encode_Tab.php:96
+msgid "ROT13 Encoding"
+msgstr "ROT13 codering"
+
+#: include/Check_Email_Encode_Tab.php:93
+msgid "Shields from intelligent bots without requiring JavaScript."
+msgstr "Beschermt tegen intelligente bots zonder JavaScript te vereisen."
+
+#: include/Check_Email_Encode_Tab.php:92
+msgid "CSS Direction"
+msgstr "CSS richting"
+
+#: include/Check_Email_Encode_Tab.php:87
+msgid "Provides reliable protection and suits most situations."
+msgstr "Biedt betrouwbare bescherming en past bij de meeste situaties."
+
+#: include/Check_Email_Encode_Tab.php:86
+msgid "Html Entities"
+msgstr "HTML entiteiten"
+
+#: include/Check_Email_Encode_Tab.php:82
+msgid "Protect emails using"
+msgstr "Bescherm e-mails, gebruikmakend van"
+
+#: include/Check_Email_Encode_Tab.php:78
+msgid "Scan for protection on entire page."
+msgstr "Scan voor bescherming op de hele pagina."
+
+#: include/Check_Email_Encode_Tab.php:77
+msgid "Full-Page Scanner"
+msgstr "Scanner voor volledige pagina"
+
+#: include/Check_Email_Encode_Tab.php:73
+msgid "Scan for protection in wordpress filters only."
+msgstr "Scan voor bescherming alleen in WordPress filters."
+
+#: include/Check_Email_Encode_Tab.php:72
+msgid "WordPress Filters"
+msgstr "WordPress filters"
+
+#: include/Check_Email_Encode_Tab.php:68
+msgid "Search for emails using"
+msgstr "Zoeken naar e-mails, gebruikmakend van"
+
+#: include/Check_Email_Encode_Tab.php:62
+msgid "Email Encoder"
+msgstr "E-mail encoder"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:114
+msgid "Are you sure you want to delete this log?"
+msgstr "Weet je zeker dat je deze log wil verwijderen?"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:412
+#: include/Util/helper.php:153
+msgid "Action"
+msgstr "Actie"
+
+#: include/Util/helper.php:152
+msgid "Log ID"
+msgstr "Log ID"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:187
+#: include/Util/helper.php:151
+msgid "Source"
+msgstr "Bron"
+
+#: include/helper-function.php:67 include/helper-function.php:145
+#: include/helper-function.php:149 include/helper-function.php:1253
+msgid "security_nonce_not_verified"
+msgstr "security_nonce_not_verified"
+
+#: include/deactivate-feedback.php:21
+msgid "Name of the plugin"
+msgstr "Naam van de plugin"
+
+#: include/deactivate-feedback.php:17
+msgid "Please describe the feature"
+msgstr "Beschrijf de functie"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:42
+msgid "WP Mail Log"
+msgstr "WP Mail log"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:38
+msgid "WP Mail Logging"
+msgstr "WP e-mail loggen"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:34
+msgid "Mail logging - WP Mail Catcher"
+msgstr "Loggen van e-mail - WP Mail Catcher"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:30
+msgid "Email Log"
+msgstr "E-mail log"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:856
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:533
+msgid "Email content may contain personal information, such as plain text passwords. Please carefully consider before enabling this option, as it will store all sent email content to your site’s database."
+msgstr "E-mail inhoud kan persoonlijke informatie bevatten, zoals platte tekst wachtwoorden. Denk goed na voordat je deze optie inschakelt, want dan wordt alle verzonden e-mail opgeslagen in de database van je site."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:774
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:451
+msgid "You can easily track errors in email delivery."
+msgstr "Je kunt fouten in de aflevering van e-mail eenvoudig opsporen."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:733
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:416
+msgid "logged, which is more than the threshold. You can delete some logs or increase the threshold."
+msgstr "gelogd, wat meer is dan de drempel. Je kunt enkele logs verwijderen of de drempel verhogen."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:733
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:416
+msgid "Currently there are"
+msgstr "Op dit moment zijn er"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:708
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:391
+msgid "has been met. You may manually delete the logs to keep your database table in size"
+msgstr "is bereikt. Je kunt de logs handmatig verwijderen om je database tabel op grootte te houden"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:708
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:391
+msgid "Your log threshold of"
+msgstr "Je log drempel van"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:707
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:390
+msgid "This email is generated by the Check & Log Email plugin"
+msgstr "Deze e-mail wordt gegenereerd door de check & log e-mail plugin"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:443
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:126
+msgid "Users with the above User Roles can view Status and Logs Page."
+msgstr "Gebruikers met bovenstaande gebruikersrollen kunnen de status en logs pagina bekijken."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:443
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:126
+msgid "Note:"
+msgstr "Let op:"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:49
+msgid "Email Error Tracking"
+msgstr "E-mail fout opsporing"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:37
+msgid "Log Email Content"
+msgstr "Log e-mail inhoud"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:28
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:452
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:135
+msgid "Setup Wizard"
+msgstr "Installatie wizard"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:19
+msgid "The test email has been sent by WordPress. Please note this does NOT mean it has been delivered. See %1$swp_mail in the Codex%2$s for more information. The headers sent were :"
+msgstr "De test e-mail is verzonden door WordPress. Let alstublieft op dit betekent NIET dat het is afgeleverd. Zie %1$swp_mail in de codex%2$s voor meer informatie. De verzonden headers waren :"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:234
+msgid "Wizard setup succefully."
+msgstr "Wizard instelling succesvol."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:36
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:191
+msgid "Default Format for Message"
+msgstr "Standaard format voor bericht"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:112
+msgid "Step 2 of 2"
+msgstr "Stap 2 van 2"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:97
+msgid "Close and exit the Setup Wizard"
+msgstr "Sluiten en verlaat de installatie wizard"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:94
+msgid "Save and Continue"
+msgstr "Opslaan en doorgaan"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:93
+msgid "Previous Step"
+msgstr "Vorige stap"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:68
+msgid "Go back to the Dashboard"
+msgstr "Ga naar het dashboard"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:64
+msgid "Let's Get Started"
+msgstr "Laten we beginnen"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:63
+msgid "We will guide you through each step needed to get Check & Log Email fully set up on your site."
+msgstr "We begeleiden je bij elke stap die nodig is om check & log e-mail volledig ingesteld te krijgen op je site."
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:62
+msgid "Welcome to the Check & Log Email Setup Wizard!"
+msgstr "Welkom bij de check & log e-mail installatie wizard!"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:43
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:44
+msgid "Wizard Setup"
+msgstr "Wizard instellen"
+
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:35
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:36
+msgid "Wizard"
+msgstr "Wizard"
+
+#: include/Core/UI/Page/Check_Email_Status_Page.php:143
+msgid " can send emails. Sent: "
+msgstr " kan e-mails verzenden. Verzonden: "
+
+#: include/Core/UI/Page/Check_Email_Status_Page.php:143
+msgid "This test email proves that your WordPress installation at"
+msgstr "Deze test e-mail bewijst dat je WordPress installatie op"
+
+#: include/Core/UI/Page/Check_Email_Status_Page.php:142
+msgid "Test email from"
+msgstr "Test e-mail van"
+
+#: include/Core/UI/Page/Check_Email_Status_Page.php:48
+#: include/Core/UI/Page/Check_Email_Status_Page.php:49
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:28
+msgid "Test Email"
+msgstr "Test e-mail"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:331
+msgid "Write your query"
+msgstr "Schrijf je zoekopdracht"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:326
+msgid "Enter your Email"
+msgstr "Voer je e-mail adres in"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:214
+msgid "Upgrade To Premium"
+msgstr "Upgrade naar premium"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:85
+#: include/Core/UI/Page/Check_Email_Error_Tracker_list.php:41
+#: include/Core/UI/Page/Check_Email_Error_Tracker_list.php:42
+#: include/Core/UI/Page/Check_Email_Error_Tracker_list.php:75
+msgid "Error Tracker"
+msgstr "Fout opsporing"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:195
+msgid "Email error tracker is empty"
+msgstr "E-mail fout tracker is leeg"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:146
+msgid "View Error"
+msgstr "Fout bekijken"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:77
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:145
+msgid "Email Error Content"
+msgstr "E-mail fout inhoud"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:58
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:126
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:62
+msgid "%1$s @ %2$s"
+msgstr "%1$s @ %2$s"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:267
+msgid "Initiator"
+msgstr "Initiatiefnemer"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:263
+#: include/Util/helper.php:149
+msgid "Content"
+msgstr "Inhoud"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:259
+#: include/Core/UI/Page/Check_Email_Analyzer.php:162
+#: include/Core/UI/Page/Check_Email_Analyzer.php:411
+#: include/Util/helper.php:150
+msgid "Date"
+msgstr "Datum"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:150
+msgid "Json"
+msgstr "JSON"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:109
+msgid "Bcc"
+msgstr "BCC"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:101
+msgid "Cc"
+msgstr "CC"
+
+#: include/Core/Check_Email_Export_Log.php:404
+msgid "Enter Recipient Email"
+msgstr "Voer het e-mail adres van de ontvanger in"
+
+#: include/class-check-email-newsletter.php:117
+msgid "Email id required"
+msgstr "E-mail ID vereist"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:117
+#: include/Util/helper.php:147
+msgid "Host IP"
+msgstr "Host IP"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:87
+msgid "Import"
+msgstr "Import"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:76
+msgid "Migration"
+msgstr "Migratie"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:1065
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:742
+msgid "Forward To Bcc Email"
+msgstr "Doorsturen naar Bcc e-mail"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:1052
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:729
+msgid "Forward To Cc Email"
+msgstr "Doorsturen naar Cc e-mail"
+
+#: include/Core/Check_Email_Multisite.php:183
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:1039
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:716
+msgid "Forward To Email"
+msgstr "Doorsturen naar e-mail"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:997
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:674
+msgid "Automatically deletes old emails after a certain amount of time has passed"
+msgstr "Verwijdert automatisch oude e-mails na een bepaalde tijd"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:986
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:663
+msgid "Automatically deletes old emails when a certain amount of logs have been saved."
+msgstr "Verwijdert automatisch oude e-mails wanneer een bepaalde hoeveelheid logs is opgeslagen."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:918
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:595
+msgid "Display the Reply to of emails."
+msgstr "Toon de Reply to van e-mails."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:903
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:580
+msgid "Display the Bcc of emails."
+msgstr "Toon de Bcc van e-mails."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:888
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:565
+msgid "Display the Cc of emails."
+msgstr "Toon de Cc van e-mails."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:873
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:550
+msgid "Display the IP Addresses of the WordPress Host."
+msgstr "Toon de IP-adressen van de WordPress host."
+
+#: include/Core/Check_Email_Multisite.php:171
+#: include/Core/UI/Page/Check_Email_Dashboard.php:63
+#: include/Core/UI/Page/Check_Email_Dashboard.php:73
+#: include/Core/UI/Page/Check_Email_Dashboard.php:81
+#: include/Core/UI/Page/Check_Email_Dashboard.php:110
+#: include/Core/UI/Page/Check_Email_Dashboard.php:118
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:757
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:440
+msgid "Learn More"
+msgstr "Leer meer"
+
+#: include/Core/Check_Email_Multisite.php:171
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:757
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:440
+msgid "Automatically forward a copy of all emails sent by WordPress to other email addresses "
+msgstr "Stuur automatisch een kopie van alle e-mails verzonden door WordPress naar andere e-mailadressen "
+
+#: include/Core/Check_Email_Multisite.php:203
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:54
+msgid "Forward Bcc"
+msgstr "Doorsturen Bcc"
+
+#: include/Core/Check_Email_Multisite.php:191
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:53
+msgid "Forward Cc"
+msgstr "Doorsturen Cc"
+
+#: include/Core/Check_Email_Multisite.php:179
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:52
+msgid "Forward To"
+msgstr "Doorsturen naar"
+
+#: include/Core/Check_Email_Multisite.php:167
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:51
+msgid "Forward Email"
+msgstr "Stuur e-mail door"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:48
+msgid "Days"
+msgstr "Dagen"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:47
+msgid "Period"
+msgstr "Punt"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:46
+msgid "By Period"
+msgstr "Per periode"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:45
+msgid "Count"
+msgstr "Tellen"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:44
+msgid "By Emails Count"
+msgstr "Op basis van aantal e-mails"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:43
+msgid "Retention"
+msgstr "Retentie"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:41
+msgid "Display Reply To"
+msgstr "Toon antwoord aan"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:40
+msgid "Display BCC"
+msgstr "Toon BCC"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:39
+msgid "Display CC"
+msgstr "Toon CC"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:38
+msgid "Display Host IP"
+msgstr "Toon host IP"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:331
+msgid "Failed"
+msgstr "Mislukt"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:330
+msgid "Completed"
+msgstr "Afgerond"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:253
+msgid "Search by term or email"
+msgstr "Zoek op term of e-mail"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:97
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:98
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:196
+msgid "Resend Email"
+msgstr "E-mail opnieuw verzenden"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:756
+msgid "Something went wrong no data migrated"
+msgstr "Er is iets misgegaan geen gegevens gemigreerd"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:676
+msgid " rows successfully imported: "
+msgstr " rijen succesvol geïmporteerd: "
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:676
+msgid "Total "
+msgstr "Totaal "
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:672
+msgid "Failed to count rows."
+msgstr "Mislukt om rijen te tellen."
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:647
+msgid "Plugin data is not available or it is not activated"
+msgstr "Plugin gegevens zijn niet beschikbaar of niet geactiveerd"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:590
+msgid "Email Sent."
+msgstr "E-mail verzonden."
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:580
+msgid "Invalid email address in to"
+msgstr "Ongeldig e-mailadres in aan"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:560
+msgid "Please fill all required fields"
+msgstr "Voer alle vereiste velden in"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:524
+#: include/Core/Request/Check_Email_Log_List_Action.php:528
+#: include/Core/Request/Check_Email_Log_List_Action.php:601
+#: include/Core/Request/Check_Email_Log_List_Action.php:605
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:204
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:208
+msgid "Unauthorized access, CSRF token not matched"
+msgstr "Ongeautoriseerde toegang, CSRF token komt niet overeen"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:520
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:200
+msgid "Unauthorized access, permission not allowed"
+msgstr "Ongeautoriseerde toegang, toestemming niet toegestaan"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:508
+msgid "Resend"
+msgstr "Opnieuw verzenden"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:170
+#: include/Core/Request/Check_Email_Log_List_Action.php:493
+msgid "Attachments"
+msgstr "Bijlages"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:482
+msgid "Content Type"
+msgstr "Inhoudstype"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:446
+#: include/Core/Request/Check_Email_Log_List_Action.php:471
+#: include/Core/Request/Check_Email_Log_List_Action.php:475
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:1039
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:1052
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:1065
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:716
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:729
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:742
+msgid "Separate multiple emails by comma ( , )"
+msgstr "Scheid meerdere e-mails door komma ( , )"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:462
+msgid "Additional Details"
+msgstr "Additionele details"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:216
+msgid "Print"
+msgstr "Print"
+
+#: check-email.php:88 include/Core/Request/Check_Email_Log_List_Action.php:205
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:834
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:511
+msgid "Upgrade Now"
+msgstr "Upgrade nu"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:205
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:834
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:511
+msgid "This Feature requires the Premium Version"
+msgstr "Deze functie vereist de Premium versie"
+
+#: include/deactivate-feedback.php:46
+msgid "Don't deactivate"
+msgstr "Niet deactiveren"
+
+#: include/deactivate-feedback.php:45
+msgid "Only Deactivate"
+msgstr "Alleen deactiveren"
+
+#: include/deactivate-feedback.php:44
+msgid "Submit & Deactivate"
+msgstr "Verzenden & deactiveren"
+
+#: include/deactivate-feedback.php:32
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Als je even de tijd hebt, laat ons dan weten waarom je deactiveert:"
+
+#: include/deactivate-feedback.php:23
+msgid "Please specify, if possible"
+msgstr "Specificeer, indien mogelijk"
+
+#: include/deactivate-feedback.php:22
+msgid "Other reason"
+msgstr "Andere reden"
+
+#: include/deactivate-feedback.php:20
+msgid "I switched to another plugin"
+msgstr "Ik ben overgestapt op een andere plugin"
+
+#: include/deactivate-feedback.php:19
+msgid "Can we help? Please describe your problem"
+msgstr "Kunnen we helpen? Beschrijf je probleem"
+
+#: include/deactivate-feedback.php:18
+msgid "Technical Issue"
+msgstr "Technisch probleem"
+
+#: include/deactivate-feedback.php:16
+msgid "I miss a feature"
+msgstr "Ik mis een functie"
+
+#: include/deactivate-feedback.php:15
+msgid "I stopped using check & log mail on my site"
+msgstr "Ik ben gestopt met het gebruik van Check & Log Email op mijn site"
+
+#: include/deactivate-feedback.php:14
+msgid "It is only temporary"
+msgstr "Het is alleen tijdelijk"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:68
+msgid "Export"
+msgstr "Exporteren"
+
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:53
+msgid "Export Email Logs"
+msgstr "E-mail logs exporteren"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:114
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:55
+msgid "Triggered Data"
+msgstr "Getriggerde gegevens"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:285
+msgid "SMTP Configuration"
+msgstr "SMTP configuratie"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:263
+msgid "Upgrade to Pro"
+msgstr "Upgraden naar Pro"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:269
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:48
+msgid "Tools"
+msgstr "Gereedschap"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:210
+msgid "Premium Features"
+msgstr "Premium functies"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:277
+#: include/Core/UI/Setting/Check_Email_Tools_Tab.php:67
+msgid "Export Log Options"
+msgstr "Exporteer log opties"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:204
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:833
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:839
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:510
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:516
+msgid " Learn More"
+msgstr " Meer leren"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:204
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:833
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:839
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:510
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:516
+msgid "Triggered data helps you in debugging by showing the exact code that is sending that email "
+msgstr "Getriggerde gegevens helpen je bij het debuggen door de exacte code te tonen die die e-mail verzendt "
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:151
+msgid "Triggered Form"
+msgstr "Getriggerd formulier"
+
+#: include/Core/Check_Email_Export_Log.php:447
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:278
+msgid "Export Logs"
+msgstr "Exporteren van de logs"
+
+#: include/Core/Check_Email_Export_Log.php:436
+msgid "To Date"
+msgstr "Tot datum"
+
+#: include/Core/Check_Email_Export_Log.php:435
+msgid "From Date"
+msgstr "Van datum"
+
+#: include/Core/Check_Email_Export_Log.php:431
+msgid "Custom"
+msgstr "Aangepast"
+
+#: include/Core/Check_Email_Export_Log.php:417
+msgid "Date Range"
+msgstr "Datumbereik"
+
+#: include/Core/Check_Email_Export_Log.php:403
+msgid "Enter Email id"
+msgstr "Voer e-mail id in"
+
+#: include/Core/Check_Email_Export_Log.php:398
+msgid "Recipient"
+msgstr "Ontvanger"
+
+#: include/Core/Check_Email_Export_Log.php:387
+msgid "Failure"
+msgstr "Mislukt"
+
+#: include/Core/Check_Email_Export_Log.php:380
+msgid "Success"
+msgstr "Success"
+
+#: include/Core/Check_Email_Export_Log.php:373
+#: include/Core/Check_Email_Export_Log.php:424
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:329
+msgid "All"
+msgstr "Alle"
+
+#: include/Core/Check_Email_Export_Log.php:347
+msgid "Sent At"
+msgstr "Verzonden om"
+
+#: include/Core/Check_Email_Export_Log.php:311
+msgid "Fields"
+msgstr "Velden"
+
+#: include/Core/Check_Email_Export_Log.php:300
+msgid "Export in Text (.txt)"
+msgstr "Exporteer in tekst (.txt)"
+
+#: include/Core/Check_Email_Export_Log.php:293
+msgid "Export in Microsoft Excel (.xlsx)"
+msgstr "Exporteren in Microsoft Excel (.xlsx)"
+
+#: include/Core/Check_Email_Export_Log.php:286
+msgid "Export in Microsoft Excel (.xls)"
+msgstr "Exporteren in Microsoft Excel (.xlsx)"
+
+#: include/Core/Check_Email_Export_Log.php:279
+msgid "Export in CSV (.csv)"
+msgstr "Exporteren in CSV (.csv)"
+
+#: include/Core/Check_Email_Export_Log.php:272
+msgid "File Format"
+msgstr "Bestand format"
+
+#: include/class-check-email-newsletter.php:72
+msgid "No Thanks"
+msgstr "Nee bedankt"
+
+#: include/class-check-email-newsletter.php:34
+msgid " before others and some best resources on monetization in a single email? - Free just for users of Check & Log Email!"
+msgstr " Voor anderen en enkele beste bronnen over te gelde maken in een enkele e-mail? - gratis alleen voor gebruikers van Check & Log Email!"
+
+#: include/class-check-email-newsletter.php:33
+msgid "Check & Log Email update"
+msgstr "Check & Log Email update"
+
+#: include/class-check-email-newsletter.php:32
+msgid "Do you want the latest updates on "
+msgstr "Wil je de laatste updates over "
+
+#: include/class-check-email-newsletter.php:31
+msgid "Thanks for using Check & Log Email!"
+msgstr "Bedankt voor het gebruik van Check & log Email!"
+
+#: include/Check_Email_SMTP_Tab.php:475
+msgid "Seems like there are some problems with the enterd information. Please re-check & re-enter it and hit the \"Save changes\" button."
+msgstr "Het lijkt erop dat er wat problemen zijn met de ingevoerde informatie. Controleer het opnieuw, voer het opnieuw in en klik op de knop \"Wijzigingen opslaan\"."
+
+#: include/Check_Email_SMTP_Tab.php:474
+msgid "Check Mail SMTP connection error"
+msgstr "Controleer mail SMTP verbinding fout"
+
+#: include/Check_Email_SMTP_Tab.php:389
+#: include/Core/Check_Email_Multisite.php:329
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: include/Check_Email_SMTP_Tab.php:382
+#: include/Core/Check_Email_Multisite.php:322
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: include/Check_Email_SMTP_Tab.php:358
+#: include/Core/Check_Email_Multisite.php:298
+msgid "SMTP Authentication"
+msgstr "SMTP authenticatie"
+
+#: include/Check_Email_SMTP_Tab.php:352
+#: include/Core/Check_Email_Multisite.php:292
+msgid "SMTP Port"
+msgstr "SMTP poort"
+
+#: include/Check_Email_SMTP_Tab.php:325
+#: include/Core/Check_Email_Multisite.php:265
+msgid "SMTP Secure"
+msgstr "SMTP veilig"
+
+#: include/Check_Email_SMTP_Tab.php:319
+#: include/Core/Check_Email_Multisite.php:259
+msgid "SMTP Host"
+msgstr "SMTP host"
+
+#: include/Check_Email_SMTP_Tab.php:313
+#: include/Core/Check_Email_Multisite.php:253
+msgid "From Name"
+msgstr "Van naam"
+
+#: check-email.php:208
+msgid " Support"
+msgstr " Ondersteuning"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:338
+msgid "Message not sent. please check your network connection"
+msgstr "Bericht niet verzonden. Controleer je netwerkverbinding"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:337
+msgid "Message sent successfully, Please wait we will get back to you shortly"
+msgstr "Bericht succesvol verzonden, Even geduld We zullen zo spoedig mogelijk contact met je opnemen"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:334
+msgid "Send Support Request"
+msgstr "Ondersteuningsverzoek verzenden"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:330
+msgid "Query"
+msgstr "Query"
+
+#: include/Core/UI/Page/Check_Email_Analyzer.php:160
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:324
+msgid "Email"
+msgstr "E-mail"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:319
+msgid "We will reply to your email address shortly"
+msgstr "We zullen binnenkort antwoorden op je e-mailadres"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:319
+msgid "If you have any query, please write the query in below box or email us at"
+msgstr "Als je vragen hebt, schrijf ze dan in onderstaande box of e-mail ons op"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:199
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:200
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:272
+msgid "Help & Support"
+msgstr "Hulp & ondersteuning"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: check-email.php
+msgid "https://check-email.tech/"
+msgstr "https://check-email.tech/"
+
+#. Author of the plugin
+#: check-email.php
+msgid "checkemail"
+msgstr "checkemail"
+
+#: include/Core/Check_Email_Multisite.php:135
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:746
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:429
+msgid "Check this box if you would like override wordpress default from email and name."
+msgstr "Vink dit vakje aan als je de standaard WordPress e-mail en naam wil overschrijven."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:33
+msgid "Change the \"from\" email."
+msgstr "Verander de \"van\" e-mail."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:32
+msgid "Change the \"from\" name."
+msgstr "Verander de \"van\" naam."
+
+#: include/Core/Check_Email_Multisite.php:129
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:31
+msgid "Override Emails From"
+msgstr "E-mails overschrijven van"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:273
+msgid "Suggest a feature"
+msgstr "Een functie voorstellen"
+
+#: include/Check_Email_SMTP_Tab.php:211
+#: include/Core/Check_Email_Multisite.php:99
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:267
+msgid "SMTP"
+msgstr "SMTP"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:266
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:283
+msgid "Logging"
+msgstr "Loggen"
+
+#: include/Core/Check_Email_Multisite.php:98
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:265
+msgid "General"
+msgstr "Algemeen"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:96
+msgid "\\r\\n"
+msgstr "\\r\\n"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:95
+msgid "\\n"
+msgstr "\\n"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:69
+msgid "Content-Type: %s"
+msgstr "Inhoud type: %s"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:68
+msgid "From: %s"
+msgstr "Van: %s"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:67
+msgid "MIME-Version: %s"
+msgstr "MIME versie: %s"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:50
+msgid "Content-Type:"
+msgstr "Inhoud type:"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:47
+msgid "CharSet:"
+msgstr "CharSet:"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:44
+msgid "Port:"
+msgstr "Poort:"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:41
+msgid "Host:"
+msgstr "Host:"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:38
+msgid "SendMail path:"
+msgstr "SendMail pad:"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:35
+msgid "Mailer:"
+msgstr "Mailer:"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:575
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:258
+msgid "Note"
+msgstr "Notitie"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:124
+msgid "Headers"
+msgstr "Headers"
+
+#: check-email.php:59
+msgid "Check & Log Email requires at least PHP 5.6 to function properly. Please upgrade PHP."
+msgstr "Check & Log Email vereist ten minste PHP 5.6 om goed te functioneren. Gelieve PHP te upgraden."
+
+#: include/Core/Check_Email_Export_Log.php:354
+#: include/Core/Check_Email_Export_Log.php:366
+#: include/Core/UI/Component/Check_Email_Dashboard_Widget.php:37
+#: include/Core/UI/Page/Check_Email_Analyzer.php:376
+msgid "Status"
+msgstr "Status"
+
+#: include/Core/UI/Page/Check_Email_Error_Tracker_list.php:110
+#: include/Core/UI/Page/Check_Email_Log_List_Page.php:83
+msgid "Entries per page"
+msgstr "Invoer per pagina"
+
+#: include/Core/UI/Page/Check_Email_Error_Tracker_list.php:80
+#: include/Core/UI/Page/Check_Email_Log_List_Page.php:65
+msgid "Search Logs"
+msgstr "Zoek logs"
+
+#: include/Core/UI/Component/Check_Email_Dashboard_Widget.php:38
+#: include/Core/UI/Page/Check_Email_Dashboard.php:76
+#: include/Core/UI/Page/Check_Email_Log_List_Page.php:29
+#: include/Core/UI/Page/Check_Email_Log_List_Page.php:30
+#: include/Core/UI/Page/Check_Email_Log_List_Page.php:60
+msgid "Email Logs"
+msgstr "E-mail logs"
+
+#: include/Check_Email_Encode_Tab.php:121
+#: include/Check_Email_Notify_Tab.php:381 include/Check_Email_SMTP_Tab.php:399
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:298
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:590
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:273
+msgid "Save"
+msgstr "Opslaan"
+
+#: check-email.php:207
+#: include/Core/UI/Component/Check_Email_Dashboard_Widget.php:39
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:190
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:191
+msgid "Settings"
+msgstr "Instellingen"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:705
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:388
+msgid "Check & Log Email: Your log threshold of %s has been met"
+msgstr "Check & Log Email: je log drempel van %s is voldaan"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:588
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:271
+msgid "Last notification email was sent on %1$s. Click %2$s button to reset sending the notification."
+msgstr "Laatste bericht e-mail is verzonden op %1$s. Klik op %2$s knop om het verzenden van het bericht te resetten."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:574
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:257
+msgid "%1$s There are %2$s email logs currently logged in the database."
+msgstr "%1$s Er zijn %2$s e-mail logs momenteel gelogd in de database."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:562
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:245
+msgid "Notify %1$s if there are more than %2$s logs."
+msgstr "Bericht %1$s als er meer dan %2$s logs zijn."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:518
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:201
+msgid "Check this box if you would like to enable dashboard widget."
+msgstr "Vink dit vakje aan als je dashboard widget wil inschakelen."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:473
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:156
+msgid "Check this box if you would like to completely remove all of its data when the plugin is deleted."
+msgstr "Vink dit aan als je alle gegevens volledig wil verwijderen wanneer de plugin wordt verwijderd."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:444
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:127
+msgid "Administrator always has access and cannot be disabled."
+msgstr "Beheerder heeft altijd toegang en kan niet worden uitgeschakeld."
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:427
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:146
+#: include/Core/UI/Setting/Check_Email_Core_Setting.php:110
+msgid "Administrator"
+msgstr "Beheerder"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:30
+msgid "Remove Data on Uninstall?"
+msgstr "Verwijder gegevens bij de-installatie?"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:35
+msgid "Database Size Notification"
+msgstr "Database grootte bericht"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:34
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:187
+msgid "Enable Dashboard Widget"
+msgstr "Schakel dashboard widget in"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:29
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:113
+msgid "Allowed User Roles"
+msgstr "Toegestane gebruikersrollen"
+
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:279
+msgid "Core Check Email Log Settings"
+msgstr "Core Check Email e-mail log instellingen"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:222
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:252
+msgid "Search by date"
+msgstr "Zoeken op datum"
+
+#: include/Core/UI/Component/Check_Email_Dashboard_Widget.php:29
+msgid "Total number of emails logged"
+msgstr "Totaal aantal gelogde e-mails"
+
+#: include/Core/UI/Component/Check_Email_Dashboard_Widget.php:15
+msgid "Check Email Summary"
+msgstr "Controleer de samenvatting van de e-mail"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:383
+msgid "email log deleted."
+msgstr "e-mail log verwijderd."
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:379
+msgid "There was some problem in deleting the email logs"
+msgstr "Er was een probleem bij het verwijderen van de e-mail logs"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:215
+#: include/Core/Request/Check_Email_Log_List_Action.php:280
+#: include/Core/Request/Check_Email_Log_List_Action.php:507
+msgid "Close"
+msgstr "Sluiten"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:145
+msgid "Preview Content as HTML"
+msgstr "Voorbeeldinhoud als HTML"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:143
+msgid "Raw Email Content"
+msgstr "RAW e-mailinhoud"
+
+#: include/Util/helper.php:148
+msgid "Sent Status"
+msgstr "Verzonden status"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:93
+#: include/Core/Request/Check_Email_Log_List_Action.php:478
+#: include/Util/helper.php:146
+msgid "Reply To"
+msgstr "Antwoord aan"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:474
+#: include/Util/helper.php:145
+msgid "BCC"
+msgstr "BCC"
+
+#: include/Util/helper.php:141
+msgid "Attachment"
+msgstr "Bijlage"
+
+#: include/Core/Check_Email_Export_Log.php:340
+#: include/Core/Request/Check_Email_Log_List_Action.php:456
+#: include/Util/helper.php:140
+msgid "Message"
+msgstr "Bericht"
+
+#: include/Util/helper.php:136
+msgid "ID"
+msgstr "ID"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:224
+msgid "Your email log is empty"
+msgstr "Je e-mail log is leeg"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:166
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:195
+msgid "Delete All Logs"
+msgstr "Verwijder alle logs"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:97
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:165
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:115
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:194
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: include/Core/UI/list_table/Check_Email_Error_Tracker.php:78
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:82
+msgid "View Content"
+msgstr "Bekijk inhoud"
+
+#: include/Core/UI/list_table/Check_Email_Log_List_Table.php:81
+msgid "Email Content"
+msgstr "E-mailinhoud"
+
+#: include/Core/Check_Email_Export_Log.php:333
+#: include/Core/Request/Check_Email_Log_List_Action.php:82
+#: include/Core/Request/Check_Email_Log_List_Action.php:450
+#: include/Core/UI/Page/Check_Email_Analyzer.php:161
+#: include/Util/helper.php:139
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: include/Core/Check_Email_Export_Log.php:326
+#: include/Core/Request/Check_Email_Log_List_Action.php:78
+#: include/Core/Request/Check_Email_Log_List_Action.php:443
+#: include/Util/helper.php:137
+msgid "To"
+msgstr "Naar"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:74
+#: include/Util/helper.php:142
+msgid "Sent at"
+msgstr "Verzonden op"
+
+#. Description of the plugin
+#: check-email.php
+msgid "Check & Log email allows you to test if your WordPress installation is sending emails correctly and logs every email."
+msgstr "Met CHECK & LOG e-mail kun je testen of je WordPress installatie e-mails correct verzendt en elke e-mail logt."
+
+#: include/Core/Check_Email_Multisite.php:65
+#: include/Core/Check_Email_Multisite.php:66
+#: include/Core/UI/Page/Check_Email_Dashboard.php:51
+#: include/Core/UI/Page/Check_Email_Error_Tracker_list.php:70
+#: include/Core/UI/Page/Check_Email_Error_Tracker_list.php:94
+#: include/Core/UI/Page/Check_Email_Log_List_Page.php:55
+#: include/Core/UI/Page/Check_Email_Settings_Page.php:255
+#: include/Core/UI/Page/Check_Email_Status_Page.php:37
+#: include/Core/UI/Page/Check_Email_Status_Page.php:38
+#: include/Core/UI/Page/Check_Email_Status_Page.php:61
+#: include/Core/UI/Page/Check_Email_Wizard_Page.php:60
+msgid "Check & Log Email"
+msgstr "Check & Log Email"
+
+#: include/Core/Check_Email_Review.php:69
+msgid "Don't show again"
+msgstr "Niet opnieuw tonen"
+
+#: include/Core/Check_Email_Review.php:68
+msgid "Remind me later"
+msgstr "Herinner me later"
+
+#: include/Core/Check_Email_Review.php:67
+msgid "Rate the plugin"
+msgstr "Waardeer de plugin"
+
+#: include/Core/Check_Email_Review.php:66
+msgid "Hi there! Stoked to see you're using Check & Log Email for a few days now - hope you like it! And if you do, please consider rating it. It would mean the world to us.  Keep on rocking!"
+msgstr "Hallo daar! Blij om te zien dat je Check & Log Email nu een paar dagen gebruikt - ik hoop dat je het leuk vindt! En als je dat doet, overweeg dan om het te waarderen. Het zou alles voor ons betekenen. Blijf rocken!"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:104
+msgid "Send test email"
+msgstr "Verstuur test e-mail"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:103
+msgid "Send"
+msgstr "Versturen"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:94
+msgid "Header line break type"
+msgstr "Type header regel einde"
+
+#: include/Core/Request/Check_Email_Log_List_Action.php:470
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:90
+#: include/Util/helper.php:144
+msgid "CC"
+msgstr "CC"
+
+#: include/Check_Email_SMTP_Tab.php:307
+#: include/Core/Check_Email_Export_Log.php:319
+#: include/Core/Check_Email_Multisite.php:247
+#: include/Core/Request/Check_Email_Log_List_Action.php:86
+#: include/Core/Request/Check_Email_Log_List_Action.php:465
+#: include/Core/UI/Page/Check_Email_Analyzer.php:159
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:86
+#: include/Util/helper.php:138 include/Util/helper.php:143
+msgid "From"
+msgstr "Van"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:82
+msgid "Content type"
+msgstr "Inhoudstype"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:78
+msgid "MIME Version"
+msgstr "MIME versie"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:76
+msgid "Set your custom headers below"
+msgstr "Stel hieronder je aangepaste headers in"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:72
+msgid "Use custom headers"
+msgstr "Gebruik aangepaste headers"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:62
+msgid "Use standard headers"
+msgstr "Gebruik standaard headers"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:56
+msgid "Send a test email"
+msgstr "Verstuur een test e-mail"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:32
+msgid "Current mail settings"
+msgstr "Huidige e-mail instellingen"
+
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:24
+msgid "Security check failed"
+msgstr "Beveiligingscontrole mislukt"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:130
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:115
+msgid "Click here"
+msgstr "Klik hier"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:129
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:114
+msgid "Help us build the next set of features for Check & Log Email. Tell us what you think and we will make it happen!"
+msgstr "Help ons bij het bouwen van de volgende set functies voor Check & Log Email. Vertel ons wat je ervan vindt en wij zorgen ervoor!"
+
+#: include/Core/UI/Page/Check_Email_Dashboard.php:125
+#: include/Core/UI/Page/partials/check-email-admin-status-display.php:111
+msgid "Suggest a new feature!"
+msgstr "Stel een nieuwe functie voor!"

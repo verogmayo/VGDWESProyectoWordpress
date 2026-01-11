@@ -1,3 +1,7 @@
+= 1.4.3 | 8th January 2026
+* Fix: Customizer Color Picker not working when on Tablet or Mobile settings
+* Fix: Theme archive layout issues with featured image disabled
+
 = 1.4.2 | 18th November 2025
 * Fix: Optimized group block removed the wide-width and full width layout options
 * Fix: Syntax error reported in theme.json

@@ -1,0 +1,481 @@
+# Translation of Plugins - AI Powered Starter Templates by Kadence WP - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - AI Powered Starter Templates by Kadence WP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-09-23 14:51:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - AI Powered Starter Templates by Kadence WP - Stable (latest release)\n"
+
+#: inc/class-import-depicter.php:36
+msgid "Importing Slider"
+msgstr "Slider importieren"
+
+#: inc/class-import-depicter.php:32
+msgid "No results for Slider Import"
+msgstr "Keine Ergebnisse für Slider Import"
+
+#: inc/class-import-depicter.php:32
+msgid "Slider Import ID:"
+msgstr "Slider Import ID:"
+
+#: class-kadence-starter-templates.php:1083
+msgid "Importing Content... Downloading images."
+msgstr "Inhalte importieren ... Herunterladen von Bildern."
+
+#: class-kadence-starter-templates.php:1082
+msgid "Importing Content... Creating pages."
+msgstr "Inhalte importieren ... Seiten erstellen."
+
+#: kadence-starter-templates.php:29
+msgid "The Kadence Starter templates plugin requires at least PHP 7.0 to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 7.0. We strongly encourage you to update to 7.3+"
+msgstr "Das Kadence Starter Templates Plugin benötigt mindestens PHP 7.0, um ordnungsgemäß zu funktionieren. Bitte wende dich an deinen Hosting-Anbieter und bitte diesen, die PHP-Version deiner Website auf mindestens PHP 7.0 zu aktualisieren. Wir empfehlen dir dringend, auf 7.3+ zu aktualisieren."
+
+#: inc/class-widget-importer.php:333
+msgid "No results for widget import!"
+msgstr "Kein Ergebnis beim Widget-Import!"
+
+#: inc/class-widget-importer.php:286
+msgid "No Title"
+msgstr "Kein Titel"
+
+#: inc/class-widget-importer.php:280
+msgid "Imported to Inactive"
+msgstr "Importiert in „Inaktive Widgets“"
+
+#: inc/class-widget-importer.php:211
+msgid "Widget already exists"
+msgstr "Das Widget ist bereits vorhanden"
+
+#: inc/class-widget-importer.php:178
+msgid "Site does not support widget"
+msgstr "Die Website unterstützt keine Widgets"
+
+#: inc/class-widget-importer.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr "Die Seitenleiste existiert im Theme nicht (Widgets werden in „Inaktive Widgets“ abgelegt)"
+
+#: inc/class-widget-importer.php:89
+msgid "Error: Widget import file could not be found."
+msgstr "Fehler: Widget-Import-Datei konnte nicht gefunden werden."
+
+#: inc/class-widget-importer.php:40 inc/class-widget-importer.php:52
+msgid "Importing widgets"
+msgstr "Widgets importieren"
+
+#: inc/class-template-database-importer.php:334
+#: inc/class-template-database-importer.php:364
+msgid "No template data"
+msgstr "Keine Template-Daten"
+
+#: inc/class-importer.php:589 inc/class-importer.php:813
+msgid "New AJAX call!"
+msgstr "Neuer AJAX-Aufruf!"
+
+#: inc/class-import-give.php:258
+msgid "Give data has been successfully imported."
+msgstr "Give-Daten wurden erfolgreich importiert."
+
+#: inc/class-import-give.php:233
+msgid "Error: Give import data could not be read. Please try a different file."
+msgstr "Fehler: Give-Import-Daten konnten nicht gelesen werden. Bitte versuche es mit einer anderen Datei."
+
+#: inc/class-import-give.php:143
+msgid "No results for Give import!"
+msgstr "Keine Ergebnisse für Give-Import!"
+
+#: inc/class-import-give.php:139 inc/class-import-give.php:149
+msgid "Importing Give Donations"
+msgstr "Give Spenden importieren"
+
+#: inc/class-import-give.php:91 inc/class-widget-importer.php:119
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr "Fehler: Die Widget-Import-Daten konnten nicht gelesen werden. Bitte versuche es mit einer anderen Datei."
+
+#: inc/class-import-give.php:53
+msgid "No results for Give Form import!"
+msgstr "Keine Ergebnisse beim Give-Formular-Import!"
+
+#: inc/class-import-give.php:49 inc/class-import-give.php:59
+msgid "Importing Give forms"
+msgstr "Give-Formulare importieren"
+
+#: inc/class-import-fluent.php:217 inc/class-widget-importer.php:276
+msgid "Imported"
+msgstr "Importiert"
+
+#: inc/class-import-fluent.php:212
+msgid "No results for form import!"
+msgstr "Keine Ergebnisse für Formular-Import!"
+
+#: inc/class-import-fluent.php:198
+msgid "You form has been successfully imported."
+msgstr "Dein Formular wurde erfolgreich importiert."
+
+#: inc/class-import-fluent.php:120 inc/class-import-fluent.php:135
+msgid "Error: Form import data could not be read. Please try a different file."
+msgstr "Fehler: Die Daten des Formular-Imports konnten nicht gelesen werden. Bitte versuche eine andere Datei."
+
+#: inc/class-import-fluent.php:95 inc/class-import-give.php:184
+#: inc/class-import-give.php:208
+msgid "Error: Form import file could not be found."
+msgstr "Fehler: Die Formularimportdatei konnte nicht gefunden werden."
+
+#: inc/class-import-fluent.php:48 inc/class-import-fluent.php:60
+msgid "Importing forms"
+msgstr "Importiere Formulare"
+
+#: inc/class-import-export-option.php:304
+msgid "Error importing settings! The settings you uploaded are not for the Kadence Theme."
+msgstr "Fehler beim Importieren der Einstellungen! Die Einstellungen, die du hochgeladen hast, sind nicht für das Kadence-Theme."
+
+#: inc/class-import-export-option.php:296
+#: inc/class-import-export-option.php:300
+msgid "Error importing settings! Please check that you uploaded a customizer export file."
+msgstr "Fehler beim Importieren von Einstellungen! Bitte überprüfe, ob du eine Customizer-Exportdatei hochgeladen hast."
+
+#: inc/class-import-export-option.php:276
+msgid "Error importing settings! Please try again."
+msgstr "Fehler beim Importieren der Einstellungen! Bitte versuche es erneut."
+
+#: inc/class-import-export-option.php:152
+#: inc/class-import-export-option.php:160
+msgid "Import/Export"
+msgstr "Importieren/Exportieren"
+
+#: inc/class-import-export-option.php:102
+msgid "Please choose a file to import."
+msgstr "Bitte wähle eine Datei zum Importieren"
+
+#: inc/class-import-export-option.php:101
+msgid ""
+"Attention! This will remove all customizations to this theme!\n"
+"\n"
+"This action is irreversible!"
+msgstr ""
+"Achtung! Dadurch werden alle Anpassungen an diesem Theme entfernt!\n"
+"\n"
+"Diese Aktion ist unumkehrbar!"
+
+#: inc/class-import-export-control.php:61
+msgid "Click the button to reset all theme settings."
+msgstr "Klicke auf den Button, um alle Theme-Einstellungen zurückzusetzen."
+
+#: inc/class-import-export-control.php:58
+#: inc/class-import-export-control.php:63
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: inc/class-import-export-control.php:53
+msgid "Uploading..."
+msgstr "Hochladen …"
+
+#: inc/class-import-export-control.php:47
+msgid "Upload a file to import customization settings for this theme."
+msgstr "Lade eine Datei hoch, um die Anpassungseinstellungen für dieses Theme zu importieren."
+
+#: inc/class-import-export-control.php:44
+#: inc/class-import-export-control.php:54
+msgid "Import"
+msgstr "Importieren"
+
+#: inc/class-import-export-control.php:37
+msgid "Click the button below to export the customization settings for this theme."
+msgstr "Klicke auf den Button unten, um die Anpassungseinstellungen für dieses Theme zu exportieren."
+
+#: inc/class-import-export-control.php:34
+#: inc/class-import-export-control.php:39
+msgid "Export"
+msgstr "Exportieren"
+
+#: inc/class-helpers.php:627 inc/class-helpers.php:628
+#: inc/class-helpers.php:629 inc/class-helpers.php:630
+msgid "not defined!"
+msgstr "nicht definiert!"
+
+#: inc/class-helpers.php:624
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s%1$sForm File:%1$s%6$s"
+msgstr "Dateiinfo:%1$sSite URL = %2$s%1$sDatendatei = %3$s%1$sWidget Datei = %4$s%1$sCustomizer Datei = %5$s%1$sFormular Datei:%1$s%6$s"
+
+#: inc/class-helpers.php:620
+msgid "Initial max execution time = %s"
+msgstr "Anfängliche maximale Ausführungszeit = %s"
+
+#: inc/class-helpers.php:600
+msgid "The import files were successfully uploaded!"
+msgstr "Die Importdateien wurden erfolgreich hochgeladen!"
+
+#: inc/class-helpers.php:589
+msgid "Redux file was not uploaded. Error: %s"
+msgstr "Die Redux-Datei wurde nicht hochgeladen. Fehler: %s"
+
+#: inc/class-helpers.php:571
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr "Der Name der Redux-Option fehlt! Bitte gib auch den Namen der Redux-Option ein!"
+
+#: inc/class-helpers.php:557
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr "Die Customizer-Datei wurde nicht hochgeladen. Fehler: %s"
+
+#: inc/class-helpers.php:539
+msgid "Widget file was not uploaded. Error: %s"
+msgstr "Die Widget-Datei wurde nicht hochgeladen. Fehler: %s"
+
+#: inc/class-helpers.php:525 inc/class-helpers.php:543
+#: inc/class-helpers.php:561 inc/class-helpers.php:573
+#: inc/class-helpers.php:593 inc/class-helpers.php:602
+msgid "Upload files"
+msgstr "Dateien hochladen"
+
+#: inc/class-helpers.php:521
+msgid "Content file was not uploaded. Error: %s"
+msgstr "Die Inhaltsdatei wurde nicht hochgeladen. Fehler: %s"
+
+#: inc/class-helpers.php:492
+msgid "No file provided."
+msgstr "Keine Datei vorhanden."
+
+#: inc/class-helpers.php:459
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr "%sDeine Benutzerrolle ist nicht hoch genug. Du hast nicht die Berechtigung, Demodaten zu importieren.%s"
+
+#: inc/class-helpers.php:425
+msgid "One Click Demo Import - "
+msgstr "Ein-Klick-Demo-Import – "
+
+#: inc/class-helpers.php:385
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr "Deine WordPress-Zugangsdaten erlauben es nicht, WP_Filesystem zu verwenden!"
+
+#: inc/class-helpers.php:377
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr "Beim Abrufen von Lese-/Schreibrechten auf deinem Server ist ein Fehler aufgetreten (WP-Dateisystem-Zugangsdaten konnten nicht abgerufen werden)!"
+
+#: inc/class-helpers.php:365
+msgid "Import Demo Data"
+msgstr "Demo-Daten importieren"
+
+#: inc/class-helpers.php:364
+msgid "One Click Demo Import"
+msgstr "One Click Demo Import"
+
+#: inc/class-helpers.php:353
+msgid "This WordPress page does not have %sdirect%s write file access. This plugin needs it in order to save the demo import xml file to the upload directory of your site. You can change this setting with these instructions: %s."
+msgstr "Diese WordPress-Seite hat keinen %sdirect%s Schreibzugriff auf die Datei. Das Plugin benötigt ihn, um die Demo-Import-xml-Datei im Upload-Verzeichnis deiner Website zu speichern. Du kannst diese Einstellung mit diesen Anweisungen ändern: %s."
+
+#: inc/class-helpers.php:329
+msgid "An error occurred while reading a file from your server! Tried reading file from path: %s%s."
+msgstr "Beim Lesen einer Datei von deinem Server ist ein Fehler aufgetreten! Es wurde versucht, eine Datei aus dem Pfad: %s%s zu lesen."
+
+#: inc/class-helpers.php:252 inc/class-helpers.php:295
+msgid "An error occurred while writing file to your server! Tried to write a file to: %s%s."
+msgstr "Beim Schreiben einer Datei auf deinen Server ist ein Fehler aufgetreten! Es wurde versucht, eine Datei zu schreiben: %s%s."
+
+#: inc/class-downloader.php:76
+msgid "An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - %6$s."
+msgstr "Beim Abrufen der Datei von: %1$s%2$s%3$s!%4$sGrund: %5$s - %6$s ist ein Fehler aufgetreten."
+
+#: inc/class-downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr "Fehlende URL für den Download!"
+
+#: inc/class-customizer-importer.php:115 inc/class-customizer-importer.php:226
+msgid "Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr "Fehler: Die Customizer-Import-Datei ist nicht passend für das aktuelle Theme. Du kannst Customizer-Einstellungen nur für dasselbe Theme oder ein Child-Theme importieren."
+
+#: inc/class-customizer-importer.php:109 inc/class-customizer-importer.php:220
+#: inc/class-customizer-importer.php:279
+msgid "Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr "Fehler: Die Customizer-Import-Datei liegt in einem inkorrekten Format vor. Bitte stell sicher, dass die Import-Datei das richtige Format hat."
+
+#: inc/class-customizer-importer.php:91 inc/class-customizer-importer.php:201
+#: inc/class-customizer-importer.php:260
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr "Fehler: Die Customizer-Import-Datei fehlt! Datei-Pfad: %s"
+
+#: inc/class-customizer-importer.php:41
+msgid "Customizer settings import finished!"
+msgstr "Import der Customizer-Einstellungen abgeschlossen!"
+
+#: inc/class-customizer-importer.php:34 inc/class-customizer-importer.php:43
+msgid "Importing customizer settings"
+msgstr "Customizer-Einstellungen importieren"
+
+#: inc/class-author-meta.php:180
+msgid "Please enter your BookBub url. (be sure to include https://)"
+msgstr "Bitte gib deine BookBub-URL ein. (Achte darauf, dass du https:// angibst)"
+
+#: inc/class-author-meta.php:171
+msgid "Please enter your Goodreads url. (be sure to include https://)"
+msgstr "Bitte gib deine Goodreads-URL ein. (Achte darauf, dass du https:// angibst)"
+
+#: inc/class-author-meta.php:162
+msgid "Please enter your Medium url. (be sure to include https://)"
+msgstr "Bitte gib deine Medium-URL ein. (Achte darauf, dass du https:// angibst)"
+
+#: inc/class-author-meta.php:153
+msgid "Please enter your Amazon url. (be sure to include https://)"
+msgstr "Bitte gib deine Amazon URL ein. (bitte unbedingt https:// angeben)"
+
+#: inc/class-author-meta.php:144
+msgid "Please enter your Pinterest url. (be sure to include https://)"
+msgstr "Bitte gib deine Pinterest-URL ein. (Achte darauf, dass du https:// angibst)"
+
+#: inc/class-author-meta.php:135
+msgid "Please enter your Dribbble url. (be sure to include https://)"
+msgstr "Bitte gib deine Dribbble-URL ein. (Achte darauf, dass du https:// angibst)"
+
+#: inc/class-author-meta.php:126
+msgid "Please enter your Linkedin url. (be sure to include https://)"
+msgstr "Bitte gib deine Linkedin-URL ein. (Achte darauf, dass du https:// angibst)"
+
+#: inc/class-author-meta.php:117
+msgid "Please enter your Vimeo url. (be sure to include https://)"
+msgstr "Bitte gib deine Vimeo-URL ein. (bitte unbedingt https:// angeben)"
+
+#: inc/class-author-meta.php:108
+msgid "Please enter your Flickr url. (be sure to include https://)"
+msgstr "Bitte gib deine Flickr-URL ein. (bitte unbedingt https:// angeben)"
+
+#: inc/class-author-meta.php:99
+msgid "Please enter your YouTube url. (be sure to include https://)"
+msgstr "Bitte gib deine YouTube-URL ein. (bitte unbedingt https:// angeben)"
+
+#: inc/class-author-meta.php:90
+msgid "Please enter your Instagram url. (be sure to include https://)"
+msgstr "Bitte gib deine Instagram-URL ein. (bitte unbedingt https:// angeben)"
+
+#: inc/class-author-meta.php:80
+msgid "Please enter your Twitter url. (be sure to include https://)"
+msgstr "Bitte gib deine Twitter-URL ein. (bitte unbedingt https:// angeben)"
+
+#: inc/class-author-meta.php:71
+msgid "Please enter your Facebook url. (be sure to include https://)"
+msgstr "Bitte gib deine Facebook-URL ein. (Achte darauf, dass du https:// angibst)"
+
+#: inc/class-author-meta.php:62
+msgid "Please enter your Occupation."
+msgstr "Bitte gib deinen Beruf ein."
+
+#: inc/class-author-meta.php:57
+msgid "Occupation"
+msgstr "Beruf"
+
+#: inc/class-author-meta.php:52
+msgid "Extra profile information for author box"
+msgstr "Zusätzliche Profilinformationen für die Autorenbox"
+
+#: class-kadence-starter-templates.php:2567
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sPlease check your php error logs if site is incomplete.%3$s"
+msgstr "%1$sDer Demo-Import ist abgeschlossen, aber es gab einige Importfehler.%2$sBitte überprüfe deine php-Fehlerprotokolle, wenn die Website unvollständig ist.%3$s"
+
+#: class-kadence-starter-templates.php:2556
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr "%1$sDer Demo-Import wurde abgeschlossen, aber es gab einige Importfehler.%2$sWeitere Details zu den Fehlern findest du in dieser %3$s%5$slog-Datei%6$s%4$s%7$s"
+
+#: class-kadence-starter-templates.php:2548
+msgid "%1$sFinished! View your site%2$s"
+msgstr "%1$sFertig! Rufe deine Website auf%2$s"
+
+#: class-kadence-starter-templates.php:2540
+msgid "%1$sFinished! View your page%2$s"
+msgstr "%1$sFertig! Deine Seite anzeigen%2$s"
+
+#: class-kadence-starter-templates.php:1836
+#: class-kadence-starter-templates.php:2199
+#: class-kadence-starter-templates.php:2232
+#: class-kadence-starter-templates.php:2426
+#: class-kadence-starter-templates.php:2458
+msgid "No import files specified!"
+msgstr "Keine Importdateien angegeben!"
+
+#: class-kadence-starter-templates.php:1827
+#: class-kadence-starter-templates.php:2223
+#: class-kadence-starter-templates.php:2449
+msgid "The import files for: %s were successfully downloaded!"
+msgstr "Die Importdateien für: %s wurden erfolgreich heruntergeladen!"
+
+#: class-kadence-starter-templates.php:1820
+#: class-kadence-starter-templates.php:1831
+#: class-kadence-starter-templates.php:2216
+#: class-kadence-starter-templates.php:2227
+#: class-kadence-starter-templates.php:2442
+#: class-kadence-starter-templates.php:2453
+msgid "Downloaded files"
+msgstr "Heruntergeladene Dateien"
+
+#: class-kadence-starter-templates.php:1102
+msgid "Config Kadence Starter Templates"
+msgstr "Kadence Starter Templates konfigurieren"
+
+#: class-kadence-starter-templates.php:1086
+msgid "Importing Customizer Settings..."
+msgstr "Customizer-Einstellungen importieren ..."
+
+#: class-kadence-starter-templates.php:1085
+msgid "Importing Widgets..."
+msgstr "Widgets importieren ..."
+
+#: class-kadence-starter-templates.php:1084
+msgid "Importing Content... Still Importing."
+msgstr "Inhalte importieren ... Ich importiere noch."
+
+#: class-kadence-starter-templates.php:1081
+msgid "Importing Content..."
+msgstr "Inhalte importieren ..."
+
+#: class-kadence-starter-templates.php:1080
+msgid "Checking/Installing/Activating Required Plugins"
+msgstr "Erforderliche Plugins prüfen/installieren/aktivieren"
+
+#: class-kadence-starter-templates.php:1079
+msgid "Getting Started"
+msgstr "Jetzt loslegen"
+
+#: class-kadence-starter-templates.php:1078
+msgid "Removing Past Imported Content"
+msgstr "Entfernen von früher importierten Inhalten"
+
+#: class-kadence-starter-templates.php:1076
+msgid "Please Note: Full site importing is designed for new/empty sites with no content. Your site customizer settings, widgets, menus will all be overridden."
+msgstr "Bitte beachte: Der vollständige Website-Import ist für neue/leere Websites ohne Inhalt gedacht. Deine Einstellungen im Site Customizer, Widgets und Menüs werden überschrieben."
+
+#: class-kadence-starter-templates.php:706
+msgid "Starter Templates"
+msgstr "Starter-Templates"
+
+#: class-kadence-starter-templates.php:705
+msgid "Starter Templates by Kadence WP"
+msgstr "Starter Templates von Kadence WP"
+
+#: class-kadence-starter-templates.php:695
+msgid "View Template Library"
+msgstr "Template-Bibliothek anzeigen"
+
+#: class-kadence-starter-templates.php:665
+msgid "Unserializing instances of the class is forbidden."
+msgstr "Es ist verboten, Instanzen dieser Klasse zu deserialisieren."
+
+#: class-kadence-starter-templates.php:654
+msgid "Cloning instances of the class is forbidden."
+msgstr "Ein Klonen von Instanzen dieser Klasse ist verboten."
+
+#. Author URI of the plugin
+msgid "https://kadencewp.com/"
+msgstr "https://kadencewp.com/"
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr "Kadence WP"
+
+#. Description of the plugin
+msgid "Choose the prebuilt website and click to import."
+msgstr "Wähle die vorgefertigte Website aus und klicke zum Importieren."
+
+#. Plugin Name of the plugin
+msgid "Kadence Starter Templates"
+msgstr "Kadence Starter Templates"
